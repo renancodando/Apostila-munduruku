@@ -29,6 +29,9 @@
       "classes_nominais_e_posse": "tabelas 1.2-1.3, pagina impressa 22; PDF 41",
       "pronomes_livres_e_cliticos": "tabela 1.6, pagina impressa 24; PDF 43; tabela 4.1 e exemplo 1, pagina impressa 121; PDF 140",
       "diagnosticos_de_clitico": "secao 1.1.5.1, exemplos 1-4, paginas impressas 26-28; PDF 45-47",
+      "possuidor_lexical_e_relacionais": "secao 1.2.1, exemplos 9-12 e tabela 1.7, paginas impressas 32-35; PDF 51-54",
+      "objetos_de_posposicao": "secao 1.1.2, tabelas 1.4-1.5, paginas impressas 23-24; PDF 42-43; secao 1.2.2, exemplo 13, pagina impressa 35; PDF 54",
+      "alomorfia_relacional": "secao 1.2.4, exemplos 17-21 e tabela 1.9, paginas impressas 38-41; PDF 57-60",
       "inalienaveis": "secao 3.1.1, tabela 3.1, paginas impressas 88-89; PDF 107-108",
       "alienaveis": "secao 3.1.2, tabela 3.2, paginas impressas 90-91; PDF 109-110"
     },
@@ -36,7 +39,12 @@
       "bio o=y-aoka kapusu / õn bio o=y-aoka kapusu",
       "Biboy d-op / o=d-op",
       "o=Ø-ba / oba",
-      "paradigmas de -xi, -dao, op e kobe"
+      "paradigmas de -xi, -dao, op e kobe",
+      "Biboy d-uk'a / o=d-uk'a / t-uk'a",
+      "Biboy Ø-kay / o=Ø-kay / ce-kay",
+      "o=Ø-webe / cebe / *cewebe",
+      "waẽn t-uk Ø-'a",
+      "t-dao → tao e paradigmas de -a'õ e kobe"
     ],
     "nota": "As formas correntes, segmentacoes, glossas e traducoes devem permanecer em linhas separadas; os PDFs de terceiros nao integram a distribuicao."
   }

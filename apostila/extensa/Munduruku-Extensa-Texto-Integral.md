@@ -1713,6 +1713,615 @@ Se só houver uma entrada de dicionário, registre “classe não determinada”
 
 ---
 
+# 21. Possuidor lexical e contiguidade
+
+## O possuidor pode ser uma palavra plena
+
+Nos capítulos anteriores, a posse foi apresentada principalmente com os clíticos **o=, wuy=, oce=, e=, ey=** e **je=**. Gomes (2006, 1.1.5.1 e 1.2.1) mostra que a posição de possuidor também pode ser ocupada por um sintagma nominal lexical, como o nome próprio **Biboy**. A comparação é importante porque revela duas camadas distintas:
+
+- o possuidor, expresso por um nome pleno ou por um clítico pessoal;
+- o prefixo relacional no nome possuído.
+
+O prefixo relacional não substitui o possuidor. Ele registra a relação entre o possuidor e o núcleo possuído.
+
+## O par central: Biboy d-op e o=d-op
+
+Gomes apresenta o seguinte contraste:
+
+**Biboy d-op**
+
+Biboy R1-flecha
+
+‘flecha de Biboy’
+
+**o=d-op**
+
+1=R1-flecha
+
+‘minha flecha’
+
+Em ambas as construções, **op** ‘flecha’ pertence à classe IIb e recebe **d-**, o relacional de contiguidade R1. O que muda é a natureza do possuidor:
+
+| construção | possuidor | relacional | núcleo |
+|---|---|---|---|
+| **Biboy d-op** | nome lexical **Biboy** | **d-** | **op** |
+| **o=d-op** | clítico de pessoa **o=** | **d-** | **op** |
+
+Esse paralelo é uma das evidências usadas por Gomes para analisar **o=** como elemento separado do nome, e não como prefixo integrado à base. O relacional aparece entre o possuidor e o núcleo tanto com o nome pleno quanto com o clítico.
+
+## Contiguidade é uma relação estrutural
+
+Neste domínio, “contíguo” não significa apenas “perto na página”. Significa que possuidor e possuído formam a construção sintática relevante, com o determinante imediatamente associado ao núcleo. R1 marca essa dependência.
+
+A sequência didática é:
+
+1. localizar o núcleo possuído;
+2. localizar o possuidor;
+3. identificar o relacional que abre o núcleo;
+4. verificar a classe morfológica do núcleo;
+5. só então traduzir a construção inteira.
+
+Em **Biboy d-op**, começar pela tradução “de Biboy” esconderia a informação de classe fornecida por **d-**. A análise morfológica deve preceder a paráfrase portuguesa.
+
+## Quatro classes, quatro comportamentos documentados
+
+Gomes (2006, exemplos 9–12) compara possuidores lexicais com bases de classes diferentes:
+
+| classe | construção atestada | análise | tradução |
+|---|---|---|---|
+| IIb | **Biboy d-uk'a** | Biboy R1-casa | casa de Biboy |
+| IIa | **Biboy Ø-dao** | Biboy R1-perna | perna de Biboy |
+| I | **Biboy Ø-ba** | Biboy R1-braço | braço de Biboy |
+| alienável | **Biboy Ø-e-kobe** | Biboy R1-ALIEN-canoa | canoa de Biboy |
+
+O possuidor lexical é o mesmo, mas a estrutura interna do nome varia. Isso impede uma regra superficial do tipo “acrescente **d-** depois do possuidor”. **d-** é R1 apenas na subclasse IIb. As classes I e IIa têm R1 zero no conjunto exemplificado; nomes alienáveis acrescentam ainda o alienador **e-**.
+
+## O símbolo Ø não apaga a relação
+
+Em **Biboy Ø-ba** e **Biboy Ø-dao**, R1 não tem realização sonora. O símbolo **Ø** pertence à análise, não à escrita corrente. Sua função é tornar comparáveis paradigmas em que a mesma posição estrutural recebe **d-** em uma classe e nenhuma forma audível em outra.
+
+Não se deve transformar **Ø** em som, letra ou pausa. Também não se deve concluir que “não há relação possessiva” apenas porque o relacional é zero.
+
+## O alienador continua presente
+
+Compare:
+
+**Biboy Ø-ba**
+
+Biboy R1-braço
+
+‘braço de Biboy’
+
+**Biboy Ø-e-kobe**
+
+Biboy R1-ALIEN-canoa
+
+‘canoa de Biboy’
+
+Na segunda construção, **e-** não indica pessoa e não é a preposição portuguesa “de”. Ele licencia a posse de um nome alienável. O possuidor é **Biboy**; R1 é zero; **e-** é o alienador; **kobe** é o núcleo lexical.
+
+## R1 não identifica uma pessoa
+
+O mesmo R1 aparece depois de **Biboy** e depois de **o=**. Portanto, R1 não significa “primeira pessoa” nem “Biboy”. Ele codifica a configuração de contiguidade. A pessoa, quando há clítico, é expressa pelo próprio clítico.
+
+Essa distinção evita três erros:
+
+- traduzir **d-** como “meu”;
+- tratar **Ø** como ausência de estrutura;
+- tratar **e-** alienador como clítico de segunda pessoa.
+
+## Leitura por camadas
+
+Use quatro perguntas para qualquer construção possessiva documentada:
+
+| pergunta | resposta em **Biboy Ø-e-kobe** |
+|---|---|
+| Quem é o possuidor? | **Biboy** |
+| Qual é o relacional? | R1 **Ø-** |
+| Há morfema de alienabilidade? | sim, **e-** |
+| Qual é o núcleo? | **kobe** ‘canoa’ |
+
+Essa leitura pode ser aplicada somente a formas cuja classe e segmentação tenham fonte. Uma palavra isolada de dicionário não autoriza escolher R1, R2 ou o alienador.
+
+## Atividades
+
+1. Separe possuidor, relacional e núcleo em **Biboy d-op**.
+2. Faça a mesma separação em **o=d-op**.
+3. O que permanece igual entre as duas construções?
+4. O que muda?
+5. Por que o par sustenta a análise de **o=** como clítico?
+6. Analise **Biboy d-uk'a**.
+7. Analise **Biboy Ø-dao**.
+8. Analise **Biboy Ø-ba**.
+9. Analise **Biboy Ø-e-kobe**.
+10. Por que **d-** não pode ser acrescentado a toda base possuída?
+11. O que o símbolo **Ø** informa nas análises?
+12. Diferencie o papel de R1 e o papel do possuidor.
+13. Diferencie **e-** alienador de **e=** segunda pessoa.
+14. Qual das quatro construções contém alienador?
+15. Um estudante traduz **d-** como “de”. Explique o problema.
+16. Que informação falta para formar a posse de uma entrada nova de dicionário?
+
+
+
+
+---
+
+# 22. Objetos de posposição
+
+## Posposição vem depois de seu objeto
+
+Gomes (2006, 1.1.2 e 1.2.2) descreve as posposições Munduruku como núcleos que exigem complemento. Esse complemento é chamado de **objeto da posposição**. A ordem é diferente da construção portuguesa com preposição: o objeto precede o núcleo posposicional.
+
+A posposição **kay** ‘para’ permite observar a mesma série pessoal já encontrada na posse:
+
+| pessoa do objeto | análise documentada | tradução aproximada |
+|---|---|---|
+| 1 | **o=Ø-kay** | para mim |
+| 12 | **wuy=Ø-kay** | para nós, inclusivo |
+| 13 | **oce=Ø-kay** | para nós, exclusivo |
+| 2 | **e=Ø-kay** | para você |
+| 23 | **ey=Ø-kay** | para vocês |
+| 3CORF | **je=Ø-kay** | para si mesmo |
+
+O clítico indica o objeto. **Ø-** é R1 e **kay** é o núcleo posposicional.
+
+## A mesma forma pessoal, outra função
+
+Compare **o=Ø-ba** ‘meu braço’ e **o=Ø-kay** ‘para mim’. O clítico **o=** tem a mesma forma, mas participa de relações diferentes:
+
+- diante do nome, funciona como possuidor;
+- diante da posposição, funciona como objeto da posposição.
+
+A tradução isolada “meu” ou “mim” não define o morfema. Sua função depende da classe do núcleo e da construção.
+
+## Objeto lexical contíguo
+
+O objeto também pode ser um nome pleno:
+
+**Biboy Ø-kay**
+
+Biboy R1-para
+
+‘para Biboy’
+
+O paralelo com **o=Ø-kay** repete a arquitetura vista na posse. O objeto lexical ou clítico vem antes; R1 abre o núcleo posposicional.
+
+| objeto | relacional | posposição | leitura |
+|---|---|---|---|
+| **Biboy** | **Ø-** | **kay** | para Biboy |
+| **o=** | **Ø-** | **kay** | para mim |
+
+R1 zero não é ausência de dependência. A relação continua marcada no paradigma analítico.
+
+## Objeto não contíguo e R2
+
+Gomes contrasta as formas anteriores com:
+
+**ce-kay**
+
+R2-para
+
+‘para ele’
+
+Aqui, o determinante de terceira pessoa não está contíguo à posposição. **ce-** é R2, não um pronome independente nem um clítico equivalente a “ele”. A tradução portuguesa precisa de um pronome, mas a análise Munduruku é relacional.
+
+O contraste mínimo é:
+
+| configuração | forma | análise |
+|---|---|---|
+| objeto contíguo | **Biboy Ø-kay** | objeto lexical + R1 + posposição |
+| objeto pessoal contíguo | **o=Ø-kay** | clítico + R1 + posposição |
+| objeto não contíguo | **ce-kay** | R2 + posposição |
+
+## As formas especiais de be
+
+Gomes registra que as posposições **be** ‘em’ e **eju** ‘com’ apresentam os alomorfes **webe** e **weju** quando o objeto é pronominal. A tabela 1.5 documenta o paradigma de **webe**:
+
+| pessoa | análise | tradução da fonte |
+|---|---|---|
+| 1 | **o=Ø-webe** | a mim |
+| 12 | **wuy=Ø-webe** | a nós, inclusivo |
+| 13 | **oce=Ø-webe** | a nós, exclusivo |
+| 2 | **e=Ø-webe** | a você |
+| 23 | **ey=Ø-webe** | a vocês |
+| 3CORF | **je=Ø-webe** | a si mesmo |
+
+O significado português “a” é a tradução apresentada na tabela; a descrição identifica **be** como ‘em’. Essa diferença lembra que equivalências variam conforme a construção e não devem ser transformadas em uma única preposição automática.
+
+## webe não é a forma de R2
+
+Quando **be** ocorre com o relacional de não contiguidade, Gomes registra **cebe**, e não a forma hipotética *cewebe. O contraste é decisivo:
+
+- objeto pronominal: **o=Ø-webe**;
+- R2: **ce-be**, forma corrente **cebe**;
+- forma rejeitada pela análise: ***cewebe**.
+
+O asterisco indica forma não aceita no contraste apresentado pela fonte. Ele não deve ser apagado ao copiar o exemplo, porque distingue dado de hipótese rejeitada.
+
+## Inclusivo e exclusivo continuam ativos
+
+**wuy=Ø-kay** e **oce=Ø-kay** não são intercambiáveis. A primeira inclui o interlocutor no grupo; a segunda o exclui. A função posposicional não neutraliza a diferença de pessoa aprendida nos capítulos anteriores.
+
+## Correferência continua dependendo de contexto
+
+**je=Ø-kay** é traduzido aproximadamente como ‘para si mesmo’. Só uma construção maior mostra qual participante é retomado. Não substitua **je=** por um pronome genérico de terceira pessoa.
+
+## Procedimento seguro de análise
+
+Ao encontrar uma forma posposicional:
+
+1. identifique o núcleo posposicional pela fonte;
+2. procure um objeto lexical ou clítico antes dele;
+3. separe o relacional R1 ou R2;
+4. verifique se há alomorfe especial condicionado pelo objeto pronominal;
+5. traduza a relação inteira;
+6. preserve a localização do exemplo.
+
+Não crie um paradigma novo apenas trocando **kay** por outra tradução portuguesa. Cada posposição pode ter comportamento próprio.
+
+## Atividades
+
+1. Qual é a função do clítico em **o=Ø-kay**?
+2. Separe as três camadas dessa forma.
+3. Analise **wuy=Ø-kay**.
+4. Analise **oce=Ø-kay** e explique a diferença para a forma anterior.
+5. Analise **Biboy Ø-kay**.
+6. O que **ce-** marca em **ce-kay**?
+7. Por que **ce-** não deve ser traduzido isoladamente como “ele”?
+8. Compare **o=Ø-ba** e **o=Ø-kay**.
+9. Qual é a forma documentada com primeira pessoa e o alomorfe **webe**?
+10. Qual contraste mostra que **webe** não é usado com R2?
+11. O que o asterisco em ***cewebe** informa?
+12. Qual diferença de referência existe entre **wuy=** e **oce=**?
+13. Como **je=** deve ser descrito?
+14. Por que não se pode formar automaticamente o paradigma de qualquer posposição?
+15. Monte uma ficha de análise para **e=Ø-kay**.
+16. Explique por que “objeto” aqui não significa necessariamente objeto físico.
+
+
+
+
+---
+
+# 23. R1, R2 e relações de dependência
+
+## Relacionais não são pronomes
+
+Gomes (2006, 1.2) analisa R1 e R2 como prefixos que marcam a relação entre um determinante e um núcleo. Eles aparecem em nomes, posposições e verbos, mas não expressam por si sós uma pessoa gramatical.
+
+Neste estágio, a distinção operacional é:
+
+- **R1**: o determinante está contíguo ao núcleo na construção relevante;
+- **R2**: o determinante existe na interpretação, mas não está contíguo ao núcleo.
+
+“Contíguo” e “não contíguo” descrevem configuração morfossintática, não distância física entre referentes.
+
+## Uma arquitetura comum
+
+As três classes compartilham um esquema abstrato:
+
+| domínio | determinante | núcleo |
+|---|---|---|
+| nome | possuidor | nome possuído |
+| posposição | objeto | posposição |
+| verbo transitivo | objeto | verbo |
+| verbo estativo | sujeito | verbo |
+
+R1 ou R2 aparece no núcleo e informa a relação com seu determinante. Este capítulo concentra a prática em nomes e posposições; os usos verbais serão aprofundados na parte de predicação.
+
+## R1 com determinante lexical
+
+Compare dados atestados:
+
+**Biboy d-uk'a**
+
+Biboy R1-casa
+
+‘casa de Biboy’
+
+**Biboy Ø-ba**
+
+Biboy R1-braço
+
+‘braço de Biboy’
+
+**Biboy Ø-kay**
+
+Biboy R1-para
+
+‘para Biboy’
+
+Os três têm determinante lexical contíguo. A realização de R1 muda conforme a classe: **d-** em **uk'a**, zero em **ba** e zero em **kay**.
+
+## R1 com clítico
+
+O determinante também pode ser um clítico:
+
+- **o=d-uk'a** ‘minha casa’;
+- **o=Ø-ba** ‘meu braço’;
+- **o=Ø-kay** ‘para mim’.
+
+O sinal **=** separa o clítico; o hífen separa o prefixo relacional da base. Essa notação evita fundir duas categorias:
+
+**o=** pessoa 1 | **d-/Ø-** R1 | base
+
+Na forma corrente, as fronteiras podem não ser escritas. A análise as recupera com apoio do paradigma.
+
+## R2 sem determinante contíguo
+
+As contrapartes documentadas são:
+
+| núcleo/classe | R2 + base | tradução aproximada |
+|---|---|---|
+| **uk'a**, classe IIb | **t-uk'a** | casa dele |
+| **dao**, classe IIa | **t-dao → tao** | perna dele |
+| **ba**, classe I | **i-ba** | braço dele |
+| **kobe**, alienável | **ce-e-kobe** | canoa dele |
+| **kay**, posposição | **ce-kay** | para ele |
+
+As traduções portuguesas repetem “dele/ele”, mas as formas Munduruku não constituem um único pronome de terceira pessoa. Elas selecionam R2 segundo a classe do núcleo.
+
+## Classes relacionais
+
+Gomes resume os nomes e temas relevantes assim:
+
+| classe | R1 | R2 | exemplo |
+|---|---|---|---|
+| I | **Ø-** | **i-** e alomorfes condicionados | **Ø-ba / i-ba** |
+| IIa | **Ø-** | **t-** | **Ø-dao / t-dao → tao** |
+| IIb | **d-** | **t-** | **d-uk'a / t-uk'a** |
+| alienáveis | **Ø-** | **ce-** | **Ø-e-kobe / ce-e-kobe** |
+| posposição exemplificada | **Ø-** | **ce-** | **Ø-kay / ce-kay** |
+
+Essa tabela é um mapa de análise, não uma licença para gerar formas de bases não classificadas.
+
+## R2 não significa ausência absoluta
+
+Em **t-uk'a**, o possuidor não está contíguo ao nome, mas a tradução recupera uma casa associada a alguém. R2 indica que o determinante relevante não está dentro da configuração contígua marcada por R1.
+
+Por isso, “sem possuidor” é uma descrição inadequada. A oposição correta é entre determinante contíguo e determinante não contíguo.
+
+## R1 também pode sofrer condicionamento
+
+Na classe IIb, Gomes registra **d-** como R1 diante de **uk'a** e **op**. Uma nota acrescenta que esse relacional assume **t-** depois de consoante, como no exemplo:
+
+**waẽn t-uk Ø-'a**
+
+forno R1-casa R1-NFC
+
+‘a casa do forno’
+
+O **t-** desse exemplo continua sendo R1, apesar de ter a mesma forma segmental do R2 da classe II. A função não pode ser determinada olhando apenas uma letra; é necessário observar o ambiente e a construção.
+
+## Forma igual, função diferente
+
+Compare:
+
+- **t-uk'a** ‘casa dele’: **t-** é R2;
+- **waẽn t-uk...** ‘casa do forno’: **t-** é R1 condicionado por consoante anterior.
+
+Essa oposição é uma advertência metodológica. Uma análise confiável usa:
+
+1. a classe da base;
+2. a presença ou ausência de determinante contíguo;
+3. o ambiente fonológico;
+4. o paradigma e a localização na fonte.
+
+## Prefixo relacional versus clítico pessoal
+
+Gomes destaca diferenças importantes:
+
+- clíticos pessoais são elementos fronteiriços e podem participar de diferentes sintagmas;
+- relacionais são prefixos integrados ao tema;
+- relacionais apresentam alomorfia complexa;
+- relacionais não se limitam ao mesmo contexto aspectual dos clíticos verbais.
+
+Para leitura nominal e posposicional, a prova mais simples continua sendo a ordem **clítico=R-base**.
+
+## Atividades
+
+1. Defina R1 sem usar a palavra “perto”.
+2. Defina R2 sem dizer “não tem possuidor”.
+3. Qual é o determinante em **Biboy d-uk'a**?
+4. Qual é a estrutura de **o=d-uk'a**?
+5. Compare **Biboy Ø-ba** e **i-ba**.
+6. Compare **Biboy Ø-kay** e **ce-kay**.
+7. Por que **i-**, **t-** e **ce-** não são três pronomes?
+8. Qual par caracteriza a classe IIb?
+9. Qual par caracteriza a classe IIa?
+10. Qual camada adicional aparece em nomes alienáveis?
+11. Explique **t-dao → tao**.
+12. Em **waẽn t-uk Ø-'a**, qual é a função de **t-**?
+13. Por que a forma **t-** não basta para decidir entre R1 e R2?
+14. O que os sinais **=** e **-** distinguem?
+15. Um estudante chama R2 de “terceira pessoa”. Corrija.
+16. Liste as quatro informações mínimas para analisar uma forma relacional.
+
+
+
+
+---
+
+# 24. Ajustes morfofonológicos relacionais
+
+## A forma corrente pode esconder fronteiras
+
+Morfemas vizinhos podem sofrer ajustes quando são realizados. A análise morfofonológica procura explicar por que a forma corrente não é uma simples concatenação visível de peças.
+
+Neste capítulo, cada ajuste é limitado ao paradigma ou exemplo registrado por Gomes (2006, 1.1.1, 1.2.1 e 1.2.4). As regras não devem ser estendidas a palavras novas sem documentação.
+
+## Três níveis de registro
+
+Mantenha três linhas:
+
+1. **análise morfológica**: mostra as unidades;
+2. **forma corrente**: mostra o resultado atestado;
+3. **interpretação**: traduz a construção.
+
+Exemplo:
+
+**t-dao → tao**
+
+**tao**
+
+‘perna dele’
+
+A seta descreve uma correspondência analítica. Ela não faz parte da palavra.
+
+## Fusão de t- com base iniciada por d
+
+Na classe IIa, a base **dao** ‘perna’ tem R1 zero e R2 **t-**. Gomes analisa:
+
+**t-dao → tao**
+
+O /d/ inicial da base é ensurdecido na combinação, e o resultado apresentado é **tao**. Não se deve segmentar **tao** como *ta-o nem concluir que a base seja **ao**: Gomes registra **dao** e observa que *ao é forma inexistente nesse contraste.
+
+O paradigma oferece a evidência:
+
+- **o=Ø-dao** ‘minha perna’;
+- **Biboy Ø-dao** ‘perna de Biboy’;
+- **t-dao → tao** ‘perna dele’.
+
+## R1 d- depois de consoante
+
+Na classe IIb, R1 é **d-** diante das bases vocálicas **uk'a** e **op**. Gomes registra que, depois de consoante, o relacional assume **t-**:
+
+**waẽn t-uk Ø-'a**
+
+forno R1-casa R1-NFC
+
+‘a casa do forno’
+
+O ponto central é funcional: esse **t-** é R1 porque o determinante **waẽn** está contíguo. A forma sonora coincide com R2, mas a relação não.
+
+## Ajustes diante de vogal em -a'õ
+
+No paradigma do nome **-a'õ** ‘voz’, Gomes apresenta:
+
+| pessoa | análise | forma resultante na tabela |
+|---|---|---|
+| 1 | **o=Ø-a'õ** | **wa'õ** |
+| 2 | **e=Ø-a'õ** | **a'õ** |
+| 13 | **oce=Ø-a'õ** | **oca'õ** |
+| 12 | **wuy=Ø-a'õ** | **wuya'õ** |
+| 23 | **ey=Ø-a'õ** | **eya'õ** |
+| 3CORF | **je=Ø-a'õ** | **ja'õ** |
+| R2 | **y-a'õ** | **ya'õ** |
+
+Gomes explica que, diante de vogal, **e** desaparece e **o** e **i** tornam-se assilábicos no conjunto discutido. A tabela deve ser aprendida como paradigma atestado. Ela não autoriza apagar toda vogal **e** diante de qualquer vogal na língua.
+
+## Ajustes com o alienador e-
+
+No nome alienável **kobe** ‘canoa’, o alienador **e-** combina-se com os marcadores pessoais:
+
+- **o + e → we**;
+- **e + e → e**;
+- **je + e → je**;
+- **oce + e → oce**;
+- **ey + e → eye**.
+
+As formas documentadas incluem **wekobe, ekobe, jekobe, ocekobe** e **eyekobe**. A primeira pessoa plural inclusiva aparece como **wuyekobe**.
+
+O objetivo não é decorar uma operação isolada, mas reconstruir as camadas:
+
+**o=Ø-e-kobe → wekobe**
+
+1=R1-ALIEN-canoa
+
+‘minha canoa’
+
+## ce-e-kobe e a representação reduzida
+
+Com R2, Gomes registra **c(e)-e-kobe**, realizado como **cekobe**. A notação indica interação entre o alomorfe relacional **ce-** e o alienador **e-**. Para estudo, conserve a análise **ce-e-kobe** e a forma corrente **cekobe** em colunas separadas.
+
+Não confunda:
+
+- **e=**: clítico de pessoa 2;
+- **e-**: alienador;
+- **ce-**: R2 de alienáveis e posposições no conjunto estudado.
+
+Uma forma como **ekobe** pode condensar mais de uma unidade analítica. O paradigma é necessário para recuperar as fronteiras.
+
+## y- como R2 diante de vogal não anterior
+
+Na seção 1.2.4, Gomes registra **y-** como alomorfe obrigatório de R2 diante de vogal não anterior, no ambiente descrito para temas verbais polissilábicos. Um exemplo atestado é:
+
+**bio o=y-aoka**
+
+anta 1S=R2-matar.PRF
+
+‘Matei a anta.’
+
+Este exemplo serve aqui para reconhecimento do alomorfe. O sistema verbal, o perfectivo e a seleção de sujeito/objeto serão ensinados posteriormente. Não use **y-** para criar formas nominais novas.
+
+## Alomorfia verbal: reconhecer sem produzir
+
+Gomes lista ainda alomorfes de R2 **jo-, ju-, su-** e uma forma nasal representada fonologicamente na tese, todos condicionados por propriedades do tema e pelo aspecto. Entre os exemplos documentados estão:
+
+- **o'=jo-a** em ‘o carapanã mordeu a criança’;
+- **o'=ju-'uk** em ‘o homem o tirou’;
+- **oce=su-iwat** em ‘nós o deixamos’, exclusivo;
+- o exemplo com o verbo ‘dar’, no qual a fonte registra um alomorfe nasal de R2 depois do marcador pessoal.
+
+Essas formas não constituem um menu de prefixos intercambiáveis. Neste ponto do curso, basta reconhecer que R2 da classe I tem alomorfia condicionada. A produção será retomada junto ao sistema verbal, quando aspecto, transitividade e estrutura do tema já tiverem sido apresentados.
+
+## Como evitar segmentação por aparência
+
+Use o teste em quatro passos:
+
+1. encontre a forma básica documentada;
+2. compare pelo menos duas linhas do paradigma;
+3. identifique a classe e a função relacional;
+4. registre a operação apenas se a fonte a sustentar.
+
+Aplicação a **tao**:
+
+- base documentada: **dao**;
+- forma com R1: **o=Ø-dao**;
+- classe: IIa;
+- R2: **t-**;
+- análise sustentada: **t-dao → tao**.
+
+## Oficina cumulativa
+
+Classifique as seguintes relações sem criar formas novas:
+
+| forma | camadas principais |
+|---|---|
+| **wa'õ** | pessoa 1 + R1 + ‘voz’, com ajuste diante de vogal |
+| **tao** | R2 + **dao**, com fusão |
+| **wekobe** | pessoa 1 + R1 + alienador + **kobe** |
+| **cekobe** | R2 + alienador + **kobe** |
+| **cebe** | R2 + posposição **be** |
+| **o=Ø-webe** | objeto 1 + R1 + alomorfe pronominal de **be** |
+
+Observe que formas parecidas podem ter estruturas diferentes: **we-** em **wekobe** resulta da combinação com o alienador; **webe** é alomorfe posposicional condicionado por objeto pronominal.
+
+## Atividades
+
+1. Quais são os três níveis que devem ser registrados?
+2. Explique a análise **t-dao → tao**.
+3. Por que *ao não deve ser tratado como base?
+4. Em **waẽn t-uk Ø-'a**, **t-** é R1 ou R2? Por quê?
+5. Reconstrua as camadas de **wa'õ**.
+6. Qual forma da tabela corresponde a **e=Ø-a'õ**?
+7. Qual ajuste produz **wekobe**?
+8. Diferencie a análise de **ekobe** e a simples sequência gráfica.
+9. Analise **cekobe**.
+10. Diferencie **e=**, **e-** e **ce-**.
+11. Em que ambiente Gomes descreve **y-** no exemplo **o=y-aoka**?
+12. Por que **jo-, ju-** e **su-** não devem ser usados livremente?
+13. Compare **wekobe** e **webe**.
+14. A forma corrente sozinha basta para segmentar? Justifique.
+15. Aplique o teste de quatro passos a **tao**.
+16. Explique por que esta oficina privilegia reconhecimento antes de produção.
+
+
+
+
+---
+
 # 97. Repertório: Território, água, céu e fogo
 
 ## Distinções deste campo
@@ -4757,6 +5366,90 @@ No PDF e no texto integral gerados, as respostas são reunidas abaixo por capít
 16. É uma categoria morfossintática de posse, não uma afirmação jurídica ou física sobre o referente.
 
 
+## 21. Possuidor lexical e contiguidade
+
+
+1. **Biboy** é o possuidor lexical, **d-** é R1 e **op** é o núcleo ‘flecha’.
+2. **o=** é o possuidor clítico de primeira pessoa, **d-** é R1 e **op** é o núcleo.
+3. Permanecem R1 **d-**, a base **op** e a relação de contiguidade.
+4. Muda o tipo de possuidor: nome lexical na primeira e clítico pessoal na segunda.
+5. Porque R1 ocorre entre o clítico e o nome como ocorre entre um nome pleno e o nome possuído; **o=** não ocupa a posição interna do prefixo relacional.
+6. Possuidor **Biboy** + R1 **d-** + **uk'a** ‘casa’.
+7. Possuidor **Biboy** + R1 zero + **dao** ‘perna’.
+8. Possuidor **Biboy** + R1 zero + **ba** ‘braço’.
+9. Possuidor **Biboy** + R1 zero + alienador **e-** + **kobe** ‘canoa’.
+10. A realização de R1 depende da classe da base; **d-** caracteriza a subclasse IIb documentada.
+11. Informam que a posição relacional existe, mas não tem realização sonora nessa classe.
+12. R1 marca a dependência contígua; o possuidor fornece o referente que possui.
+13. **e-** integra a morfologia do nome alienável; **e=** é clítico pessoal de segunda pessoa.
+14. **Biboy Ø-e-kobe**.
+15. A tradução “de” confunde uma relação portuguesa com um morfema de classe e contiguidade. **d-** não expressa sozinho o possuidor.
+16. Faltam ao menos classe morfológica, comportamento com R1/R2, possibilidade de posse e fonte de uma construção atestada.
+
+
+## 22. Objetos de posposição
+
+
+1. Objeto de primeira pessoa da posposição.
+2. **o=** objeto pessoal + R1 **Ø-** + **kay** ‘para’.
+3. Objeto 12 inclusivo + R1 zero + posposição; ‘para nós’, incluindo interlocutor.
+4. Objeto 13 exclusivo + R1 zero + posposição; exclui o interlocutor.
+5. Objeto lexical **Biboy** + R1 zero + **kay**.
+6. R2: objeto/determinante não contíguo ao núcleo posposicional.
+7. Porque é prefixo relacional; a referência de terceira pessoa é recuperada da construção e do contexto.
+8. O clítico tem a mesma forma; com **ba** é possuidor nominal, com **kay** é objeto da posposição.
+9. **o=Ø-webe**.
+10. A fonte opõe **o=Ø-webe** a **cebe** e rejeita ***cewebe**.
+11. Marca uma forma rejeitada ou não atestada na análise, não uma forma para praticar como correta.
+12. **wuy=** inclui o interlocutor; **oce=** o exclui.
+13. Como clítico correferencial, aproximadamente ‘a/para si mesmo’, com antecedente definido em contexto maior.
+14. Porque forma, alomorfia e seleção de relacionais precisam ser documentadas para cada base.
+15. Objeto 2 **e=** + R1 zero + núcleo **kay**; tradução aproximada ‘para você’.
+16. É uma função sintática: o complemento exigido pela posposição pode referir-se a pessoa, lugar ou outra entidade.
+
+
+## 23. R1, R2 e relações de dependência
+
+
+1. R1 marca que determinante e núcleo constituem a relação sintática contígua relevante.
+2. R2 marca um determinante interpretado fora da configuração contígua com o núcleo.
+3. O nome lexical **Biboy**.
+4. Clítico de pessoa 1 **o=** + R1 **d-** + **uk'a** ‘casa’.
+5. A primeira tem possuidor lexical contíguo e R1 zero; a segunda tem R2 **i-**.
+6. A primeira tem objeto lexical contíguo e R1 zero; a segunda tem R2 **ce-**.
+7. São realizações relacionais condicionadas pela classe e pelo ambiente; não formam uma série pessoal independente.
+8. R1 **d-** e R2 **t-**, exemplificados por **uk'a** e **op**.
+9. R1 zero e R2 **t-**, com bases iniciadas por d/n como **dao**.
+10. O alienador **e-** entre o relacional e a base.
+11. R2 **t-** combina-se com **dao** e a sequência é realizada como **tao**.
+12. R1, condicionado pela consoante anterior.
+13. Porque **t-** pode realizar R2 ou um alomorfe condicionado de R1; a construção decide.
+14. **=** marca fronteira de clítico; **-** marca fronteira de afixo/base na análise.
+15. R2 codifica não contiguidade do determinante; a tradução de terceira pessoa é consequência contextual, não identidade morfológica.
+16. Classe da base, configuração do determinante, ambiente fonológico e paradigma/fonte.
+
+
+## 24. Ajustes morfofonológicos relacionais
+
+
+1. Análise morfológica, forma corrente e interpretação.
+2. R2 **t-** combina-se com a base **dao** e a realização atestada é **tao**.
+3. Porque Gomes registra **dao** como base e assinala *ao como inexistente nesse contraste.
+4. R1; o determinante lexical **waẽn** está contíguo, e a fonte descreve **t-** como forma de R1 após consoante.
+5. Pessoa 1 + R1 zero + **a'õ** ‘voz’, com ajuste de **o** diante da vogal inicial.
+6. **a'õ**.
+7. A combinação do clítico de primeira pessoa com o alienador **e-**, apresentada como **o + e → we**.
+8. A forma corrente resulta de pessoa 2, R1 e alienador diante de **kobe**; a aparência isolada não mostra todas as fronteiras.
+9. R2 **ce-** + alienador **e-** + **kobe**, com forma corrente **cekobe**.
+10. Clítico de segunda pessoa, morfema de alienabilidade e relacional R2, respectivamente.
+11. Diante de vogal não anterior, no ambiente verbal polissilábico descrito pela fonte.
+12. Porque sua seleção depende do tema, do aspecto e de outros ambientes morfofonológicos; não são variantes livres.
+13. **wekobe** resulta de pessoa + alienador em nome alienável; **webe** é forma da posposição **be** com objeto pronominal.
+14. Não. Fusões e alomorfia podem esconder morfemas; é necessário comparar o paradigma.
+15. Base **dao**; R1 documentado em **o=Ø-dao**; classe IIa; R2 **t-**; resultado **tao**.
+16. Porque reconhecer dados atestados reduz a chance de generalizar regras incompletas e fabricar formas.
+
+
 ## 97. Repertório: Território, água, céu e fogo
 
 
@@ -5729,7 +6422,7 @@ As explicações deste curso foram redigidas em sequência própria; não reprod
 
 ## Morfologia e sintaxe
 
-Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Os capítulos 17–20 usam as tabelas 1.2, 1.3, 1.6, 3.1, 3.2 e 4.1, além dos exemplos 1–4 da seção 1.1.5.1. A localização inclui páginas impressas 22–28, 88–91 e 121. Formas correntes, segmentações, glossas e traduções foram separadas; as explicações e atividades são originais desta edição.
+Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Os capítulos 17–20 usam as tabelas 1.2, 1.3, 1.6, 3.1, 3.2 e 4.1, além dos exemplos 1–4 da seção 1.1.5.1. Os capítulos 21–24 usam ainda as tabelas 1.4, 1.5, 1.7 e 1.9 e os exemplos 9–13, 17–21, com localização principal nas páginas impressas 23–24 e 32–41. Formas correntes, segmentações, glossas e traduções foram separadas; as explicações e atividades são originais desta edição.
 
 https://repositorio.unb.br/handle/10482/3754
 
@@ -5739,12 +6432,12 @@ https://www.scielo.br/j/bgoeldi/a/M9swfwRCmsmx8K4yQQjRdKJ/?lang=pt
 
 ## Conteúdo efetivamente concluído nesta etapa
 
-Há abertura, 20 capítulos de fundamentos e gramática inicial, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. Os capítulos 17–20 iniciam pessoa, referência, clíticos e classes possessivas com paradigmas documentados. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
+Há abertura, 24 capítulos de fundamentos e gramática inicial, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. Os capítulos 17–20 iniciam pessoa, referência, clíticos e classes possessivas com paradigmas documentados. Os capítulos 21–24 aprofundam possuidor lexical, objetos de posposição, R1/R2 e ajustes morfofonológicos sem estender paradigmas por analogia. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
 
 Os números reservados para partes gramaticais futuras não correspondem a páginas ou capítulos já escritos. O índice contém somente material presente. A meta de mil a duas mil páginas ainda não está alcançada. Este documento é uma etapa verificável da reconstrução, não a apostila final completa.
 
 ## Próximos lotes
 
-O próximo lote deverá aprofundar posse e flexão relacional nos capítulos 21–24: possuidor lexical, objetos de posposição, R1/R2 e ajustes morfofonológicos. A ampliação lexical deverá incorporar construções e novas fontes, sem transformar as correspondências de dicionário em frases inventadas.
+O próximo lote deverá desenvolver os capítulos 25–28 a partir do capítulo 3 de Gomes (2006): nomes de parte e parentesco, uso classificatório de nomes inalienáveis, produtividade dos nomes alienáveis e outros morfemas nominais. Cada exemplo deverá conservar sua localização e não se transformar em paradigma produtivo sem atestação.
 
 Continuam pendentes corpus amplo de leituras graduadas, áudio autorizado, instruções Munduruku validadas e revisão do conjunto por educadores ou falantes. Retirar traduções de itens conhecidos não será apresentado como imersão integral. Essas pendências são objetivos editoriais concretos, e não páginas a serem preenchidas com repetição.
