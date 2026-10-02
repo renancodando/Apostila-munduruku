@@ -11,7 +11,14 @@
     "palavras": 23343,
     "registros_lexicais_selecionados": 376
   },
-  "trabalho_ativo": null,
+  "trabalho_ativo": {
+    "lote": "C5",
+    "inicio": "2026-10-02T23:12:00Z",
+    "expira_em": "2026-10-03T01:42:00Z",
+    "responsavel": "automacao-apostila",
+    "base_commit": "62afec2a83f9f1366a91f4a0cb009b81d1a802db",
+    "objetivo": "Redigir, revisar e publicar os capítulos 33–34 sobre as posposições restantes."
+  },
   "automacao": {
     "id": "6abf48752aa881918cc1286d0cba8da2",
     "frequencia": "horaria",
