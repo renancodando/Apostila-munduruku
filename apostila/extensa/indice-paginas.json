@@ -1,214 +1,230 @@
 [
   [
     "Munduruku: curso autodidata extenso",
-    5
+    6
   ],
   [
     "1. Aprender por conta própria e demonstrar o que aprendeu",
-    8
+    9
   ],
   [
     "2. Ler fontes, entradas de dicionário e exemplos",
-    13
+    14
   ],
   [
     "3. Sinais, escrita prática e transcrição",
-    18
+    19
   ],
   [
     "4. Significado: estudar diferenças, não apenas equivalentes",
-    22
+    23
   ],
   [
     "5. Como observar a produção dos sons",
-    26
+    27
   ],
   [
     "6. Vogais: qualidade, posição e correspondência com a escrita",
-    30
+    31
   ],
   [
     "7. Nasalidade: som, sinal e ambiente",
-    35
+    36
   ],
   [
     "8. Tom, voz e informação que a escrita não mostra",
-    38
+    39
   ],
   [
     "9. Sílaba, morfema e palavra: três recortes",
-    41
+    42
   ],
   [
     "10. Mapa das consoantes: reconhecer antes de escrever",
-    45
+    46
   ],
   [
     "11. Oclusivas e africadas: fechamento, soltura e posição",
-    50
+    51
   ],
   [
     "12. Nasais, fricativas, vibrante e aproximantes",
-    54
+    55
   ],
   [
     "13. Ambiente e alofonia: transformar descrição em previsão",
-    58
+    59
   ],
   [
     "14. A sílaba como ferramenta de escrita",
-    62
+    63
   ],
   [
     "15. Alfabeto e convenções ortográficas",
-    66
+    67
   ],
   [
     "16. Oficina ortográfica cumulativa",
-    70
+    71
   ],
   [
     "17. Pessoa e referência: quem participa da cena",
-    74
+    75
   ],
   [
     "18. Pronomes independentes, clíticos e prefixos",
-    79
+    80
   ],
   [
     "19. Posse e paradigma nominal",
-    84
+    85
   ],
   [
     "20. Nomes inalienáveis e alienáveis",
-    89
+    90
   ],
   [
     "21. Possuidor lexical e contiguidade",
-    94
+    95
   ],
   [
     "22. Objetos de posposição",
-    99
+    100
   ],
   [
     "23. R1, R2 e relações de dependência",
-    104
+    105
   ],
   [
     "24. Ajustes morfofonológicos relacionais",
-    109
+    110
   ],
   [
     "25. Nomes de parte e parentesco",
-    115
+    116
   ],
   [
     "26. Nomes em função classificatória",
-    121
+    122
   ],
   [
     "27. Produtividade dos nomes alienáveis",
-    126
+    127
   ],
   [
     "28. Outros morfemas nominais",
-    132
+    133
   ],
   [
-    "97. Repertório: Território, água, céu e fogo",
+    "29. O sistema das posposições",
     139
   ],
   [
+    "30. be, pe e webe: lugar pontual e dativo",
+    145
+  ],
+  [
+    "31. dag̃ e tag̃: localização difusa e conformidade",
+    150
+  ],
+  [
+    "32. Direção, proximidade e perspectiva",
+    154
+  ],
+  [
+    "97. Repertório: Território, água, céu e fogo",
+    160
+  ],
+  [
     "98. Repertório: Pessoas, parentesco e referência",
-    149
+    170
   ],
   [
     "99. Repertório: Animais e relações de identificação",
-    156
+    177
   ],
   [
     "100. Repertório: Corpo, funções e estados",
-    164
+    185
   ],
   [
     "101. Repertório: Alimentação, preparo e utensílios",
-    179
-  ],
-  [
-    "102. Repertório: Roupa, material e acessórios",
-    187
-  ],
-  [
-    "103. Repertório: Moradia, passagem e iluminação",
-    190
-  ],
-  [
-    "104. Repertório: Cultivo, plantas e partes",
-    194
-  ],
-  [
-    "105. Repertório: Ações sobre objetos e ferramentas",
     200
   ],
   [
+    "102. Repertório: Roupa, material e acessórios",
+    208
+  ],
+  [
+    "103. Repertório: Moradia, passagem e iluminação",
+    211
+  ],
+  [
+    "104. Repertório: Cultivo, plantas e partes",
+    215
+  ],
+  [
+    "105. Repertório: Ações sobre objetos e ferramentas",
+    221
+  ],
+  [
     "106. Repertório: Movimento, deslocamento e transporte",
-    205
+    226
   ],
   [
     "107. Repertório: Posse, troca e circulação de bens",
-    213
+    234
   ],
   [
     "108. Repertório: Posição, dimensão e configuração",
-    218
+    239
   ],
   [
     "109. Repertório: Quantidade e distribuição",
-    225
+    246
   ],
   [
     "110. Repertório: Tempo, duração e calendário",
-    229
+    250
   ],
   [
     "111. Repertório: Percepção, cor e propriedades",
-    233
+    254
   ],
   [
     "112. Repertório: Emoção, atitude e avaliação",
-    240
-  ],
-  [
-    "113. Repertório: Conhecimento, pensamento e perguntas",
-    245
-  ],
-  [
-    "114. Repertório: Voz, fala, leitura e escrita",
-    249
-  ],
-  [
-    "115. Repertório: Organização política e autoridade",
-    253
-  ],
-  [
-    "116. Repertório: Conflito, instrumentos e caça",
-    256
-  ],
-  [
-    "117. Repertório: Julgamento e identificação de ação",
-    259
-  ],
-  [
-    "118. Repertório: Religião e termos de contato",
     261
   ],
   [
+    "113. Repertório: Conhecimento, pensamento e perguntas",
+    266
+  ],
+  [
+    "114. Repertório: Voz, fala, leitura e escrita",
+    270
+  ],
+  [
+    "115. Repertório: Organização política e autoridade",
+    274
+  ],
+  [
+    "116. Repertório: Conflito, instrumentos e caça",
+    277
+  ],
+  [
+    "117. Repertório: Julgamento e identificação de ação",
+    280
+  ],
+  [
+    "118. Repertório: Religião e termos de contato",
+    282
+  ],
+  [
     "Respostas comentadas dos capítulos e do repertório",
-    263
+    284
   ],
   [
     "Fontes, localização e estado desta etapa",
-    340
+    365
   ]
 ]

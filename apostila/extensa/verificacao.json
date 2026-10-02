@@ -1,7 +1,7 @@
 {
-  "paginas": 343,
-  "palavras": 72727,
-  "arquivos_de_capitulos": 53,
+  "paginas": 368,
+  "palavras": 77476,
+  "arquivos_de_capitulos": 57,
   "registros_IDS": 437,
   "temas_IDS": 22,
   "tarefas_lexicais": 407,
@@ -10,9 +10,9 @@
   "paginas_vazias": [],
   "problemas_de_limites": [],
   "caracteres_sem_glifo": [],
-  "sha256": "eacb7053bae9159850a730d544d8e7629ffafbd2d21bd78a6185229ab95a2cb0",
+  "sha256": "32bb117777ac9c1b9b15bfbe9c844aea9b89153e88546d415da0db5f687e902b",
   "revisao_por_falantes": false,
   "obra_final_completa": false,
   "meta_paginas_alcancada": false,
-  "revisao_visual": "Todas as 343 paginas renderizadas e inspecionadas em dez folhas de contato; paginas dos capitulos 25-28, tabelas e transicoes conferidas em resolucao maior. O PDF tem 53 marcadores, nenhuma pagina com menos de 25 caracteres extraidos e nenhum caractere de substituicao."
+  "revisao_visual": "Todas as 368 paginas renderizadas e inspecionadas em onze folhas de contato; paginas dos capitulos 29-32, tabelas, grafemas nasais e transicoes conferidas em resolucao maior. O PDF tem 57 marcadores, nenhuma pagina com menos de 25 caracteres extraidos e nenhum caractere de substituicao."
 }

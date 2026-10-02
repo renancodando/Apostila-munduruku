@@ -2898,6 +2898,593 @@ O procedimento usa distribuição e sentido conjuntamente. Uma tradução isolad
 
 ---
 
+# 29. O sistema das posposições
+
+## Relação depois do complemento
+
+As posposições Mundurukú são núcleos relacionais que aparecem **depois** de seu complemento. Em português, preposições como “em”, “para” e “com” vêm antes; em Mundurukú, a entidade localizada, beneficiada, acompanhada ou tomada como referência precede a posposição.
+
+Gomes (2006, 3.2, pp. 98–99) mostra que essa classe compartilha propriedades morfossintáticas com nomes e verbos estativos: marcação pessoal e flexão relacional. O paralelismo pode ser visto em três construções já documentadas:
+
+| classe do núcleo | construção | análise resumida |
+|---|---|---|
+| nome | **o=Ø-ba** | 1=R1-braço, ‘meu braço’ |
+| verbo estativo | **o=Ø-jojo-m** | 1O=R1-ver-IPRF, ‘está me vendo’ |
+| posposição | **o=Ø-kay** | 1=R1-para, ‘a/para mim’ |
+
+A semelhança não torna as três classes idênticas. O elemento final continua sendo nome, verbo ou posposição. O que se repete é uma arquitetura de dependência: marcador pessoal ou complemento, relacional e núcleo.
+
+## Complemento obrigatório
+
+Na análise de Gomes, a posposição exige complemento. Esse complemento pode ser:
+
+- um clítico pessoal, como **o=** em **o=Ø-kay**;
+- um nome próprio, como **Biboy** em **Biboy Ø-kay**;
+- um sintagma nominal mais complexo;
+- uma referência não contígua recuperada por R2, como **ce-** em **ce-kay**.
+
+Não trate **kay** como uma palavra portuguesa “para” que possa ser deixada solta. A forma relacional informa como o complemento se conecta ao núcleo.
+
+## R1 e R2 nas posposições
+
+As posposições usam R1 **Ø-** quando o determinante/complemento está contíguo. Para não contiguidade, apresentam R2 **ce-**, o mesmo R2 associado aos nomes alienáveis na descrição de Gomes.
+
+| configuração | forma | leitura aproximada |
+|---|---|---|
+| complemento pessoal contíguo | **o=Ø-kay** | para mim |
+| complemento lexical contíguo | **Biboy Ø-kay** | para Biboy |
+| referência não contígua | **ce-kay** | para ele/ela |
+
+**Ce-** não é um pronome independente. Ele é relacional; a tradução recupera uma terceira pessoa porque o português precisa exprimi-la de outro modo.
+
+## Posposição e sintagma posposicional
+
+A posposição é o núcleo. O conjunto formado por complemento + relacional + posposição constitui um **sintagma posposicional** (SP). Em **Biboy Ø-kay**, **kay** é a posposição; a expressão inteira é o SP.
+
+Essa diferença evita duas confusões:
+
+1. chamar o complemento inteiro de “posposição”;
+2. atribuir à forma isolada todo o significado construído pelo SP e pelo predicado.
+
+Gomes caracteriza os SPs dessa seção como circunstantes ou adjuntos, isto é, constituintes periféricos em relação ao núcleo verbal. Mais adiante, alguns valores semânticos interagem estreitamente com tipos de predicado. Para o aprendiz, a regra prática é examinar a oração inteira antes de decidir se o SP expressa lugar, direção, destinatário, agente, interesse ou ponto de vista.
+
+## Inventário documentado
+
+A tabela 3.4 de Gomes registra pelo menos os seguintes núcleos e valores básicos. A grafia abaixo normaliza o til consonantal para **g̃**, conforme a convenção prática explicada nos capítulos de escrita.
+
+| posposição | valor básico documentado |
+|---|---|
+| **be / pe / webe** | em, para, por; locativo pontual e dativo |
+| **dag̃ / tag̃** | por, conforme; locativo difuso e conformidade |
+| **kay** | a, para; alativo/direção |
+| **teg̃** | perto de, nas proximidades de |
+| **xe** | ao lado de, na presença/posse de |
+| **eju / weju** | com; companhia |
+| **kug̃** | com, em contato, junto ao corpo |
+| **jeje / ceje** | em cima de, sobre |
+| **tog̃** | por baixo de, dentro de, sob |
+| **ase** | por cima de, acima de |
+| **keg̃** | dentro de, envolvido por invólucro |
+| **wi** | de; afastamento/origem |
+| **buxim / puxim** | contra, como; oposição/comparação |
+| **pibun** | por causa de |
+| **wap** | em frente a, antes de |
+| **em** | por, em; duração/frequência |
+
+Esta lista é mapa de consulta, não autorização para substituir preposições portuguesas palavra por palavra. Os capítulos seguintes analisam somente o subconjunto cujos exemplos foram conferidos para este lote.
+
+## Uma forma, vários valores
+
+**Be/pe** pode marcar lugar preciso e diferentes relações dativas. **Kay** pode marcar direção física, alvo de transmissão, participante de estado psicológico e, em predicado sem verbo, uma leitura de querer. A polissemia é organizada pela construção.
+
+Por isso, a pergunta correta não é “qual é a tradução fixa?”. Pergunte:
+
+1. qual é o complemento;
+2. qual é o predicado;
+3. há movimento, localização, transferência ou avaliação?
+4. qual forma relacional aparece?
+5. a fonte descreve aquele valor no contexto?
+
+## Alomorfia não é escolha estilística
+
+Algumas posposições mudam de forma conforme o ambiente:
+
+- **be** depois de vogal e **pe** depois de consoante;
+- **webe** com objetos pronominais no paradigma documentado;
+- **dag̃** depois de vogal e **tag̃** depois de consoante;
+- **eju** e **weju** em ambientes tratados pela fonte.
+
+O falante não escolhe essas variantes para “soar diferente”. A distribuição é condicionada. Não se deve trocar **be** por **pe** com base na tradução portuguesa.
+
+## Camadas de uma análise segura
+
+Para **o=Ø-kay**, registre:
+
+1. forma corrente: o conjunto pronunciado/escrito;
+2. segmentação: **o=Ø-kay**;
+3. glossa: 1=R1-para;
+4. função: SP com complemento de primeira pessoa;
+5. tradução contextual: ‘para mim’ ou outra compatível com a oração.
+
+Para uma forma não contígua como **ce-kay**, a ficha precisa indicar R2 e lembrar que o antecedente vem do contexto.
+
+## Atividades
+
+1. Defina posposição pela ordem em relação ao complemento.
+2. O que nome, verbo estativo e posposição compartilham na descrição de Gomes?
+3. Qual é o núcleo em **Biboy Ø-kay**?
+4. Qual é o complemento nesse mesmo SP?
+5. Analise **o=Ø-kay** em três segmentos.
+6. O que **ce-** marca em **ce-kay**?
+7. Por que **ce-** não é simplesmente o pronome “ele”?
+8. Diferencie posposição e sintagma posposicional.
+9. O que significa dizer que o complemento é obrigatório?
+10. Cite duas posposições espaciais do inventário.
+11. Cite uma posposição causal e uma de companhia.
+12. Por que a tabela não funciona como dicionário de substituição automática?
+13. Dê dois valores gerais de **be/pe**.
+14. Dê dois valores gerais de **dag̃/tag̃**.
+15. Que distribuição fonológica distingue **be/pe**?
+16. Que distribuição distingue **dag̃/tag̃**?
+17. Ordene as cinco perguntas do procedimento de análise sem consultar o texto.
+18. Por que a oração inteira é necessária para interpretar um SP?
+
+
+
+
+---
+
+# 30. be, pe e webe: lugar pontual e dativo
+
+## Três formas relacionadas
+
+Gomes (2006, 3.2.1, pp. 99–103) descreve uma posposição com três realizações principais:
+
+- **be** depois de vogal;
+- **pe** depois de consoante;
+- **webe** com objetos pronominais no paradigma apresentado.
+
+Com R2 **ce-**, a base usada é **be**: **ce-be**, forma corrente **cebe**, ‘a/para ele ou ela’ no contexto. O capítulo 22 já mostrou que a fonte não analisa *cewebe como forma de R2.
+
+## O paradigma com objeto pronominal
+
+O paradigma documentado contém:
+
+| pessoa do complemento | forma analítica usada no curso | tradução aproximada |
+|---|---|---|
+| 1 | **o=Ø-webe** | para mim |
+| 2 | **e=Ø-webe** | para você |
+| 13 | **oce=Ø-webe** | para nós, exclusivo |
+| 12 | **wuy=Ø-webe** | para nós, inclusivo |
+| 23 | **ey=Ø-webe** | para vocês |
+| 3CORF | **je=Ø-webe** | para si mesmo |
+
+A tabela da seção 3.2.1 imprime as formas correntes sem tornar o zero visível; a análise desta apostila mantém **Ø-** para recordar R1. Não pronuncie o símbolo zero.
+
+## Locativo pontual
+
+Como locativo pontual, **be/pe** apresenta um lugar delimitado ou preciso. A fonte opõe esse valor ao locativo difuso de **dag̃/tag̃**.
+
+Dois trechos documentados são:
+
+**uk Ø-'a Ø-be**  
+casa R1-NFC R1-em  
+‘em casa’ no exemplo
+
+**Katõ Ø-be**  
+Katõ R1-em  
+‘na aldeia Katõ’ no exemplo
+
+Em **uk Ø-'a Ø-be**, há duas relações sucessivas. **-'a** está em função classificatória depois de **uk**, e **be** localiza o evento na entidade assim formada. Não reduza a sequência a uma palavra indivisível nem trate os dois zeros como um só.
+
+## Lugar físico e domínio modal
+
+A mesma posposição aparece num adjunto de natureza modal com o nome derivado de **etabut** ‘acreditar’. Gomes analisa **w=Ø-etabut Ø-pe** como expressão que, no contexto, indica certeza testemunhal: o falante afirma ter visto o ocorrido.
+
+O uso mostra uma extensão de domínio:
+
+- lugar pontual: localização numa entidade espacial;
+- domínio modal: localização metafórica da afirmação no campo da certeza do falante.
+
+Isso não significa que qualquer nome abstrato seguido de **pe** expresse certeza. O valor está documentado com esse material e nesse tipo de contexto.
+
+## Dativo como família de relações
+
+“Dativo” reúne relações que em português recebem “a”, “para”, “por”, “de” ou construções diferentes. Gomes identifica cinco tipos no conjunto estudado:
+
+1. beneficiário de verbos como ‘dar’;
+2. destinatário ou assunto de verbos de fala;
+3. agente imediato em construção causativizada;
+4. agente em construção passiva;
+5. dativo de interesse.
+
+O rótulo não quer dizer que todas as frases tenham o mesmo significado. Ele agrupa SPs cuja forma participa de um padrão relacional.
+
+## Beneficiário
+
+No exemplo de transferência, a fonte apresenta:
+
+**ayacat Ø-pe**  
+mulher R1-para  
+‘para a mulher’
+
+O evento envolve quem dá, o objeto transferido e a beneficiária/recipiente. O SP não nomeia a faca nem o doador; delimita a pessoa para quem a faca é dada.
+
+Como **ayacat** termina em consoante, aparece **pe**, de acordo com a distribuição declarada pela fonte.
+
+## Destinatário e assunto de fala
+
+Com verbos de fala, o SP pode ser interpretado como destinatário ou assunto. A fonte contém:
+
+**o=Ø-'it Ø-pe**  
+1=R1-filho R1-de  
+‘do meu filho’ no contexto de falar
+
+**wara'at Ø-pe**  
+outro R1-de  
+‘de outro’ no mesmo contexto
+
+A tradução “de” não transforma **pe** numa preposição portuguesa fixa. O verbo de fala e o discurso determinam a leitura de assunto.
+
+## Agente em causativa e passiva
+
+Dois usos exigem reconhecer estruturas verbais ainda não totalmente ensinadas:
+
+- **puy Ø-bu Ø-be** identifica a cobra como agente imediato da ação causada, no exemplo traduzido ‘Eu fiz a cobra morder o menino’;
+- **wida Ø-be** identifica a onça como agente da passiva, no exemplo ‘A mulher foi morta pela onça’.
+
+Estude por reconhecimento. Não transforme uma oração ativa em passiva nem crie causativas apenas trocando a posposição.
+
+## Dativo de interesse
+
+Em **o=Ø-kipit Ø-pe**, o SP é traduzido no contexto como ‘pelo meu irmão’: pessoas discutiam tendo o irmão como participante interessado. O valor não é localização física nem simples destinatário.
+
+O teste é perguntar que papel a expressão desempenha no evento. Se a entidade é aquela em cujo interesse ou em torno de quem algo ocorre, a leitura dativa é motivada.
+
+## Reciprocidade com wewebe
+
+A fonte documenta um SP com o prefixo de reflexividade/reciprocidade **we-**, analisado como **je=Ø-we-webe**, em contexto traduzido ‘entre si’. A forma não é apenas o paradigma simples repetido mecanicamente. Ela pertence a uma construção recíproca e deve ser guardada com seu contexto.
+
+## Diagnóstico be ou pe
+
+Observe o segmento imediatamente anterior à posposição:
+
+| ambiente final do complemento | forma documentada |
+|---|---|
+| vogal | **be** |
+| consoante | **pe** |
+| objeto pronominal | **webe** no paradigma |
+| R2 **ce-** | **ce-be** |
+
+Esse quadro é um diagnóstico para os dados estudados. Não apague morfemas intermediários ao decidir qual segmento precede a posposição.
+
+## Atividades
+
+1. Quando aparece **be**?
+2. Quando aparece **pe**?
+3. Em qual ambiente a fonte usa **webe**?
+4. Qual forma ocorre com R2?
+5. Analise **o=Ø-webe**.
+6. Por que **Ø-** não é pronunciado?
+7. O que significa locativo pontual?
+8. Analise as duas relações de **uk Ø-'a Ø-be**.
+9. Qual é o lugar em **Katõ Ø-be**?
+10. O uso modal com **etabut** autoriza qualquer nome abstrato com **pe**?
+11. Liste os cinco tipos dativos tratados.
+12. Por que **ayacat Ø-pe** usa **pe**, não **be**?
+13. Qual papel tem esse SP no exemplo de ‘dar’?
+14. Como o verbo de fala altera a tradução de **pe**?
+15. Em **wida Ø-be**, qual papel é reconhecido?
+16. Em **puy Ø-bu Ø-be**, qual papel é reconhecido?
+17. Explique o dativo de interesse em **o=Ø-kipit Ø-pe**.
+18. Por que **je=Ø-we-webe** deve ser memorizado com contexto?
+19. Compare **o=Ø-webe** e **ce-be**.
+20. Por que não se deve produzir passivas apenas substituindo uma forma?
+
+
+
+
+---
+
+# 31. dag̃ e tag̃: localização difusa e conformidade
+
+## Alomorfia condicionada
+
+A posposição deste capítulo aparece como **dag̃** depois de vogal e **tag̃** depois de consoante. No PDF de Gomes (2006, 3.2.2, pp. 103–104), a nasal consonantal é representada com recursos tipográficos próprios; esta apostila usa **g̃** segundo sua convenção prática.
+
+| ambiente | forma | exemplo controlado |
+|---|---|---|
+| após vogal | **dag̃** | **kaxoero Ø-dag̃** |
+| após consoante | **tag̃** | **tip Ø-tag̃** |
+| com R2 | **ce-dag̃** | referência não contígua |
+
+As formas não são opções estilísticas. A última unidade sonora do complemento condiciona o alomorfe.
+
+## Locativo difuso
+
+O locativo difuso apresenta uma região, percurso, extensão ou distribuição menos pontual. Compare a ideia geral:
+
+- **be/pe**: ponto ou lugar delimitado;
+- **dag̃/tag̃**: área, percurso ou superfície distribuída.
+
+O contraste é funcional, não uma oposição matemática entre “pequeno” e “grande”. Um lugar extenso pode ser tratado como ponto de destino em determinada construção; uma entidade corporal pode servir como domínio difuso.
+
+## Percurso por uma região
+
+A fonte registra:
+
+**kaxoero Ø-dag̃**  
+cachoeira R1-por  
+‘pela cachoeira’
+
+Na oração original, uma canoa está sendo passada pela cachoeira. O SP apresenta o domínio percorrido. **Kaxoero** termina em vogal, por isso ocorre **dag̃**.
+
+Não é seguro trocar **dag̃** por **be** e afirmar que o resultado é equivalente. “Na cachoeira” e “pela cachoeira” podem organizar o evento de modos distintos.
+
+## Área de atividade
+
+Outro dado contém:
+
+**tip Ø-tag̃**  
+mato R1-por  
+‘pelo/no mato’ no contexto
+
+O exemplo é traduzido como o caçador ir ao mato, com finalidade de caçar. A expressão apresenta o mato como domínio difuso da atividade. Como **tip** termina em consoante, aparece **tag̃**.
+
+A tradução portuguesa com “ao” não muda a análise da fonte para **tag̃**. Tradução idiomática e glossa morfológica têm finalidades distintas.
+
+## Distribuição sobre um corpo
+
+Em **ce-dag̃**, a fonte usa R2 num exemplo em que havia muitas feridas “nele”, isto é, distribuídas pelo corpo da pessoa referida. Esse uso torna clara a noção de domínio difuso: não se identifica um único ponto corporal.
+
+Analise:
+
+- **ce-**: R2, referência não contígua;
+- **dag̃**: posposição de domínio difuso;
+- leitura contextual: ‘por/pelo corpo dele’.
+
+Não traduza **ce-** isoladamente como “corpo”. O corpo é inferido pelo contexto e pela distribuição das feridas.
+
+## De espaço a conformidade
+
+Gomes analisa o valor de conformidade como derivado do locativo difuso. A metáfora pode ser explicada assim: agir “pelo domínio” de uma instrução ou ensinamento é agir **de acordo com** ele.
+
+Dois constituintes documentados são:
+
+**o=Ø-mu-kũyjojo-ap Ø-tag̃**  
+1O=R1-CAUS1-ouvir.ITER-NMZ2 R1-conforme  
+‘conforme me ensinaram’ no exemplo
+
+**e=Ø-mu-taybin-ap Ø-tag̃**  
+2O=R1-CAUS1-saber-NMZ2 R1-conforme  
+‘conforme eu te ensinei’ no exemplo
+
+As bases anteriores a **tag̃** são nominalizações complexas. O sufixo **-ap** participa da nominalização descrita pela fonte. Neste estágio, não é preciso produzir essas bases; basta reconhecer que uma unidade nominalizada pode servir de complemento da posposição.
+
+## Conformidade não é comparação simples
+
+“Conforme” pode ter dois usos em português: acordo com uma norma ou mudança gradual (“conforme o tempo passa”). Os dados desta seção exemplificam o primeiro: uma ação segue um ensinamento.
+
+Não use **tag̃** como tradução de toda ocorrência portuguesa de “conforme”. Primeiro identifique se existe um padrão, instrução ou conteúdo seguido.
+
+## Forma do complemento e escolha do alomorfe
+
+Nos exemplos de conformidade, o complemento termina em **-ap**, portanto em consoante. Isso explica **tag̃**. O valor abstrato não determina o alomorfe; a fonologia do segmento precedente continua ativa.
+
+Compare:
+
+| complemento | final | forma | valor no dado |
+|---|---|---|---|
+| **kaxoero** | vogal | **dag̃** | percurso espacial |
+| **tip** | consoante | **tag̃** | domínio espacial |
+| nominalização em **-ap** | consoante | **tag̃** | conformidade |
+| referência com R2 | **ce-** | **dag̃** | distribuição pelo domínio referido |
+
+## Pontual e difuso como ferramenta de leitura
+
+Para escolher uma interpretação durante a leitura:
+
+1. localize a posposição;
+2. recupere o complemento;
+3. verifique o alomorfe pelo final do complemento;
+4. pergunte se o SP delimita ponto, percurso, área ou padrão seguido;
+5. confira o predicado e a tradução contextual.
+
+O passo 4 não serve para fabricar a forma. Ele ajuda a interpretar dados já documentados.
+
+## Atividades
+
+1. Qual alomorfe ocorre depois de vogal?
+2. Qual ocorre depois de consoante?
+3. Segmente **kaxoero Ø-dag̃**.
+4. Por que esse exemplo usa **dag̃**?
+5. Segmente **tip Ø-tag̃**.
+6. Por que esse exemplo usa **tag̃**?
+7. Diferencie locativo pontual e difuso.
+8. A oposição equivale sempre a lugar pequeno versus grande?
+9. O que **ce-** marca em **ce-dag̃**?
+10. De onde vem a leitura corporal no exemplo das feridas?
+11. Como o valor de conformidade se relaciona ao locativo difuso?
+12. O que há antes de **tag̃** nos dois exemplos de conformidade?
+13. Qual sufixo nominalizador aparece nesses complementos?
+14. É preciso produzir as nominalizações neste estágio?
+15. Por que o valor abstrato não muda **tag̃** para **dag̃**?
+16. Toda tradução portuguesa “conforme” recebe essa posposição?
+17. Compare **kaxoero Ø-dag̃** e **Katõ Ø-be**.
+18. Dê os cinco passos do procedimento de leitura.
+
+
+
+
+---
+
+# 32. Direção, proximidade e perspectiva
+
+## Três relações próximas, não idênticas
+
+Este capítulo reúne **kay**, **teg̃** e **xe**, documentadas por Gomes (2006, 3.2.3–3.2.5, pp. 104–108). As três podem ser traduzidas com expressões espaciais, mas organizam relações diferentes:
+
+| posposição | núcleo do contraste |
+|---|---|
+| **kay** | direção, alvo ou orientação para algo |
+| **teg̃** | proximidade, nas imediações de algo |
+| **xe** | lado/presença; extensões de posse e opinião |
+
+Não substitua uma pela outra porque “perto”, “para” e “ao lado” parecem compatíveis numa cena imaginada.
+
+## kay como alativo
+
+O **alativo** marca movimento ou orientação em direção a uma referência. A referência pode ser lugar, pessoa ou animal. A fonte registra, entre outros:
+
+- **je=Ø-ka Ø-kay** ‘para sua própria aldeia’ no exemplo;
+- **ag̃okatkat Ø-kay** ‘em direção ao homem’;
+- **pug̃ Ø-kay** ‘em direção a um deles’ no contexto dos patos.
+
+O participante que se desloca não precisa ser animado. Em uma cena de disparo, é a trajetória do tiro que se orienta ao alvo. Essa observação impede a regra falsa “**kay** só ocorre quando uma pessoa vai a algum lugar”.
+
+## Direção que termina em contato
+
+O alativo pode culminar em contato físico. Gomes apresenta:
+
+**wita Ø-'a Ø-kay**  
+pedra R1-NFC R1-para  
+‘em uma pedra’ no exemplo de bater a canoa
+
+A tradução portuguesa usa “em”, mas a análise destaca a orientação do movimento até o contato. A posposição não mudou para locativo apenas por causa da preposição escolhida na tradução.
+
+## Direção e transmissão
+
+O movimento pode ser abstrato ou envolver transmissão entre corpos. O constituinte **wara'ac.a-yũ Ø-kay** identifica muitas outras pessoas como alvo possível numa frase sobre contaminação.
+
+O dado sustenta uma extensão de direção para transmissão. Ele não é orientação médica nem modelo para criar frases de saúde; o curso usa somente a relação gramatical documentada.
+
+## kay com predicados psicológicos
+
+Gomes encontra **kay** frequentemente com predicados psicológicos. A lista inclui bases traduzidas como:
+
+- estar alegre;
+- estar chateado;
+- acreditar/crer;
+- olhar ou tomar conta;
+- lembrar;
+- obedecer;
+- chorar.
+
+Nessas construções, o SP apresenta a pessoa ou entidade para a qual o estado, atitude ou emoção se orienta. Traduções portuguesas variam: “com”, “contra”, “em”, “de”, “a” e “por”. O núcleo gramatical não ganha seis significados desconectados; os predicados selecionam interpretações próprias.
+
+Dois dados curtos ajudam a reconhecer o padrão:
+
+**o=Ø-tayxi Ø-kay**  
+1=R1-esposa R1-para  
+‘da minha esposa’ com ‘lembrar’
+
+**ce-kay je-tõn**  
+R2-para MED-chorar  
+‘vai chorar por ele’
+
+Não transfira a tradução “por” de ‘chorar por’ para qualquer verbo.
+
+## Predicados sem verbo e leitura de querer
+
+Em predicados sem verbo, um SP com **kay** pode produzir leitura de querer ou desejar. A fonte apresenta:
+
+**e=Ø-kay oceju oce=Ø-parak Ø-pe**  
+2=R1-para nós 13=R1-meio R1-em  
+‘Queremos vocês em nosso meio.’
+
+Também registra **ce-kay õn**, traduzido no contexto como ‘Eu desejo ela’, com leitura sexual indicada pela análise da tese.
+
+O ponto gramatical é que **kay** não se torna verbo. A predicação emerge da construção sem verbo lexical. Por envolver desejo dirigido a pessoa, esse segundo dado deve ser estudado como análise, não como fórmula de abordagem; uso real requer contexto, consentimento e validação pragmática.
+
+## teg̃: proximidade
+
+**Teg̃** significa ‘perto de, nas proximidades de’. A fonte documenta:
+
+**je=Ø-ka Ø-teg̃**  
+3CORF=R1-aldeia R1-perto  
+‘perto de sua aldeia’
+
+**ipi Ø-teg̃**  
+terra/chão R1-perto  
+‘perto do chão’
+
+**ce-teg̃**  
+R2-perto  
+‘perto dele’
+
+O último exemplo mostra R2 e uma referência não contígua. **Teg̃** não afirma contato nem chegada ao ponto; apresenta uma zona de proximidade.
+
+## xe: ao lado, presença e posse
+
+O valor básico de **xe** é ‘ao lado de’:
+
+**ce-xe**  
+R2-ao.lado  
+‘ao lado dele’
+
+**xiri Ø-xe**  
+inhambu R1-ao.lado  
+‘ao lado de um inhambu’
+
+A fonte registra extensões para presença/posse:
+
+**ixe Ø-xe** aparece numa construção literalmente aproximada a ‘existe algo na presença/posse daquele’, traduzida como ‘aquele tem algo’. A língua não precisa empregar um verbo equivalente ao português “ter”; a relação locativa pode sustentar a leitura possessiva.
+
+## xe com origem e opinião
+
+Em **Pedoro Ø-xe-wi**, **xe** combina-se com o ablativo **wi**. O exemplo é traduzido ‘compre comida do Pedro’: a origem é conceptualizada a partir do domínio/presença de Pedro. Analise a sequência, não uma suposta posposição indivisível *xewi:
+
+- **Pedoro**: complemento lexical;
+- **Ø-xe**: na presença/posse de Pedro;
+- **-wi**: de, a partir de.
+
+Outra extensão aparece em:
+
+**o=Ø-xe**  
+1=R1-perto.de  
+‘na minha opinião’ no exemplo
+
+O ponto de vista funciona como domínio de avaliação: algo é bonito “junto de mim”, isto é, segundo minha perspectiva. Essa explicação é uma ponte semântica, não uma tradução literal para toda ocorrência.
+
+## Comparação cumulativa
+
+| pergunta de leitura | candidato a investigar |
+|---|---|
+| há trajetória ou alvo? | **kay** |
+| há apenas zona de proximidade? | **teg̃** |
+| há lado/presença, posse ou perspectiva? | **xe** |
+| há origem a partir da esfera de alguém? | **xe-wi** |
+
+“Candidato” é deliberado: a forma deve ser confirmada no dado, não escolhida só pela cena portuguesa.
+
+## Atividades
+
+1. Defina alativo.
+2. Que tipos de referente podem complementar **kay** nos dados?
+3. Analise **ag̃okatkat Ø-kay**.
+4. Por que o alativo não exige viajante humano?
+5. Como o contato físico ainda pode envolver **kay**?
+6. Qual extensão aparece no exemplo de contaminação?
+7. Cite quatro predicados psicológicos associados a **kay**.
+8. Por que as traduções portuguesas variam nesses predicados?
+9. Analise **ce-kay je-tõn**.
+10. Em construções de querer, **kay** torna-se verbo?
+11. Que cuidado pragmático acompanha o exemplo de desejo sexual?
+12. Qual é o valor básico de **teg̃**?
+13. Compare **ipi Ø-teg̃** e **ce-teg̃**.
+14. Qual é o valor básico de **xe**?
+15. Analise **xiri Ø-xe**.
+16. Como uma construção com **xe** pode receber leitura possessiva?
+17. Segmente **Pedoro Ø-xe-wi**.
+18. Como **o=Ø-xe** chega à leitura ‘na minha opinião’?
+19. Compare **kay**, **teg̃** e **xe** numa frase explicativa em português.
+20. Por que o quadro final fala em candidato a investigar?
+
+
+
+
+---
+
 # 97. Repertório: Território, água, céu e fogo
 
 ## Distinções deste campo
@@ -6124,6 +6711,106 @@ No PDF e no texto integral gerados, as respostas são reunidas abaixo por capít
 20. Porque a escolha, a ordem, o escopo e os ajustes dependem da base e da construção documentada.
 
 
+## 29. O sistema das posposições
+
+
+1. É um núcleo relacional que ocorre depois de seu complemento.
+2. Marcação pessoal e flexão relacional, especialmente a arquitetura com R1/R2.
+3. **kay**.
+4. **Biboy**; **Ø-** registra R1 entre complemento e núcleo.
+5. **o=** complemento de primeira pessoa + **Ø-** R1 + **kay** posposição.
+6. Relação de não contiguidade, R2.
+7. Porque é prefixo relacional; a referência concreta depende do antecedente e da construção.
+8. Posposição é o núcleo; SP é o constituinte completo com complemento e marcas relacionais.
+9. Que a posposição não forma, nessa análise, uma relação completa sem uma entidade tomada como seu complemento.
+10. Por exemplo, **kay** e **teg̃**.
+11. **pibun** e **eju/weju**, respectivamente.
+12. Porque uma forma pode ter vários valores e sua seleção depende de ambiente, predicado e contexto.
+13. Locativo pontual e dativo.
+14. Locativo difuso e conformidade.
+15. **be** após vogal; **pe** após consoante.
+16. **dag̃** após vogal; **tag̃** após consoante.
+17. Identificar complemento; identificar predicado; reconhecer o domínio semântico; localizar relacional; conferir a fonte.
+18. Porque o predicado e os participantes determinam se a relação é lugar, direção, destinatário, interesse ou outro valor.
+
+
+
+## 30. be, pe e webe: lugar pontual e dativo
+
+
+1. Depois de vogal, nos dados descritos.
+2. Depois de consoante.
+3. Com objetos pronominais no paradigma da seção.
+4. **ce-be**, realizado **cebe**.
+5. Complemento 1 **o=** + R1 zero + alomorfe pronominal **webe**.
+6. Porque representa morfema sem realização sonora naquele ambiente.
+7. Localização em ponto ou lugar relativamente preciso, em contraste com localização difusa.
+8. **uk + Ø-'a** forma a expressão nominal classificatória; o conjunto precede **Ø-be**, que localiza o evento.
+9. A aldeia Katõ.
+10. Não. É uma extensão atestada num material e contexto específicos.
+11. Beneficiário; destinatário/assunto; agente imediato de causativa; agente da passiva; interesse.
+12. Porque **ayacat** termina em consoante.
+13. Beneficiária ou recipiente da transferência.
+14. O predicado permite que o SP identifique assunto ou destinatário, traduzido inclusive com “de”.
+15. Agente da construção passiva.
+16. Agente imediato da ação causativizada.
+17. O irmão é a entidade em torno de cujo interesse ocorre a discussão.
+18. Porque inclui morfologia recíproca e não resulta de simples repetição livre.
+19. A primeira tem objeto pronominal e R1; a segunda tem R2 não contíguo e base **be**.
+20. Porque causativização e passiva dependem de morfologia verbal e estrutura argumental ainda não fornecidas pela troca de um SP.
+
+
+
+## 31. dag̃ e tag̃: localização difusa e conformidade
+
+
+1. **dag̃**.
+2. **tag̃**.
+3. **kaxoero** ‘cachoeira’ + R1 zero + **dag̃** ‘por’.
+4. Porque o complemento termina em vogal e apresenta um percurso/domínio difuso.
+5. **tip** ‘mato’ + R1 zero + **tag̃** ‘por’.
+6. Porque **tip** termina em consoante.
+7. O pontual delimita um ponto/lugar preciso; o difuso apresenta área, percurso ou distribuição.
+8. Não. A construção decide como o referente é conceptualizado.
+9. R2, relação com referência não contígua.
+10. Do contexto das feridas distribuídas na pessoa, não de **ce-** isoladamente.
+11. Seguir uma instrução é conceptualizado como agir no domínio ou segundo o percurso estabelecido por ela.
+12. Nominalizações complexas usadas como complementos.
+13. **-ap**, glosado NMZ2 na fonte.
+14. Não. O objetivo atual é reconhecê-las e conservar o dado.
+15. Porque o alomorfe é condicionado pelo final consonantal do complemento, não pela concretude do sentido.
+16. Não. Os dados exemplificam acordo com instrução/ensinamento.
+17. O primeiro apresenta percurso ou domínio difuso; o segundo localiza pontualmente na aldeia Katõ.
+18. Localizar posposição; recuperar complemento; verificar ambiente; reconhecer ponto/percurso/área/padrão; conferir predicado e contexto.
+
+
+
+## 32. Direção, proximidade e perspectiva
+
+
+1. Relação de movimento ou orientação em direção a uma referência.
+2. Lugares, pessoas e animais; o alvo também pode ser atingido por trajetória ou transmissão.
+3. **ag̃okatkat** ‘homem’ + R1 zero + **kay**, ‘em direção ao homem’.
+4. Porque o elemento orientado pode ser tiro ou outra transmissão, não apenas um ser animado.
+5. A trajetória marcada por **kay** pode culminar em colisão, como no exemplo da canoa e da pedra.
+6. Direção/alvo de transmissão entre corpos.
+7. Por exemplo, alegrar-se, chatear-se, acreditar e lembrar.
+8. Porque cada predicado organiza semanticamente sua relação com o complemento; a tradução idiomática não copia uma forma única.
+9. R2 **ce-** + **kay**, seguido de ‘chorar’; leitura contextual ‘chorar por ele’.
+10. Não. A fonte analisa uma predicação sem verbo lexical cujo SP produz a leitura.
+11. Deve ser tratado como dado analítico, não abordagem pronta; contexto e consentimento são indispensáveis.
+12. Proximidade, ‘perto de/nas imediações de’.
+13. O primeiro tem complemento lexical contíguo e R1; o segundo tem R2 e referência não contígua.
+14. ‘Ao lado de’, com extensões para presença/posse e opinião.
+15. **xiri** ‘inhambu’ + R1 zero + **xe** ‘ao lado de’.
+16. A existência de algo no domínio/presença de uma pessoa permite a interpretação ‘essa pessoa tem algo’.
+17. **Pedoro** + R1 zero + **xe** presença/posse + **wi** origem/ablativo.
+18. A esfera pessoal é interpretada como domínio de avaliação ou perspectiva.
+19. **Kay** orienta para um alvo; **teg̃** situa nas proximidades; **xe** situa ao lado/no domínio de alguém.
+20. Porque a cena portuguesa apenas orienta a análise; forma e valor precisam ser confirmados em dados Mundurukú.
+
+
+
 ## 97. Repertório: Território, água, céu e fogo
 
 
@@ -7096,7 +7783,7 @@ As explicações deste curso foram redigidas em sequência própria; não reprod
 
 ## Morfologia e sintaxe
 
-Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Os capítulos 17–20 usam as tabelas 1.2, 1.3, 1.6, 3.1, 3.2 e 4.1, além dos exemplos 1–4 da seção 1.1.5.1. Os capítulos 21–24 usam ainda as tabelas 1.4, 1.5, 1.7 e 1.9 e os exemplos 9–13, 17–21, com localização principal nas páginas impressas 23–24 e 32–41. Os capítulos 25–28 retomam as seções 3.1–3.1.3: nomes de parte, parentesco e função classificatória nos exemplos 1–2 e tabela 3.1 (páginas impressas 87–89; PDF 106–108); produtividade alienável e empréstimos na tabela 3.2 e exemplos 3–4 (páginas impressas 90–92; PDF 109–111); e morfemas nominais nos exemplos 5–16 (páginas impressas 92–97; PDF 111–116). Formas correntes, segmentações, glossas e traduções foram separadas; as explicações e atividades são originais desta edição.
+Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Os capítulos 17–20 usam as tabelas 1.2, 1.3, 1.6, 3.1, 3.2 e 4.1, além dos exemplos 1–4 da seção 1.1.5.1. Os capítulos 21–24 usam ainda as tabelas 1.4, 1.5, 1.7 e 1.9 e os exemplos 9–13, 17–21, com localização principal nas páginas impressas 23–24 e 32–41. Os capítulos 25–28 retomam as seções 3.1–3.1.3: nomes de parte, parentesco e função classificatória nos exemplos 1–2 e tabela 3.1 (páginas impressas 87–89; PDF 106–108); produtividade alienável e empréstimos na tabela 3.2 e exemplos 3–4 (páginas impressas 90–92; PDF 109–111); e morfemas nominais nos exemplos 5–16 (páginas impressas 92–97; PDF 111–116). Os capítulos 29–32 usam as tabelas 3.3–3.4 e as seções 3.2–3.2.5: propriedades das posposições e **be/pe/webe** nos exemplos 1–2 (páginas impressas 98–103; PDF 117–122); **dag̃/tag̃** nos exemplos 3a–3e (páginas impressas 103–104; PDF 122–123); e **kay, teg̃, xe** nos exemplos 4a–6e (páginas impressas 104–108; PDF 123–127). Formas correntes, segmentações, glossas e traduções foram separadas; as explicações e atividades são originais desta edição.
 
 https://repositorio.unb.br/handle/10482/3754
 
@@ -7106,12 +7793,12 @@ https://www.scielo.br/j/bgoeldi/a/M9swfwRCmsmx8K4yQQjRdKJ/?lang=pt
 
 ## Conteúdo efetivamente concluído nesta etapa
 
-Há abertura, 28 capítulos de fundamentos e gramática inicial, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. Os capítulos 17–20 iniciam pessoa, referência, clíticos e classes possessivas com paradigmas documentados. Os capítulos 21–24 aprofundam possuidor lexical, objetos de posposição, R1/R2 e ajustes morfofonológicos sem estender paradigmas por analogia. Os capítulos 25–28 distinguem nomes de parte e parentesco, função classificatória, produtividade dos alienáveis e oito conjuntos de morfemas nominais, sempre separando dado, padrão e hipótese. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
+Há abertura, 32 capítulos de fundamentos e gramática inicial, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. Os capítulos 17–20 iniciam pessoa, referência, clíticos e classes possessivas com paradigmas documentados. Os capítulos 21–24 aprofundam possuidor lexical, objetos de posposição, R1/R2 e ajustes morfofonológicos sem estender paradigmas por analogia. Os capítulos 25–28 distinguem nomes de parte e parentesco, função classificatória, produtividade dos alienáveis e oito conjuntos de morfemas nominais. Os capítulos 29–32 sistematizam posposições, locativo pontual e difuso, relações dativas, direção, proximidade, posse e perspectiva, sempre separando dado, padrão e hipótese. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
 
 Os números reservados para partes gramaticais futuras não correspondem a páginas ou capítulos já escritos. O índice contém somente material presente. A meta de mil a duas mil páginas ainda não está alcançada. Este documento é uma etapa verificável da reconstrução, não a apostila final completa.
 
 ## Próximos lotes
 
-O próximo lote deverá desenvolver os capítulos 29–32 a partir da seção 3.2 de Gomes (2006): propriedades gerais das posposições e as relações locativa, dativa, alativa/direcional e de conformidade. A pesquisa deverá retomar as páginas impressas 98–113, conferir os exemplos completos e distinguir complemento posposicional, adjunto, alomorfia pronominal e valores espaciais ou abstratos. Cada exemplo deverá conservar sua localização e não se transformar em paradigma produtivo sem atestação.
+O próximo lote deverá concluir a Parte II com os capítulos 33–34 a partir das seções 3.2.6–3.2.12 de Gomes (2006): companhia e contato com **eju/weju** e **kug̃**; relações de superfície, interior, altura e origem com **jeje/ceje, tog̃, ase, keg̃** e **wi**. A pesquisa deverá retomar as páginas impressas 108–120, conferir os exemplos completos e distinguir contato, companhia, topologia e combinação de posposições. Cada exemplo deverá conservar sua localização e não se transformar em paradigma produtivo sem atestação.
 
 Continuam pendentes corpus amplo de leituras graduadas, áudio autorizado, instruções Munduruku validadas e revisão do conjunto por educadores ou falantes. Retirar traduções de itens conhecidos não será apresentado como imersão integral. Essas pendências são objetivos editoriais concretos, e não páginas a serem preenchidas com repetição.

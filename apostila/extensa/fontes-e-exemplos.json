@@ -36,7 +36,11 @@
       "alienaveis": "secao 3.1.2, tabela 3.2, paginas impressas 90-91; PDF 109-110",
       "nomes_de_parte_e_funcao_classificatoria": "secoes 3.1-3.1.1, exemplos 1-2 e tabela 3.1, paginas impressas 87-89; PDF 106-108",
       "produtividade_dos_alienaveis_e_emprestimos": "secao 3.1.2, tabela 3.2 e exemplos 3-4, paginas impressas 90-92; PDF 109-111",
-      "outros_morfemas_nominais": "secao 3.1.3, exemplos 5-16, paginas impressas 92-97; PDF 111-116"
+      "outros_morfemas_nominais": "secao 3.1.3, exemplos 5-16, paginas impressas 92-97; PDF 111-116",
+      "sistema_das_posposicoes": "secao 3.2 e tabelas 3.3-3.4, paginas impressas 98-99; PDF 117-118",
+      "be_pe_webe_locativo_e_dativo": "secao 3.2.1, exemplos 2a-2l, paginas impressas 99-103; PDF 118-122",
+      "dag_tag_locativo_e_conformidade": "secao 3.2.2, exemplos 3a-3e, paginas impressas 103-104; PDF 122-123",
+      "kay_teg_xe": "secoes 3.2.3-3.2.5, exemplos 4a-6e, paginas impressas 104-108; PDF 123-127"
     },
     "exemplos_controlados": [
       "bio o=y-aoka kapusu / õn bio o=y-aoka kapusu",
@@ -52,7 +56,11 @@
       "puy Ø-bu / uk Ø-'a / warepupu Ø-dup",
       "serie documentada w-e- com emprestimos da tabela 3.2",
       "wida-yũ / ag̃okatka-yũ-'in / kise-m / ayacat-'ũm / i-tayxi-buk",
-      "ico-m / ag̃oka-xiri / xiri-xiri / cokõn-'ũn'ũn-yũ"
+      "ico-m / ag̃oka-xiri / xiri-xiri / cokõn-'ũn'ũn-yũ",
+      "paradigma o=Ø-webe e contraste ce-be",
+      "uk Ø-'a Ø-be / Katõ Ø-be / ayacat Ø-pe / wida Ø-be",
+      "kaxoero Ø-dag̃ / tip Ø-tag̃ / ce-dag̃",
+      "ag̃okatkat Ø-kay / ce-kay je-tõn / ipi Ø-teg̃ / ce-xe / Pedoro Ø-xe-wi"
     ],
     "nota": "As formas correntes, segmentacoes, glossas e traducoes devem permanecer em linhas separadas; os PDFs de terceiros nao integram a distribuicao."
   }
