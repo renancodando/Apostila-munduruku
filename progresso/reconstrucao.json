@@ -1,0 +1,21 @@
+{
+  "versao": 2,
+  "status": "em_reconstrucao",
+  "meta_paginas": {"minimo": 1000, "referencia_superior": 2000, "criterio": "conteudo util e documentado, sem inflacao de paginas"},
+  "edicao_anterior": {"paginas": 118, "palavras": 23343, "registros_lexicais_selecionados": 376},
+  "trabalho_ativo": {"responsavel": "sessao principal", "inicio": "2026-10-02T06:04:00Z", "expira_em": "2026-10-02T08:04:00Z"},
+  "automacao": {"id": "6abf48752aa881918cc1286d0cba8da2", "frequencia": "horaria", "detecta_renovacao_de_cota": false},
+  "lotes": [
+    {"id": "A", "assunto": "metodo, escrita e fundamentos de analise com explicacoes extensas", "status": "em_redacao"},
+    {"id": "B", "assunto": "fonetica, fonologia, tom, nasalidade e exercicios contrastivos", "status": "pendente"},
+    {"id": "C", "assunto": "pessoa, referencia e posse com paradigmas atestados", "status": "pendente"},
+    {"id": "D", "assunto": "predicacao, verbos, aspecto e derivacao", "status": "pendente"},
+    {"id": "E", "assunto": "relacoes espaciais, tempo, quantidade e particulas", "status": "pendente"},
+    {"id": "F", "assunto": "estruturas complexas, classificacao e incorporacao", "status": "pendente"},
+    {"id": "G", "assunto": "repertorio tematico de todos os registros IDS e ampliacao por outras fontes", "status": "em_preparacao"},
+    {"id": "H", "assunto": "leituras graduadas atestadas e oficinas integradas", "status": "pendente"},
+    {"id": "I", "assunto": "avaliacoes, gabarito integral e indices", "status": "pendente"}
+  ],
+  "proximo_passo": "Concluir o lote A, iniciar explicacoes fonologicas e integrar repertorio IDS completo em unidades de estudo; gerar primeira revisao extensa de trabalho.",
+  "impedimentos": ["Ainda nao ha corpus amplo de narrativas graduadas nem audios autorizados.", "Nao houve revisao por professores ou falantes Munduruku.", "A meta de 1000 paginas ainda nao foi alcancada."]
+}
