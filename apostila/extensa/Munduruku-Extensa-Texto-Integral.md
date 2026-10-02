@@ -1239,6 +1239,480 @@ Se errar uma grafia, não copie a palavra dez vezes sem análise. Registre o tip
 
 ---
 
+# 17. Pessoa e referência: quem participa da cena
+
+## Meta da unidade
+
+Esta unidade introduz o sistema de pessoa descrito por Gomes (2006, capítulos 1 e 4). Ao final, você deverá distinguir falante, interlocutor e terceira pessoa; interpretar os códigos 1, 12, 13, 2, 23, 3 e 3CORF; explicar a oposição entre primeira pessoa inclusiva e exclusiva; e separar pronome independente de marcador pessoal dependente.
+
+Não comece traduzindo cada elemento por um pronome português. Primeiro identifique **quem participa**, **qual função exerce** e **que tipo de forma aparece**. A tradução é a última camada.
+
+## Três posições na interação
+
+O sistema de pessoa organiza a referência a partir do evento de fala:
+
+- **primeira pessoa** inclui quem fala;
+- **segunda pessoa** inclui a pessoa a quem se fala;
+- **terceira pessoa** remete a alguém ou algo fora desse par básico.
+
+No plural da primeira pessoa, a língua descrita distingue dois conjuntos. A forma **inclusiva** inclui falante e interlocutor. A forma **exclusiva** inclui o falante e outra pessoa, mas exclui o interlocutor. Em português, ambas costumam ser traduzidas por “nós”; por isso, a tradução apaga uma diferença que precisa permanecer na análise.
+
+Use esta chave:
+
+| código | composição de referência | tradução aproximada |
+|---|---|---|
+| 1 | falante | eu, me, meu |
+| 12 | falante + interlocutor | nós/nos/nosso, inclusivo |
+| 13 | falante + outra pessoa, sem o interlocutor | nós/nos/nosso, exclusivo |
+| 2 | interlocutor | tu/você, te, teu |
+| 23 | interlocutores | vocês, de vocês |
+| 3 | pessoa ou entidade fora do par de fala | ele, ela, eles, elas |
+| 3CORF | referente correferente | de si mesmo, conforme a construção |
+
+Os números não são contas. **12** não significa “doze”; combina as pessoas 1 e 2. **13** combina 1 e 3. **23** designa a segunda pessoa plural. A notação é analítica e não pertence à escrita corrente Munduruku.
+
+## Pronomes independentes documentados
+
+Gomes apresenta os seguintes pronomes pessoais independentes na tabela 4.1, página impressa 121:
+
+| pessoa | pronome independente | valor de referência |
+|---|---|---|
+| 1 | **õn** | eu |
+| 12 | **wuyju** | nós inclusivo |
+| 13 | **oceju** | nós exclusivo |
+| 2 | **ẽn** | tu, você |
+| 23 | **eyju** | vocês |
+| 3 | — | não há pronome pessoal independente dedicado nessa tabela |
+
+Na análise de Gomes, os pronomes independentes exercem função de sujeito. A terceira pessoa é expressa por nomes e por pronomes não pessoais, não por um item de terceira pessoa no paradigma acima. O travessão é ausência de forma no quadro; não deve ser pronunciado nem substituído por uma palavra inventada.
+
+## Independente não significa obrigatório
+
+Compare dois exemplos atestados por Gomes (2006, exemplo 1 da seção 4.1.1). As linhas abaixo mantêm a separação entre forma, análise e tradução:
+
+**bio o=y-aoka kapusu**
+
+anta  1S=R2-matar.PRF  ontem
+
+‘Matei uma anta ontem.’
+
+**õn bio o=y-aoka kapusu**
+
+eu  anta  1S=R2-matar.PRF  ontem
+
+‘Eu matei uma anta ontem.’
+
+No segundo exemplo, **õn** explicita o sujeito independente. Nos dois, o clítico **o=** participa do predicado. A ausência de **õn** no primeiro não impede a interpretação de primeira pessoa, porque a marca dependente já fornece essa informação. Gomes observa que os clíticos sujeitos tendem a ocorrer sem o pronome independente, embora a coocorrência seja possível.
+
+Não conclua daí que todo pronome independente seja “ênfase” em qualquer contexto. O par mostra que a expressão explícita é possível e que a marca verbal pode bastar; uma análise discursiva mais fina exige contexto maior.
+
+## Forma livre e forma dependente
+
+Uma forma independente pode constituir uma unidade sintática própria no ambiente descrito. Um clítico depende de um hospedeiro fonológico e integra um sintagma com ele. Em Gomes, **õn** é pronome independente, enquanto **o=** é um marcador pessoal clítico.
+
+O sinal **=** marca a fronteira de clítico na linha analítica. Ele não é necessariamente escrito na ortografia corrente. O hífen separa morfemas presos dentro da base analisada. Compare:
+
+- análise: **o=y-aoka**;
+- componentes: **o=** primeira pessoa sujeito, **y-** relacional de não contiguidade, **aoka** ‘matar’ no exemplo;
+- a linha corrente pode aparecer sem os sinais analíticos.
+
+O curso manterá esses sinais nas linhas de análise para que você veja as relações. Não os copie automaticamente para um texto corrente.
+
+## A pessoa depende da função
+
+Uma mesma referência pode assumir formas diferentes conforme a função. A tabela de Gomes distingue pronomes independentes, clíticos sujeitos de verbos processuais e clíticos absolutivos usados com nomes, posposições, objetos de transitivos e sujeitos estativos. Por exemplo, 12 tem **wuyju** como pronome independente, mas **a** em um paradigma de sujeito verbal processual e **wuy** no paradigma nominal/absolutivo.
+
+Portanto, não existe uma única “palavra para nós inclusivo” válida em todos os ambientes. Existe uma categoria de pessoa expressa por séries diferentes. O próximo capítulo compara essas séries sem antecipar toda a morfologia verbal.
+
+## Protocolo de leitura referencial
+
+Ao encontrar uma forma pessoal:
+
+1. identifique se é independente ou dependente;
+2. registre o código de pessoa;
+3. verifique se 1ª pessoa plural é inclusiva ou exclusiva;
+4. determine a função: sujeito, objeto, possuidor ou objeto de posposição;
+5. procure o hospedeiro do clítico;
+6. só então escreva uma tradução contextual.
+
+## Atividades
+
+1. Explique os códigos 12, 13 e 23 sem tratá-los como números decimais.
+2. Quem está incluído em 12? Quem é excluído em 13?
+3. Relacione **õn, wuyju, oceju, ẽn, eyju** às pessoas correspondentes.
+4. O que significa o travessão na linha de terceira pessoa do paradigma independente?
+5. Compare **õn** e **o=** quanto à dependência.
+6. No par com **bio**, que informação permanece mesmo quando **õn** não aparece?
+7. Por que não se deve traduzir 12 e 13 simplesmente como duas ocorrências idênticas de “nós” durante a análise?
+8. O sinal **=** pertence obrigatoriamente à escrita corrente?
+9. Em **o=y-aoka**, identifique clítico, relacional e base verbal conforme a análise fornecida.
+10. Por que **wuyju**, **a** e **wuy** não são variantes livres intercambiáveis?
+11. Formule uma ficha para uma ocorrência de pessoa que registre forma, função e fonte.
+12. Que dado adicional seria necessário para decidir se **õn** tem valor de foco num exemplo específico?
+13. Um estudante inventa um pronome de terceira pessoa para preencher o quadro. Qual princípio documental ele viola?
+14. Classifique como “forma”, “código analítico” ou “tradução”: **oceju**, 13, “nós exclusivo”.
+
+
+
+
+---
+
+# 18. Pronomes independentes, clíticos e prefixos
+
+## O problema de classificação
+
+Uma sequência curta diante de uma base pode parecer prefixo, clítico ou palavra. A aparência linear não resolve. Gomes (2006, 1.1.4–1.1.5) analisa os marcadores pessoais Munduruku como **proclíticos**: elementos dependentes que aparecem antes do hospedeiro ou do sintagma que encabeçam, mas não são prefixos da base lexical.
+
+Este capítulo ensina a acompanhar o argumento da fonte. Não transforma a conclusão em rótulo decorado; mostra quais contrastes sustentam a análise.
+
+## Três tipos de unidade
+
+| tipo | autonomia | relação com a base | notação didática |
+|---|---|---|---|
+| pronome independente | pode formar constituinte próprio nos ambientes descritos | não precisa estar unido à base | espaço |
+| clítico | depende prosodicamente de hospedeiro, mas encabeça um sintagma | pode ter escopo sobre estrutura maior que uma palavra | **=** |
+| prefixo | está morfologicamente integrado ao tema | forma palavra com a base | hífen |
+
+A notação é uma consequência da análise. Não use **=** apenas porque um elemento é curto. É preciso observar comportamento.
+
+## Teste 1: o relacional aparece depois do marcador pessoal
+
+Gomes compara uma expressão com possuidor lexical e outra com possuidor de primeira pessoa:
+
+**Biboy d-op**
+
+Biboy  R1-flecha
+
+‘flecha do Biboy’
+
+**o=d-op**
+
+1=R1-flecha
+
+‘minha flecha’
+
+Em ambas, **d-** é o relacional de contiguidade ligado ao nome **op** ‘flecha’. No segundo exemplo, o relacional surge entre **o=** e a base. Isso mostra que **o=** não ocupa simplesmente o lugar de um prefixo fundido a **op**; ele funciona como possuidor separado na estrutura, de modo comparável ao nome **Biboy**.
+
+Observe as camadas:
+
+- **o=**: pessoa do possuidor;
+- **d-**: relação de contiguidade;
+- **op**: base nominal ‘flecha’;
+- **odop**: realização corrente sem os separadores analíticos, conforme a convenção usada no curso.
+
+## Teste 2: material pode ocorrer entre clítico e núcleo verbal
+
+Gomes usa exemplos de incorporação para mostrar que o marcador pessoal pode ficar separado do núcleo verbal por material incorporado. Um dos dados é:
+
+**ag̃okatkat bio Ø-ẽn o'=su-ẽn-'o**
+
+homem  anta  R1-carne  3S=R2-carne-comer.PRF
+
+‘O homem comeu carne de anta.’
+
+Na análise, o marcador de terceira pessoa **o'=** abre o sintagma verbal, enquanto o elemento relacionado a ‘carne’ aparece antes da base verbal ‘comer’. A possibilidade de estrutura interna entre marcador e núcleo favorece o tratamento como clítico do sintagma, não como prefixo diretamente preso à raiz verbal.
+
+Esse exemplo é complexo e será retomado nos capítulos de incorporação. Aqui, não memorize toda a derivação. Use-o apenas como evidência de que “vem antes” não equivale a “é prefixo”.
+
+## Teste 3: o conjunto se desloca como sintagma
+
+Nos exemplos 4a–b de Gomes, o constituinte que contém marcador pessoal e verbo pode ocupar posições diferentes na oração:
+
+**o=nomuwã du ẽn**
+
+1O=R1.chamar.PRF  INT  você
+
+‘Você me chamou?’
+
+**kapusu ma õn e=nomuwã**
+
+ontem  mesmo  eu  2O=R1.chamar.PRF
+
+‘Ontem mesmo eu chamei você.’
+
+O primeiro predicado inicia a oração; o segundo fica ao final. O clítico integra o constituinte verbal que se desloca. A posição não é uma troca livre de palavras feita pelo curso: são duas construções atestadas na fonte.
+
+## Proclítico e hospedeiro
+
+Um proclítico vem antes do material que o hospeda fonologicamente. O marcador não carrega acento próprio na análise de Gomes e depende de uma unidade maior para ser pronunciado. Ao mesmo tempo, ele pode relacionar-se ao sintagma, não apenas à palavra imediatamente seguinte.
+
+O hospedeiro não deve ser identificado só pela proximidade gráfica. Em estruturas com incorporação, o conteúdo entre clítico e núcleo mostra que a dependência prosódica e a estrutura morfológica não são a mesma coisa.
+
+## Clítico não é pronome independente reduzido
+
+Compare as séries documentadas:
+
+| pessoa | independente | clítico nominal/absolutivo |
+|---|---|---|
+| 1 | **õn** | **o=** |
+| 12 | **wuyju** | **wuy=** |
+| 13 | **oceju** | **oce=** |
+| 2 | **ẽn** | **e=** |
+| 23 | **eyju** | **ey=** |
+| 3CORF | — | **je=** |
+
+As formas dependentes não resultam de apagar mecanicamente o final das independentes. **õn → o** não é uma regra produtiva que permita fabricar paradigmas. São séries gramaticais documentadas.
+
+## O valor do clítico depende do domínio
+
+Os clíticos da série **o, wuy, oce, e, ey, je** aparecem, conforme Gomes, com nomes para indicar possuidor, com posposições para indicar objeto e em parte do sistema verbal para argumento absolutivo. A mesma forma **o=** pode, portanto, ser traduzida como “meu”, “a mim” ou “me”, conforme o hospedeiro e a construção.
+
+Não atribua uma glossa lexical fixa “meu” a **o=** em todo lugar. A glossa analítica **1** registra pessoa; a tradução contextual registra a função.
+
+## Atividades
+
+1. Defina pronome independente, clítico e prefixo usando comportamento, não tamanho.
+2. Por que **o=d-op** favorece a análise de **o=** como clítico?
+3. Qual é a função de **d-** em **Biboy d-op** e **o=d-op**?
+4. Que diferença existe entre **=** e hífen na análise?
+5. No exemplo com **ag̃okatkat**, qual fato estrutural é relevante para a classificação do marcador?
+6. Por que o capítulo não pede que você gere novas frases por imitação desse exemplo?
+7. Identifique o clítico-objeto em **o=nomuwã** e **e=nomuwã**.
+8. O que a mudança de posição dos constituintes nos exemplos 4a–b demonstra?
+9. Relacione cada pronome independente ao clítico nominal correspondente para 1, 12, 13, 2 e 23.
+10. Existe uma regra segura “retire -ju para formar o clítico”? Justifique.
+11. Por que **o=** não deve receber sempre a tradução “meu”?
+12. Explique “proclítico” em uma frase.
+13. Em **o=d-op**, qual parte é o hospedeiro nominal completo?
+14. Um estudante escreve os separadores **=** e **-** em toda forma corrente. Qual distinção ele perdeu?
+15. Que tipos de evidência, além da posição linear, Gomes mobiliza?
+
+
+
+
+---
+
+# 19. Posse e paradigma nominal
+
+## Posse não é apenas tradução
+
+Gomes (2006, 1.1.1) mostra que os nomes possuíveis recebem a mesma série de clíticos pessoais, mas não todos organizam a relação de posse da mesma maneira. A estrutura depende da classe nominal, da forma inicial da base e da presença de morfemas relacionais ou do marcador de alienabilidade.
+
+Este capítulo apresenta o paradigma de posse antes de aprofundar as classes. O objetivo é aprender o que permanece constante e o que varia.
+
+## A série de possuidor
+
+| pessoa do possuidor | clítico | tradução contextual aproximada |
+|---|---|---|
+| 1 | **o=** | meu, minha |
+| 12 | **wuy=** | nosso, nossa, inclusivo |
+| 13 | **oce=** | nosso, nossa, exclusivo |
+| 2 | **e=** | teu, tua; seu/sua de você |
+| 23 | **ey=** | de vocês |
+| 3CORF | **je=** | de si mesmo |
+
+Essa série também aparece com objetos de posposição e em parte do paradigma verbal. Aqui, a função é **possuidor nominal**. As traduções com possessivos portugueses servem apenas neste domínio.
+
+Não há nessa série um clítico simples de terceira pessoa não correferente. Quando o possuidor de terceira pessoa não está contíguo, a gramática usa morfologia relacional de não contiguidade. Por isso, **i-**, **t-** ou **ce-** não devem ser inseridos na tabela como “pronome ele”.
+
+## Quatro bases de comparação
+
+Gomes reorganiza uma classificação anterior usando quatro bases:
+
+- **-a'õ** ‘voz’: nome inalienável iniciado por vogal;
+- **-ba** ‘braço’: nome inalienável iniciado por consoante diferente de d/n;
+- **-dao** ‘perna’: nome inalienável iniciado por d/n;
+- **kobe** ‘canoa’: nome alienável.
+
+O hífen inicial nas três primeiras bases indica dependência na representação lexical usada pela análise. Ele não deve ser lido como som. **kobe** pode ocorrer sem possuidor; para ser possuído, recebe o marcador de alienabilidade **e-**.
+
+## Paradigma controlado com -ba
+
+A base **-ba** permite observar os clíticos em estado claro:
+
+| pessoa | análise | forma corrente apresentada por Crofts/Gomes | interpretação |
+|---|---|---|---|
+| 1 | **o=Ø-ba** | **oba** | meu braço |
+| 2 | **e=Ø-ba** | **eba** | teu braço |
+| 12 | **wuy=Ø-ba** | **wuyba** | nosso braço, inclusivo |
+| 13 | **oce=Ø-ba** | **oceba** | nosso braço, exclusivo |
+| 23 | **ey=Ø-ba** | **eyba** | braço de vocês |
+| 3CORF | **je=Ø-ba** | **jeba** | braço de si mesmo |
+| R2 | **i-ba** | **iba** | braço dele/dela, com possuidor não contíguo |
+
+O símbolo **Ø** marca relacional de contiguidade sem realização sonora nessa classe. Não é uma letra ausente que deva ser pronunciada. A linha corrente elimina os separadores analíticos.
+
+## O contraste inclusivo/exclusivo dentro do nome
+
+Compare **wuyba** e **oceba**. Ambas podem ser traduzidas como “nosso braço”, mas os grupos não são iguais:
+
+- **wuyba**: o possuidor inclui quem fala e quem ouve;
+- **oceba**: o possuidor inclui quem fala e outra pessoa, excluindo quem ouve.
+
+Uma tradução pedagógica completa precisa acrescentar “inclusivo” ou “exclusivo” até que o contraste se torne automático.
+
+## Correferência não é terceira pessoa comum
+
+**je=** marca 3CORF: o possuidor remete ao referente relevante dentro da construção, traduzido aproximadamente por “de si mesmo”. Sem uma oração completa, não se deve inventar quem é esse referente. A ficha lexical precisa registrar “correferencial”, não apenas “dele”.
+
+## Terceira pessoa e relacional R2
+
+Na linha **i-ba**, **i-** é prefixo relacional de não contiguidade, não clítico pessoal. Ele sinaliza que o determinante/possuidor de terceira pessoa não está contíguo ao nome dentro do mesmo sintagma, segundo a análise de Gomes.
+
+Compare as arquiteturas documentadas no paradigma: **o=Ø-ba** contém clítico possuidor, R1 zero e base; **i-ba** contém R2 e base. O exemplo atestado **Biboy d-op** do capítulo anterior mostra, com outra classe nominal, um possuidor lexical contíguo seguido de R1 e base.
+
+## Ajustes morfofonológicos
+
+A mesma série pessoal pode mudar de forma superficial quando encontra bases iniciadas por vogal ou o alienador **e-**. Gomes registra, por exemplo, que **o + e** resulta em **we** no paradigma de **kobe**. Essas mudanças não criam novas pessoas; são ajustes de forma.
+
+Não aplique a fusão a qualquer sequência **o + e**. Ela pertence ao ambiente morfológico documentado. Nos próximos capítulos, cada ajuste será ligado a uma classe específica.
+
+## Método de estudo por colunas
+
+Estude o paradigma em duas direções:
+
+1. coluna fixa: mantenha **-ba** e altere a pessoa; isso ensina a série de clíticos;
+2. linha fixa: mantenha uma pessoa e compare **-a'õ, -ba, -dao, kobe**; isso ensina as classes e os ajustes.
+
+Nunca altere simultaneamente pessoa, base e classe ao aprender uma regra nova.
+
+## Atividades
+
+1. Liste os seis clíticos de possuidor e seus códigos.
+2. Por que **i-** não entra nessa lista como terceira pessoa?
+3. O que **Ø** representa em **o=Ø-ba**?
+4. Separe **wuyba** e **oceba** em suas camadas analíticas.
+5. Explique a diferença de referência entre essas duas formas.
+6. Qual é a interpretação de **je=** e que informação falta sem uma oração?
+7. Compare **o=Ø-ba** e **i-ba** quanto à contiguidade.
+8. Reconstrua a análise de **eyba** usando a tabela.
+9. Reconstrua a forma corrente de **e=Ø-ba**.
+10. Que tipo de nome é **kobe** na análise de Gomes?
+11. Por que o hífen inicial de **-ba** não é pronunciado?
+12. Explique as duas direções de estudo do paradigma.
+13. Um estudante traduz **oceba** apenas como “nosso braço”. O que precisa acrescentar?
+14. Por que não se deve aplicar a fusão **o + e → we** fora da classe documentada?
+15. Qual exemplo atestado mostra um possuidor lexical contíguo diante de R1 e base?
+
+
+
+
+---
+
+# 20. Nomes inalienáveis e alienáveis
+
+## Duas maneiras de participar da posse
+
+Gomes (2006, 3.1.1–3.1.2) divide os nomes possuíveis em **inalienáveis** e **alienáveis**. A distinção é gramatical. Não significa que um objeto possa ou não ser vendido, separado fisicamente ou emprestado no mundo real.
+
+Nomes inalienáveis apresentam relação inerente com um possuidor e ocorrem com marcação pessoal ou relacional. O grupo inclui principalmente partes e termos de parentesco. Nomes alienáveis não pressupõem possuidor, mas podem entrar numa construção possessiva por meio do morfema **e-**, chamado por Gomes de alienador.
+
+## Três classes de inalienáveis
+
+A flexão relacional divide os inalienáveis em três classes na tabela 3.1:
+
+| classe | base de referência | R1 com possuidor contíguo | R2 sem possuidor contíguo |
+|---|---|---|---|
+| I | **-xi** ‘mãe’ | Ø- | **i-** |
+| IIa | **-dao** ‘perna’ | Ø- | **t-**, com fusão à base |
+| IIb | **op** ‘flecha’ | **d-** | **t-** |
+
+R1 marca contiguidade entre determinante e núcleo; R2 marca não contiguidade. A classe não é escolhida livremente pelo falante a cada uso: faz parte do comportamento morfológico da base.
+
+## Classe I: -xi ‘mãe’
+
+O paradigma documentado mantém a série de clíticos e relacional zero:
+
+| pessoa | análise | leitura pedagógica |
+|---|---|---|
+| 1 | **o=Ø-xi** | minha mãe |
+| 2 | **e=Ø-xi** | tua mãe |
+| 12 | **wuy=Ø-xi** | nossa mãe, inclusivo |
+| 13 | **oce=Ø-xi** | nossa mãe, exclusivo |
+| 23 | **ey=Ø-xi** | mãe de vocês |
+| 3CORF | **je=Ø-xi** | mãe de si mesmo |
+| R2 | **i-xi** | mãe dele/dela, possuidor não contíguo |
+
+As traduções pedagógicas não substituem contexto. “Mãe de si mesmo” é uma paráfrase da correferência; uma oração define a quem **je=** retorna.
+
+## Classe IIa: -dao ‘perna’
+
+Com possuidor clítico, a tabela mostra **o=Ø-dao, e=Ø-dao, wuy=Ø-dao, oce=Ø-dao, ey=Ø-dao, je=Ø-dao**. Na não contiguidade, **t-** combina-se com a base iniciada em **d**, resultando em **tao** na forma apresentada por Gomes: **tao < t-dao**.
+
+Essa mudança demonstra por que uma forma corrente nem sempre permite recuperar os morfemas por simples corte de letras. A análise **t-dao** é sustentada pelo paradigma, não pela aparência isolada de **tao**.
+
+## Classe IIb: op ‘flecha’ e uk'a ‘casa’
+
+Gomes identifica **op** ‘flecha’ e **uk'a** ‘casa’ como uma pequena subclasse que usa **d-** para contiguidade e **t-** para não contiguidade. O paradigma de **op** inclui:
+
+- **o=d-op** ‘minha flecha’;
+- **e=d-op** ‘tua flecha’;
+- **wuy=d-op** ‘nossa flecha’, inclusivo;
+- **oce=d-op** ‘nossa flecha’, exclusivo;
+- **ey=d-op** ‘flecha de vocês’;
+- **je=d-op** ‘flecha de si mesmo’;
+- **t-op** na relação de não contiguidade.
+
+Ao contrário da maioria dos inalienáveis descritos, esses dois nomes podem ocorrer sem referência explícita ao possuidor. A classificação depende do paradigma relacional, não apenas da obrigatoriedade superficial em uma frase.
+
+## Nomes alienáveis e o morfema e-
+
+**kobe** ‘canoa’ pode ocorrer sem possuidor. Quando entra na posse, recebe **e-**:
+
+| pessoa | análise | forma corrente |
+|---|---|---|
+| 1 | **o=Ø-e-kobe** | **wekobe** |
+| 2 | **e=Ø-e-kobe** | **ekobe** |
+| 12 | **wuy=Ø-e-kobe** | **wuyekobe** |
+| 13 | **oce=Ø-e-kobe** | **ocekobe** |
+| 23 | **ey=Ø-e-kobe** | **eyekobe** |
+| 3CORF | **je=Ø-e-kobe** | **jekobe** |
+| R2 | **ce-e-kobe** | **cekobe** |
+
+Na primeira pessoa, **o + e** produz **we**. Na segunda, a sequência de **e** resulta em **e**. Outras combinações preservam ou ajustam as fronteiras conforme a tabela. Memorize a análise e a forma atestada em pares, sem criar uma regra fonética geral para toda a língua.
+
+## O mesmo paradigma, estruturas diferentes
+
+Clíticos pessoais são os mesmos com inalienáveis e alienáveis. O que muda é a morfologia interna:
+
+- inalienável classe I: **pessoa=R1-base** ou **R2-base**;
+- inalienável classe IIb: **pessoa=d-base** ou **t-base**;
+- alienável: **pessoa=R1-e-base** ou **ce-e-base**.
+
+O morfema **e-** não significa “meu”. Ele permite que um nome alienável participe da posse. A pessoa continua sendo expressa pelo clítico.
+
+## Empréstimos e produtividade documentada
+
+Gomes observa que empréstimos lexicais são alocados sistematicamente na classe alienável e fornece formas como **w-e-kartera** ‘minha carteira’, **w-e-kopo** ‘meu copo’ e **w-e-parato** ‘meu prato’. Esses dados mostram produtividade da estratégia no corpus da tese.
+
+A apostila não usará essa observação para fabricar a posse de qualquer empréstimo moderno. Produtividade é uma generalização da fonte; a aceitabilidade de cada item atual ainda deve ser verificada.
+
+## Diagnóstico de classe
+
+Para classificar um nome, procure um pequeno paradigma, não uma única tradução:
+
+1. a forma sem possuidor;
+2. a forma com **o=** e **e=**;
+3. o relacional R2;
+4. eventuais fusões;
+5. ocorrência com possuidor lexical contíguo.
+
+Se só houver uma entrada de dicionário, registre “classe não determinada”. Não presuma alienabilidade porque a tradução portuguesa parece um objeto, nem inalienabilidade porque parece parte do corpo.
+
+## Atividades
+
+1. Defina inalienável e alienável em termos gramaticais.
+2. Quais bases exemplificam as classes I, IIa e IIb?
+3. Compare R1 e R2 em cada classe.
+4. Analise **o=Ø-xi** e **i-xi**.
+5. Por que **tao** é analisado como resultado de **t-dao**?
+6. Analise **o=d-op** e **t-op**.
+7. Que particularidade **op** e **uk'a** apresentam entre os inalienáveis descritos?
+8. Qual é a função de **e-** em **o=Ø-e-kobe**?
+9. Por que **wekobe** não deve ser segmentado apenas pela aparência?
+10. Diferencie **e=** pessoa 2 e **e-** alienador.
+11. Compare **i-xi**, **t-op** e **ce-e-kobe** quanto a R2.
+12. O que permanece igual nos paradigmas alienável e inalienável?
+13. Por que uma entrada lexical isolada não basta para classificar o nome?
+14. O que os empréstimos citados demonstram e o que não demonstram?
+15. Monte uma ficha diagnóstica para um nome ainda não classificado.
+16. Explique por que “alienável” não significa “vendável”.
+
+
+
+
+---
+
 # 97. Repertório: Território, água, céu e fogo
 
 ## Distinções deste campo
@@ -4201,6 +4675,88 @@ No PDF e no texto integral gerados, as respostas são reunidas abaixo por capít
 
 
 
+## 17. Pessoa e referência: quem participa da cena
+
+
+1. 12 combina falante e interlocutor; 13 combina falante e terceira pessoa, excluindo o interlocutor; 23 marca segunda pessoa plural.
+2. 12 inclui quem fala e quem ouve. 13 inclui quem fala e outra pessoa, mas não quem ouve.
+3. 1, 12, 13, 2 e 23, respectivamente.
+4. Indica que a tabela não apresenta um pronome pessoal independente dedicado à terceira pessoa. Não é uma forma pronunciável.
+5. **õn** é pronome independente; **o=** é clítico dependente de um hospedeiro.
+6. A marca de primeira pessoa no predicado, realizada pelo clítico **o=**.
+7. A tradução portuguesa neutraliza a oposição inclusivo/exclusivo. A análise precisa preservar quem integra o grupo.
+8. Não. É convenção da linha analítica para fronteira clítica.
+9. **o=** clítico de 1ª pessoa sujeito; **y-** relacional R2; **aoka** base ‘matar’ no exemplo.
+10. Pertencem a séries funcionais diferentes: pronome independente, sujeito processual e paradigma absolutivo/nominal.
+11. Deve incluir forma exata, linha analítica, código, função, hospedeiro, tradução contextual, obra e página/exemplo.
+12. Seria necessário contexto discursivo e comparação de ocorrências, não apenas a presença do pronome.
+13. Viola a proibição de completar lacunas por analogia e contradiz a descrição de que a terceira pessoa usa nomes e pronomes não pessoais.
+14. **oceju** é forma; 13 é código analítico; “nós exclusivo” é tradução explicativa.
+
+
+
+## 18. Pronomes independentes, clíticos e prefixos
+
+
+1. Independente forma constituinte próprio; clítico depende prosodicamente e se liga a um sintagma; prefixo integra morfologicamente o tema.
+2. O relacional **d-** fica entre o marcador e a base, como ocorre com possuidor lexical; isso identifica **o=** como unidade estrutural separada.
+3. Marca a contiguidade entre possuidor e nome possuído na análise de Gomes.
+4. **=** separa clítico; hífen separa morfema preso integrado ao tema.
+5. Material incorporado pode intervir entre o marcador pessoal e o núcleo verbal.
+6. A fonte atesta a construção específica; imitação sem dados poderia criar formas ou combinações não documentadas.
+7. **o=** marca primeira pessoa objeto em ‘você me chamou’; **e=**, segunda pessoa objeto em ‘eu chamei você’.
+8. Que marcador e verbo pertencem a um constituinte capaz de aparecer em posições diferentes como unidade.
+9. **õn/o=; wuyju/wuy=; oceju/oce=; ẽn/e=; eyju/ey=**.
+10. Não. As séries precisam ser aprendidas como paradigmas; correspondências aparentes não autorizam regra produtiva.
+11. A função muda conforme nome, posposição ou verbo. A pessoa é constante; a tradução depende da construção.
+12. É um clítico que precede seu hospedeiro ou o sintagma que encabeça.
+13. **d-op**, composto pelo relacional e pela base nominal.
+14. Confundiu notação de análise com ortografia corrente.
+15. Posição do relacional, possibilidade de material interveniente, dependência prosódica e comportamento do sintagma.
+
+
+
+## 19. Posse e paradigma nominal
+
+
+1. 1 **o=**; 12 **wuy=**; 13 **oce=**; 2 **e=**; 23 **ey=**; 3CORF **je=**.
+2. **i-** é relacional de não contiguidade, não pronome ou clítico pessoal.
+3. Um morfema relacional R1 sem realização sonora; não se pronuncia “zero”.
+4. **wuy=Ø-ba** e **oce=Ø-ba**.
+5. A primeira inclui interlocutor; a segunda o exclui.
+6. Marca possuidor correferente, aproximadamente “de si mesmo”; falta identificar o antecedente no contexto.
+7. A primeira tem possuidor clítico contíguo e R1; a segunda marca possuidor não contíguo por R2.
+8. **ey=Ø-ba**.
+9. **eba**.
+10. Nome alienável, que recebe **e-** quando possuído.
+11. É notação de dependência/segmentação na representação da base, não um grafema da palavra.
+12. Alterar pessoa com base fixa aprende a série; alterar base com pessoa fixa revela as classes.
+13. “Nosso braço, exclusivo”: o interlocutor não integra o grupo possuidor.
+14. Porque o ajuste é condicionado morfologicamente; sem documentação, a generalização pode produzir formas falsas.
+15. **Biboy d-op** ‘flecha do Biboy’, em Gomes (2006, exemplo 3b).
+
+
+## 20. Nomes inalienáveis e alienáveis
+
+
+1. Inalienáveis têm relação possessiva inerente e morfologia pessoal/relacional; alienáveis podem ocorrer sem possuidor e recebem **e-** quando possuídos.
+2. **-xi** ‘mãe’, **-dao** ‘perna’ e **op** ‘flecha’.
+3. Classe I: Ø-/i-; IIa: Ø-/t- com fusão; IIb: d-/t-.
+4. Primeira pessoa possuidor com R1 zero versus R2 para possuidor não contíguo.
+5. O paradigma e a comparação com outras pessoas sustentam a fusão do relacional **t-** com base iniciada em **d**.
+6. Clítico 1 + R1 **d-** + base, contra R2 **t-** + base.
+7. Podem aparecer sem referência explícita ao possuidor, embora pertençam à classe relacional IIb.
+8. Marca alienabilidade e permite que **kobe** entre numa construção possessiva.
+9. A forma resulta de clítico, R1 zero, alienador e base, com ajuste **o + e → we**.
+10. **e=** é clítico de segunda pessoa; **e-** é morfema de alienabilidade. A notação e a posição distinguem as funções.
+11. São alomorfes/realizações de R2 condicionados pela classe nominal: **i-**, **t-**, **ce-**.
+12. A série de clíticos pessoais **o, wuy, oce, e, ey, je**.
+13. A classe é demonstrada pelo comportamento em paradigma, especialmente R1, R2 e alienador, não pelo significado traduzido sozinho.
+14. Mostram que a estratégia alienável foi produtiva nos dados da tese; não validam automaticamente qualquer novo empréstimo ou uso atual.
+15. Deve registrar forma livre, formas com 1/2, R2, possuidor lexical, fonte, localização e grau de certeza.
+16. É uma categoria morfossintática de posse, não uma afirmação jurídica ou física sobre o referente.
+
+
 ## 97. Repertório: Território, água, céu e fogo
 
 
@@ -5173,7 +5729,7 @@ As explicações deste curso foram redigidas em sequência própria; não reprod
 
 ## Morfologia e sintaxe
 
-Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Capítulo 1: marcação pessoal e flexão relacional. A análise o=Ø-ba, associada à forma oba, é usada nesta etapa para distinguir a linha analítica da escrita corrente. O estudo extenso de pessoa, posse e construções verbais permanece para os próximos lotes.
+Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Os capítulos 17–20 usam as tabelas 1.2, 1.3, 1.6, 3.1, 3.2 e 4.1, além dos exemplos 1–4 da seção 1.1.5.1. A localização inclui páginas impressas 22–28, 88–91 e 121. Formas correntes, segmentações, glossas e traduções foram separadas; as explicações e atividades são originais desta edição.
 
 https://repositorio.unb.br/handle/10482/3754
 
@@ -5183,12 +5739,12 @@ https://www.scielo.br/j/bgoeldi/a/M9swfwRCmsmx8K4yQQjRdKJ/?lang=pt
 
 ## Conteúdo efetivamente concluído nesta etapa
 
-Há abertura, 16 capítulos de fundamentos, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
+Há abertura, 20 capítulos de fundamentos e gramática inicial, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. Os capítulos 17–20 iniciam pessoa, referência, clíticos e classes possessivas com paradigmas documentados. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
 
 Os números reservados para partes gramaticais futuras não correspondem a páginas ou capítulos já escritos. O índice contém somente material presente. A meta de mil a duas mil páginas ainda não está alcançada. Este documento é uma etapa verificável da reconstrução, não a apostila final completa.
 
 ## Próximos lotes
 
-O próximo lote deverá desenvolver referência pessoal, pronomes, clíticos e posse com paradigmas atestados em Gomes (2006), análise passo a passo e prática cumulativa. A ampliação lexical deverá incorporar construções e novas fontes, sem transformar as correspondências de dicionário em frases inventadas.
+O próximo lote deverá aprofundar posse e flexão relacional nos capítulos 21–24: possuidor lexical, objetos de posposição, R1/R2 e ajustes morfofonológicos. A ampliação lexical deverá incorporar construções e novas fontes, sem transformar as correspondências de dicionário em frases inventadas.
 
 Continuam pendentes corpus amplo de leituras graduadas, áudio autorizado, instruções Munduruku validadas e revisão do conjunto por educadores ou falantes. Retirar traduções de itens conhecidos não será apresentado como imersão integral. Essas pendências são objetivos editoriais concretos, e não páginas a serem preenchidas com repetição.

@@ -1,7 +1,7 @@
 {
-  "paginas": 265,
-  "palavras": 57920,
-  "arquivos_de_capitulos": 41,
+  "paginas": 289,
+  "palavras": 62687,
+  "arquivos_de_capitulos": 45,
   "registros_IDS": 437,
   "temas_IDS": 22,
   "tarefas_lexicais": 407,
@@ -10,9 +10,9 @@
   "paginas_vazias": [],
   "problemas_de_limites": [],
   "caracteres_sem_glifo": [],
-  "sha256": "b3ffd91fa45f85009badc9c0fd0753c9f791d55e6de635108d6a4e515f4717c1",
+  "sha256": "953be643c783b03db43a64c377fc258491a86b73b194a78840463a57a27307cb",
   "revisao_por_falantes": false,
   "obra_final_completa": false,
   "meta_paginas_alcancada": false,
-  "revisao_visual": "Todas as 265 paginas renderizadas e inspecionadas em nove folhas de contato; paginas do novo bloco, tabelas, gabarito e referencias conferidas em resolucao maior."
+  "revisao_visual": "Todas as 289 paginas renderizadas e inspecionadas em dez folhas de contato; paginas dos capitulos 17-20, tabelas, gabarito e referencias conferidas em resolucao maior."
 }

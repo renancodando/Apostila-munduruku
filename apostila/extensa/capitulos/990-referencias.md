@@ -22,7 +22,7 @@ As explicações deste curso foram redigidas em sequência própria; não reprod
 
 ## Morfologia e sintaxe
 
-Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Capítulo 1: marcação pessoal e flexão relacional. A análise o=Ø-ba, associada à forma oba, é usada nesta etapa para distinguir a linha analítica da escrita corrente. O estudo extenso de pessoa, posse e construções verbais permanece para os próximos lotes.
+Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Os capítulos 17–20 usam as tabelas 1.2, 1.3, 1.6, 3.1, 3.2 e 4.1, além dos exemplos 1–4 da seção 1.1.5.1. A localização inclui páginas impressas 22–28, 88–91 e 121. Formas correntes, segmentações, glossas e traduções foram separadas; as explicações e atividades são originais desta edição.
 
 https://repositorio.unb.br/handle/10482/3754
 
@@ -32,12 +32,12 @@ https://www.scielo.br/j/bgoeldi/a/M9swfwRCmsmx8K4yQQjRdKJ/?lang=pt
 
 ## Conteúdo efetivamente concluído nesta etapa
 
-Há abertura, 16 capítulos de fundamentos, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
+Há abertura, 20 capítulos de fundamentos e gramática inicial, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. Os capítulos 17–20 iniciam pessoa, referência, clíticos e classes possessivas com paradigmas documentados. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
 
 Os números reservados para partes gramaticais futuras não correspondem a páginas ou capítulos já escritos. O índice contém somente material presente. A meta de mil a duas mil páginas ainda não está alcançada. Este documento é uma etapa verificável da reconstrução, não a apostila final completa.
 
 ## Próximos lotes
 
-O próximo lote deverá desenvolver referência pessoal, pronomes, clíticos e posse com paradigmas atestados em Gomes (2006), análise passo a passo e prática cumulativa. A ampliação lexical deverá incorporar construções e novas fontes, sem transformar as correspondências de dicionário em frases inventadas.
+O próximo lote deverá aprofundar posse e flexão relacional nos capítulos 21–24: possuidor lexical, objetos de posposição, R1/R2 e ajustes morfofonológicos. A ampliação lexical deverá incorporar construções e novas fontes, sem transformar as correspondências de dicionário em frases inventadas.
 
 Continuam pendentes corpus amplo de leituras graduadas, áudio autorizado, instruções Munduruku validadas e revisão do conjunto por educadores ou falantes. Retirar traduções de itens conhecidos não será apresentado como imersão integral. Essas pendências são objetivos editoriais concretos, e não páginas a serem preenchidas com repetição.
