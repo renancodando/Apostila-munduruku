@@ -1,0 +1,103 @@
+{
+  "versao": 2,
+  "status": "em_reconstrucao",
+  "meta_paginas": {
+    "minimo": 1000,
+    "referencia_superior": 2000,
+    "criterio": "conteudo util e documentado, sem inflacao de paginas"
+  },
+  "edicao_anterior": {
+    "paginas": 118,
+    "palavras": 23343,
+    "registros_lexicais_selecionados": 376
+  },
+  "trabalho_ativo": null,
+  "automacao": {
+    "id": "6abf48752aa881918cc1286d0cba8da2",
+    "frequencia": "horaria",
+    "detecta_renovacao_de_cota": false
+  },
+  "lotes": [
+    {
+      "id": "A",
+      "assunto": "metodo, escrita e fundamentos de analise com explicacoes extensas",
+      "status": "primeira_redacao_publicada",
+      "conteudo": "abertura e capitulos 1-4 e 9, explicacoes e respostas; ampliar aplicacao em construcoes nos lotes seguintes"
+    },
+    {
+      "id": "B",
+      "assunto": "fonetica, fonologia, tom, nasalidade e exercicios contrastivos",
+      "status": "primeira_redacao_publicada",
+      "conteudo": "capitulos 5-8 e 10-16; inventario consonantal, distribuicao, alofonia, silaba aplicada, alfabeto, convencoes, pratica e respostas comentadas; falta validacao oral por falantes"
+    },
+    {
+      "id": "C",
+      "assunto": "pessoa, referencia e posse com paradigmas atestados",
+      "status": "pendente"
+    },
+    {
+      "id": "D",
+      "assunto": "predicacao, verbos, aspecto e derivacao",
+      "status": "pendente"
+    },
+    {
+      "id": "E",
+      "assunto": "relacoes espaciais, tempo, quantidade e particulas",
+      "status": "pendente"
+    },
+    {
+      "id": "F",
+      "assunto": "estruturas complexas, classificacao e incorporacao",
+      "status": "pendente"
+    },
+    {
+      "id": "G",
+      "assunto": "repertorio tematico de todos os registros IDS e ampliacao por outras fontes",
+      "status": "parcial",
+      "conteudo": "437 registros IDS, 22 temas e 407 tarefas; faltam contextos atestados amplos e novas fontes"
+    },
+    {
+      "id": "H",
+      "assunto": "leituras graduadas atestadas e oficinas integradas",
+      "status": "pendente"
+    },
+    {
+      "id": "I",
+      "assunto": "avaliacoes, gabarito integral e indices",
+      "status": "parcial",
+      "conteudo": "gabarito da etapa e indice clicavel; faltam avaliacoes cumulativas do curso completo"
+    }
+  ],
+  "proximo_passo": "Redigir capitulos 17-34 sobre pessoa, referencia, pronomes, cliticos e posse a partir dos paradigmas atestados em Gomes 2006, com separacao rigorosa entre forma corrente, segmentacao, glossa e traducao. Localizar paginas e exemplos antes de escrever e marcar variedade quando pertinente. Nao regenerar o lexico apenas para multiplicar tarefas iguais; ampliar com contextos documentados. Atualizar o mesmo PDF de trabalho e o texto integral, revisar e publicar.",
+  "impedimentos": [
+    "Ainda nao ha corpus amplo de narrativas graduadas nem audios autorizados.",
+    "Nao houve revisao por professores ou falantes Munduruku.",
+    "A meta de 1000 paginas ainda nao foi alcancada."
+  ],
+  "ultima_etapa_publicada": {
+    "data": "2026-10-02",
+    "paginas": 265,
+    "palavras": 57920,
+    "registros_lexicais": 437,
+    "temas_lexicais": 22,
+    "tarefas_lexicais": 407,
+    "capitulos_fundamentais": 16,
+    "novo_bloco": "capitulos 10-16: consoantes, ambientes, silaba aplicada, alfabeto e oficina ortografica",
+    "pdf": "extensa/pdf/Munduruku-Edicao-Extensa-Em-Construcao.pdf",
+    "texto": "extensa/Munduruku-Extensa-Texto-Integral.md"
+  },
+  "verificacao_ultima_etapa": "extensa/verificacao.json",
+  "estado_da_meta": "265 paginas de trabalho; obra incompleta; nao desativar a continuidade",
+  "arquivos_entregues": {
+    "pdf": {
+      "library_file_id": "libfile_bfcd706bc2c481918b4df217ef3a19e0",
+      "versao": 2,
+      "nome": "Munduruku-Edicao-Extensa-Em-Construcao.pdf"
+    },
+    "texto": {
+      "library_file_id": "libfile_dbf3256d2f508191a2ba2a1fadcfbbc0",
+      "versao": 2,
+      "nome": "Munduruku-Extensa-Texto-Integral.md"
+    }
+  }
+}

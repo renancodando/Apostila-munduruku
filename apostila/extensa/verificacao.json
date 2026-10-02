@@ -1,0 +1,18 @@
+{
+  "paginas": 265,
+  "palavras": 57920,
+  "arquivos_de_capitulos": 41,
+  "registros_IDS": 437,
+  "temas_IDS": 22,
+  "tarefas_lexicais": 407,
+  "fonte_IDS_preservada": true,
+  "paginas_pouco_densas": [],
+  "paginas_vazias": [],
+  "problemas_de_limites": [],
+  "caracteres_sem_glifo": [],
+  "sha256": "b3ffd91fa45f85009badc9c0fd0753c9f791d55e6de635108d6a4e515f4717c1",
+  "revisao_por_falantes": false,
+  "obra_final_completa": false,
+  "meta_paginas_alcancada": false,
+  "revisao_visual": "Todas as 265 paginas renderizadas e inspecionadas em nove folhas de contato; paginas do novo bloco, tabelas, gabarito e referencias conferidas em resolucao maior."
+}
