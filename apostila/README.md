@@ -1,6 +1,6 @@
 # Munduruku: reconstrução do curso autodidata extenso
 
-A edição extensa está em construção, conforme o pedido de uma obra de 1.000 a 2.000 páginas úteis. A etapa disponível tem **314 páginas**, cerca de **67 mil palavras**, **437 registros lexicais** em **22 temas**, **407 tarefas lexicais**, 24 capítulos de fundamentos e gramática inicial e gabarito separado. O novo bloco 21–24 aprofunda possuidor lexical, objetos de posposição, R1/R2 e ajustes morfofonológicos com dados documentados. **Ainda não é a obra final completa.**
+A edição extensa está em construção, conforme o pedido de uma obra de 1.000 a 2.000 páginas úteis. A etapa disponível tem **343 páginas**, cerca de **72,7 mil palavras**, **437 registros lexicais** em **22 temas**, **407 tarefas lexicais**, 28 capítulos de fundamentos e gramática inicial e gabarito separado. O novo bloco 25–28 aprofunda nomes de parte e parentesco, função classificatória, produtividade dos nomes alienáveis e outros morfemas nominais com dados documentados. **Ainda não é a obra final completa.**
 
 - [Baixar o PDF de trabalho](extensa/pdf/Munduruku-Edicao-Extensa-Em-Construcao.pdf)
 - [Ler o texto integral da reconstrução](extensa/Munduruku-Extensa-Texto-Integral.md)

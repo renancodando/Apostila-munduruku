@@ -2322,6 +2322,582 @@ Observe que formas parecidas podem ter estruturas diferentes: **we-** em **wekob
 
 ---
 
+# 25. Nomes de parte e parentesco
+
+## O que a classe revela
+
+Em Mundurukú, a distinção entre nomes **inalienáveis** e **alienáveis** não é apenas uma diferença de significado. Ela aparece na estrutura da palavra e na maneira como o possuidor é ligado ao nome. Gomes (2006, 3.1.1, pp. 88–89) descreve os inalienáveis como constituídos basicamente por nomes de parte e termos de parentesco. “Basicamente” é importante: a classificação precisa ser demonstrada pelo comportamento gramatical, e não adivinhada apenas pelo sentido português.
+
+Um nome de parte designa algo concebido em relação a um todo: dedo de alguém, cabeça de alguém, folha de uma planta. Um termo de parentesco situa uma pessoa numa relação familiar. Nos nomes inalienáveis, essa relação faz parte da estrutura lexical: não é preciso inserir o alienador **e-**, característico dos nomes alienáveis.
+
+Compare o modelo já aprendido:
+
+| construção documentada | análise mínima | leitura |
+|---|---|---|
+| **Pedoro Ø-bu** | Pedro R1-dedo | ‘dedo de Pedro’ |
+| **Pedoro Ø-'a** | Pedro R1-cabeça | ‘cabeça de Pedro’ |
+| **ako Ø-dup** | bananeira R1-folha | ‘folha da bananeira’ |
+
+O símbolo **Ø-** não indica ausência de relação. Ele registra que o relacional R1, usado com o determinante contíguo, não tem som nesse contexto. A sequência contém duas unidades: o possuidor lexical e o nome relacional.
+
+## Inalienabilidade não significa posse jurídica
+
+“Posse” é um rótulo gramatical amplo. Em **Pedoro Ø-bu**, não se afirma que Pedro seja proprietário jurídico do dedo. A construção codifica uma relação parte–todo. O mesmo vale para parentesco: a língua representa uma relação entre participantes, não um objeto livremente transferível.
+
+Por isso, traduções portuguesas com **de** escondem uma diferença. “Dedo de Pedro”, “canoa de Pedro” e “história de Pedro” podem ter a mesma preposição em português, mas não precisam usar a mesma estratégia em Mundurukú. O aprendiz deve perguntar:
+
+1. qual é o nome nuclear;
+2. se a fonte o classifica como inalienável ou alienável;
+3. se o possuidor está contíguo;
+4. qual relacional é exigido;
+5. se existe alienador.
+
+## Partes: corpo e outros todos
+
+O grupo “parte” não se limita ao corpo humano. Os dados incluem **-bu** ‘dedo’, **-'a** ‘cabeça’ e **-dup** ‘folha’. A relação parte–todo pode ligar uma folha à bananeira. A categoria gramatical reúne relações que o português distribui entre corpo, planta e outros domínios.
+
+Isso não permite concluir que todo nome traduzível como parte pertença automaticamente à classe. O procedimento seguro continua sendo consultar paradigma ou exemplo. A expressão “parte” descreve a tendência central da classe, não substitui a documentação lexical.
+
+## Parentesco e a exceção à intuição
+
+Também não se deve classificar todo parentesco por intuição. Na tabela de Gomes, **bay** ‘pai’ e **ajot** ‘avô’ aparecem entre os nomes alienáveis. Esse fato impede uma regra simplista do tipo “parentesco = inalienável”. A generalização correta é mais modesta:
+
+- termos de parentesco integram o núcleo semântico dos inalienáveis;
+- itens particulares podem pertencer à classe alienável;
+- a entrada lexical e o paradigma têm prioridade sobre a tradução.
+
+Ao encontrar um termo novo, registre “classe ainda não verificada” até localizar evidência. Uma lacuna declarada é melhor do que uma forma fabricada.
+
+## Diagnóstico estrutural
+
+Nos dados desta etapa, três sinais ajudam a reconhecer um inalienável:
+
+- o nome participa do sistema R1/R2;
+- com possuidor lexical contíguo, aparece R1, muitas vezes **Ø-**;
+- não há **e-** entre o relacional e a base.
+
+Esses sinais precisam ser considerados em conjunto. O zero não é diagnóstico isolado, pois outras estruturas também podem ter material não pronunciado. Da mesma forma, a tradução “de” não informa a classe.
+
+Analise **ako Ø-dup** por camadas:
+
+1. **ako** é o determinante lexical, ‘bananeira’;
+2. ele está imediatamente antes do núcleo;
+3. **Ø-** é R1 de contiguidade;
+4. **dup** é o nome dependente, ‘folha’;
+5. a expressão inteira significa ‘folha da bananeira’.
+
+## Relação com R2
+
+Quando o determinante não está contíguo, o sistema pode exigir R2. Os capítulos 21–24 mostraram que a forma de R2 depende da classe e do início da base. Não transforme os três exemplos acima em paradigmas completos por analogia. Aqui eles demonstram R1 com possuidor contíguo; outras células só devem ser preenchidas quando a fonte as atestar.
+
+Essa disciplina evita dois erros:
+
+- acrescentar **t-**, **i-** ou outro relacional porque uma base “parece” pertencer a uma subclasse;
+- tratar **Ø-** como se fosse opcional e apagar a análise relacional.
+
+## Cartão lexical documentado
+
+Para cada nome relacional, mantenha uma ficha:
+
+| campo | exemplo com **-bu** |
+|---|---|
+| forma citada | **-bu** |
+| sentido neste uso | dedo |
+| classe | inalienável, nome de parte |
+| construção atestada | **Pedoro Ø-bu** |
+| função do relacional | R1, determinante contíguo |
+| limite | R2 e demais pessoas não são inferidos aqui |
+
+O hífen inicial em **-bu**, **-'a** e **-dup** lembra que são nomes dependentes na descrição. Ele não deve ser copiado como pontuação numa escrita corrida sem que se saiba a convenção adotada.
+
+## Leitura comparativa
+
+Classifique sem traduzir primeiro:
+
+| sequência | determinante | relacional | núcleo | relação |
+|---|---|---|---|---|
+| **Pedoro Ø-bu** | **Pedoro** | **Ø-** | **bu** | pessoa–parte |
+| **Pedoro Ø-'a** | **Pedoro** | **Ø-** | **'a** | pessoa–parte |
+| **ako Ø-dup** | **ako** | **Ø-** | **dup** | planta–parte |
+
+Somente depois acrescente as traduções. Esse caminho força o reconhecimento da estrutura e reduz a dependência do português.
+
+## Protocolo de produção responsável
+
+Você pode reproduzir as construções documentadas e explicar suas camadas. Não deve substituir livremente **Pedoro** ou **ako** por outro nome e apresentar o resultado como frase confirmada. Uma atividade de hipótese pode propor a substituição, mas a resposta deve permanecer marcada como “a verificar com fonte ou falante”.
+
+Em trabalho de campo, a pergunta adequada não é apenas “como se diz X?”. É melhor apresentar um contexto, pedir a forma natural e depois testar contrastes de contiguidade e referência. Este livro não simula essa validação.
+
+## Atividades
+
+1. Defina nome inalienável em termos estruturais.
+2. Quais domínios formam basicamente a classe segundo Gomes?
+3. Segmente **Pedoro Ø-bu**.
+4. Qual é a função de **Ø-** nesse exemplo?
+5. Segmente **ako Ø-dup** e identifique a relação semântica.
+6. Por que “inalienável” não deve ser entendido como propriedade jurídica?
+7. A preposição portuguesa **de** permite descobrir a classe nominal? Explique.
+8. Que elemento esperado em nomes alienáveis não aparece nos três exemplos centrais?
+9. Por que o hífen inicial é útil na forma de citação?
+10. Todo termo de parentesco é inalienável? Use a evidência disponível.
+11. Por que não é seguro completar o R2 de **-dup** por analogia?
+12. Ordene o protocolo: identificar a classe; localizar o núcleo; verificar contiguidade; escolher o relacional; conferir o exemplo.
+13. Em **Pedoro Ø-'a**, qual constituinte é o núcleo?
+14. Compare as relações de **Pedoro Ø-bu** e **ako Ø-dup**.
+15. Crie uma ficha lexical para **-'a** usando apenas informação deste capítulo.
+16. Como se deve marcar uma classe ainda não documentada?
+17. Explique por que “zero” não significa “sem gramática”.
+18. Qual é a diferença entre reproduzir um dado e gerar um paradigma?
+
+
+
+
+---
+
+# 26. Nomes em função classificatória
+
+## Uma mesma forma, duas tarefas
+
+Alguns nomes inalienáveis podem ocorrer em função classificatória. Nessa função, a forma não designa literalmente dedo, cabeça ou folha; ela agrupa entidades por propriedades percebidas de forma, consistência ou aparência. Gomes (2006, 3.1–3.1.1, pp. 87–89) usa a abreviatura **NFC**, “nome em função classificatória”.
+
+O contraste deve ser aprendido por pares:
+
+| forma dependente | uso referencial de parte | uso classificatório documentado |
+|---|---|---|
+| **-bu** | **Pedoro Ø-bu** ‘dedo de Pedro’ | **puy Ø-bu** ‘cobra’ |
+| **-'a** | **Pedoro Ø-'a** ‘cabeça de Pedro’ | **uk Ø-'a** ‘casa’ |
+| **-dup** | **ako Ø-dup** ‘folha da bananeira’ | **warepupu Ø-dup** ‘borboleta’ |
+
+No segundo uso, a tradução não é a soma literal das traduções das partes. **puy Ø-bu** não deve ser traduzido palavra por palavra como “dedo de cobra” quando o conjunto lexical identifica ‘cobra’. A análise NFC registra que **-bu** classifica, em vez de referir a um dedo específico.
+
+## O que cada forma classifica
+
+Nos dados apresentados por Gomes:
+
+- **-bu** associa-se a objetos ou animais compridos e flexíveis;
+- **-'a** associa-se a objetos ou animais arredondados;
+- **-dup** associa-se a referentes com forma semelhante a folha.
+
+Essas descrições são generalizações sobre os exemplos, não licenças para nomear qualquer objeto novo. Uma mangueira, uma bola ou um pedaço de papel podem parecer adequados a um falante de português, mas a categorização lexical da língua não é uma taxonomia geométrica automática. Para ampliar o conjunto, é preciso dado Mundurukú.
+
+## Parte referencial versus classificador
+
+Use dois testes de leitura.
+
+**Teste 1: o nome de parte conserva seu referente?**
+
+Em **Pedoro Ø-bu**, há um dedo relacionado a Pedro. Em **puy Ø-bu**, o conjunto denomina a cobra e **-bu** não aponta para um dedo.
+
+**Teste 2: a tradução do conjunto é composicional?**
+
+Em **ako Ø-dup**, ‘folha da bananeira’ conserva a relação entre bananeira e folha. Em **warepupu Ø-dup**, o conjunto identifica ‘borboleta’; a tradução lexical não é “folha de borboleta”.
+
+Os testes convergem, mas o contexto e a documentação permanecem decisivos.
+
+## Estrutura relacional preservada
+
+A mudança de função semântica não apaga a estrutura. Nos seis dados, há um elemento à esquerda e R1 **Ø-** antes do nome dependente. Compare:
+
+**ako Ø-dup**  
+bananeira R1-folha  
+‘folha da bananeira’
+
+**warepupu Ø-dup**  
+borboleta R1-NFC  
+‘borboleta’
+
+A glossa **NFC** evita impor ‘folha’ quando a forma está classificando. Ela também permite ver que a mesma unidade lexical participa de duas construções relacionadas.
+
+## Classificação não é tradução oculta
+
+Não procure uma palavra portuguesa fixa para NFC. A glossa técnica descreve a função da unidade no exemplo. A tradução final identifica o referente da expressão inteira. São níveis diferentes:
+
+1. **forma:** material efetivamente escrito;
+2. **segmentação:** fronteiras morfológicas;
+3. **glossa:** função ou valor de cada segmento;
+4. **tradução:** interpretação do conjunto no contexto.
+
+Misturar esses níveis produz análises como “**-dup** sempre significa borboleta”, que são falsas: no outro par, **-dup** significa ‘folha’.
+
+## Classificador e incorporação
+
+A descrição de Gomes aproxima o uso classificatório do comportamento especial de nomes inalienáveis, inclusive sua possibilidade de incorporação a predicados. Mas “uso classificatório” e “incorporação” não são sinônimos.
+
+- na função classificatória estudada aqui, o nome dependente contribui para categorizar um referente nominal;
+- na incorporação, um nome integra um predicado verbal e altera sua estrutura morfológica/sintática.
+
+Reconhecer **NFC** em **uk Ø-'a** não basta para afirmar que houve incorporação verbal: não há verbo nessa expressão. A incorporação será tratada em um lote próprio, com os predicados completos.
+
+## Anáfora e recuperação do referente
+
+A tese também discute o emprego anafórico de nomes em função classificatória: uma forma classificatória pode ajudar a retomar uma entidade já identificada. O mecanismo exige discurso anterior. Como os exemplos completos incluem estruturas ainda não ensinadas, este capítulo limita a produção a uma regra de leitura: se NFC parece “substituir” um nome, procure o antecedente no contexto, não invente um referente.
+
+Esse ponto mostra por que listas isoladas são insuficientes. A gramática pode usar propriedades classificatórias para manter a referência ao longo do discurso.
+
+## Matriz de decisão
+
+Ao encontrar uma das três formas, preencha:
+
+| pergunta | se a resposta for sim |
+|---|---|
+| há uma parte concreta relacionada ao elemento anterior? | considerar leitura referencial |
+| o conjunto inteiro é um nome lexical documentado? | considerar NFC |
+| a glossa da fonte registra NFC? | tratar como classificatório |
+| existe antecedente no discurso? | testar leitura anafórica |
+| há um predicado verbal contendo o nome? | investigar incorporação, sem confundir com NFC |
+
+A matriz orienta a análise; ela não substitui a fonte.
+
+## Pares de contraste para memorização
+
+Memorize o contraste, não uma lista solta:
+
+- **Pedoro Ø-bu**: o referente de **-bu** é parte corporal;
+- **puy Ø-bu**: **-bu** classifica um referente comprido/flexível;
+- **Pedoro Ø-'a**: **-'a** refere a cabeça;
+- **uk Ø-'a**: **-'a** classifica uma entidade arredondada;
+- **ako Ø-dup**: **-dup** refere a folha;
+- **warepupu Ø-dup**: **-dup** classifica pela semelhança de forma.
+
+As traduções registradas são ‘dedo de Pedro’, ‘cobra’, ‘cabeça de Pedro’, ‘casa’, ‘folha da bananeira’ e ‘borboleta’. Não altere a forma para “corrigir” a aparente distância entre glossa e tradução.
+
+## Exercícios
+
+1. O que significa NFC nesta apostila?
+2. Compare a função de **-bu** nos dois exemplos.
+3. Por que **puy Ø-bu** não recebe automaticamente a tradução “dedo da cobra”?
+4. Qual propriedade é associada a **-bu** nos dados?
+5. Qual propriedade é associada a **-'a**?
+6. Qual propriedade é associada a **-dup**?
+7. Analise **warepupu Ø-dup** em quatro níveis: forma, segmentação, glossa funcional e tradução.
+8. Em qual exemplo **-dup** conserva o sentido referencial ‘folha’?
+9. Classifique como PARTE ou NFC: **Pedoro Ø-'a**.
+10. Classifique como PARTE ou NFC: **uk Ø-'a**.
+11. Por que semelhança visual não autoriza criar classificações novas?
+12. NFC e incorporação são equivalentes? Explique.
+13. Que indício textual é necessário para uma leitura anafórica?
+14. O R1 desaparece quando o nome passa a classificar?
+15. Construa uma tabela com os três pares, sem acrescentar exemplos.
+16. Qual erro existe na afirmação “**-dup** significa borboleta”?
+17. Em que nível deve aparecer a tradução ‘casa’ para **uk Ø-'a**?
+18. Formule uma pergunta de pesquisa para verificar um possível novo uso de **-bu** sem afirmar a resposta.
+
+
+
+
+---
+
+# 27. Produtividade dos nomes alienáveis
+
+## O alienador como ponte
+
+Nomes alienáveis não trazem um possuidor inerente. Quando entram numa construção possessiva, os dados de Gomes (2006, 3.1.2, pp. 90–92) apresentam o morfema **e-**, chamado aqui de **alienador**, entre a marca relacional/pessoal e a base. A estrutura geral já estudada pode ser retomada assim:
+
+**pessoa ou R2 + e- + nome alienável**
+
+Em **w-e-kartera** ‘minha carteira’, a análise distingue:
+
+- **w-**: resultado da combinação da primeira pessoa com o início da construção;
+- **e-**: alienador;
+- **kartera**: base nominal ‘carteira’.
+
+A escrita corrente pode condensar fronteiras. Por isso, as linhas de análise e de forma nunca devem ser confundidas.
+
+## Uma classe lexicalmente ampla
+
+A tabela de Gomes reúne nomes como:
+
+| forma | tradução registrada |
+|---|---|
+| **kobe** | canoa |
+| **wiap** | abano/leque |
+| **posũg** | remédio |
+| **kapikap** | trabalho |
+| **o'i** | farinha |
+| **bay** | pai |
+| **ajot** | avô |
+| **tarekrek** | bens/coisas |
+| **tako** | região/área |
+| **kawẽn** | fala/história |
+
+A diversidade confirma que “alienável” não quer dizer apenas objeto comprado. A classe inclui artefatos, substâncias, atividades, lugares, discurso e até termos de parentesco. A classe é gramatical.
+
+## Empréstimos e produtividade
+
+Gomes observa que empréstimos foram sistematicamente alocados à classe alienável nos dados analisados. A tese fornece uma série de formas de primeira pessoa:
+
+| construção documentada | leitura |
+|---|---|
+| **w-e-kartera** | minha carteira |
+| **w-e-kopo** | meu copo |
+| **w-e-parato** | meu prato |
+| **w-e-aviãw** | meu avião |
+| **w-e-pixag̃a** | meu gato |
+| **w-e-kawsãw** | meu calção |
+| **w-e-asukara** | meu açúcar |
+| **w-e-sako** | meu saco |
+| **w-e-mĩkaw** | meu mingau |
+| **w-e-ospitaw** | meu hospital |
+| **w-e-kõsota** | minha consulta |
+| **w-e-peta** | minha festa |
+| **w-e-kaixa'a** | minha caixa |
+| **w-e-bora'a** | minha bola |
+| **w-e-muketero'a** | meu mosquiteiro |
+| **w-e-kaneta'ip** | minha caneta |
+
+Esta lista demonstra produtividade histórica/descritiva no corpus da tese. Ela não autoriza pegar qualquer palavra portuguesa atual, adaptar sua ortografia e anexar **w-e-**. Empréstimo envolve adoção comunitária, forma fonológica convencional e contexto social; não é uma operação individual automática.
+
+## O que significa “produtivo” aqui
+
+Uma estratégia produtiva pode receber itens novos, mas continua sujeita a restrições. Há três níveis:
+
+1. **atestação:** a forma aparece na fonte;
+2. **padrão:** várias formas mostram a mesma estrutura;
+3. **predição:** propõe-se como um item ainda não registrado poderia comportar-se.
+
+Os dois primeiros níveis estão disponíveis neste capítulo. O terceiro precisa de verificação. Assim, **w-e-kopo** pode ser analisado e praticado como dado; uma nova base deve ser marcada como hipótese.
+
+## Nomes considerados “não possuíveis”
+
+Descrições anteriores propuseram uma classe de nomes não possuíveis, sobretudo para corpos celestes e animais. Gomes argumenta contra uma proibição absoluta: contextos apropriados podem estabelecer uma relação possessiva. A tese ilustra isso com formas traduzidas como ‘minha estrela’ e ‘minha onça’, em cenários como desenho ou representação.
+
+O ensinamento metodológico é mais importante que a forma isolada: **posse depende do contexto discursivo**. “Minha onça” pode significar a onça que desenhei, representei, acompanho ou que foi estabelecida de outro modo. Isso não transforma todo animal em propriedade nem elimina diferenças culturais de relação.
+
+Como os exemplos são ilustrações argumentativas do autor e dependem do contexto, este curso não os converte em exercício aberto de fabricação. Use-os para rejeitar a regra “nunca pode ser possuído”, não para produzir qualquer combinação.
+
+## Relações lexicais com e-
+
+O alienador também ocorre quando dois nomes formam relações lexicalizadas ou contextualizadas. Gomes registra:
+
+| construção | tradução/valor no exemplo |
+|---|---|
+| **parawa e-puybu** | espécie chamada ‘cobra-arara’ |
+| **kabi e-Katõ** | ‘céu de Katõ’, nome de aldeia |
+| **ijop e-koato** | ‘este ano’, literalmente relacionado ao verão |
+| **kapusu'at e-kabiok** | ‘ontem à noite’/‘noite de ontem’ |
+
+Aqui, **e-** não é automaticamente equivalente a “de” em português. Ele sinaliza a estratégia alienável, enquanto a interpretação do conjunto pode ser taxonômica, toponímica ou temporal. As traduções literais ajudam a analisar, mas não substituem a tradução idiomática.
+
+## Incorporação de alienáveis
+
+A tese registra que nomes alienáveis também podem ser incorporados, embora com frequência menor que os inalienáveis. Essa observação impede outra regra absoluta: “alienável nunca incorpora”. Ao mesmo tempo, ela não oferece uma licença geral para incorporar qualquer base.
+
+Neste capítulo, retenha somente o contraste de frequência e possibilidade. A análise de exemplos completos ficará para o bloco de predicação e incorporação, porque exige compreender o verbo, o aspecto e a estrutura argumental.
+
+## Como estudar os empréstimos
+
+Agrupe as formas sem apagar sua grafia:
+
+- utensílios: **kartera, kopo, parato, kaixa'a, kaneta'ip**;
+- transporte e lugar: **aviãw, ospitaw**;
+- alimentação: **asukara, sako, mĩkaw**;
+- vida social e cuidados: **kõsota, peta**;
+- animais e objetos pessoais: **pixag̃a, kawsãw, bora'a, muketero'a**.
+
+Os agrupamentos são editoriais, destinados à memorização; não são subclasses gramaticais propostas por Gomes.
+
+## Exercícios
+
+1. Qual morfema caracteriza a posse alienável nos dados estudados?
+2. Segmente **w-e-kartera**.
+3. Por que a classe alienável não pode ser definida como “objetos compráveis”?
+4. Cite dois termos de parentesco listados como alienáveis.
+5. O que a série de empréstimos demonstra?
+6. Ela autoriza adaptar qualquer palavra portuguesa? Justifique.
+7. Diferencie atestação, padrão e predição.
+8. Analise **w-e-asukara** sem modificar a grafia.
+9. Identifique três formas ligadas a utensílios.
+10. Identifique uma forma ligada a cuidados de saúde.
+11. Por que a noção de “não possuível” é relativizada?
+12. Qual papel tem o contexto numa expressão como ‘minha onça’?
+13. Em **kabi e-Katõ**, que função estrutural tem **e-**?
+14. Por que a tradução literal não basta para **ijop e-koato**?
+15. Nomes alienáveis podem ser incorporados?
+16. Por que este capítulo não pede que o aluno invente incorporações?
+17. Classifique como DADO ou HIPÓTESE: **w-e-kopo** ‘meu copo’.
+18. Classifique como DADO ou HIPÓTESE: uma forma criada hoje a partir de uma palavra portuguesa ausente da fonte.
+19. Compare a estrutura de **Pedoro Ø-bu** e **w-e-kartera**.
+20. Explique a diferença entre produtividade e liberdade irrestrita.
+
+
+
+
+---
+
+# 28. Outros morfemas nominais
+
+## Um mapa antes dos detalhes
+
+Além da posse e dos relacionais, o nome pode receber morfemas que expressam número, partição, função circunstancial, privação, estado anterior, projeção futura, grandeza e tamanho. Gomes (2006, 3.1.3, pp. 92–97) documenta o conjunto abaixo:
+
+| morfema | valor principal na seção | exemplo curto |
+|---|---|---|
+| **-yũ** | plural | **wida-yũ** ‘onças’ |
+| **-'in** | partitivo/individualizador | **ag̃okatka-yũ-'in** ‘um dos homens’ |
+| **-m** | instrumental ou translativo | **kise-m** ‘com faca’ |
+| **-'ũm** | falecido/privativo | **ayacat-'ũm** ‘mulher falecida’ |
+| **-buk** | abandonado, antigo vínculo | **i-tayxi-buk** ‘esposa abandonada/viúva’ |
+| **-m** | futuro/prospectivo nominal | **ico-m** ‘futuro cesto’ |
+| **-xiri** | grande ou coletivo | **ag̃oka-xiri** ‘cidade’ |
+| **-'ũn'ũn** | pequeno | **ako-'ũn'ũn Ø-pa** ‘banana-ourinho’ |
+
+A mesma grafia **-m** aparece com funções diferentes. O significado não é recuperado olhando apenas o sufixo: é preciso examinar a classe da base e a construção inteira.
+
+## Plural -yũ
+
+O plural nominal **-yũ** não é obrigatório em toda referência a mais de uma entidade. Gomes ressalta que sua ocorrência não é sistemática. Aprenda as formas documentadas:
+
+- **wida-yũ** ‘onças’;
+- **ayaca-yũ** ‘mulheres’;
+- **biopak-yũ** ‘vacas’.
+
+Em outros itens, o plural aparece junto de reduplicação:
+
+- **obure → oburere-yũ** ‘meus amigos’;
+- **oktop → oktoptop-yũ** ‘meus maridos’;
+- **yaokaat → yaokaka-a(t)-yũ** ‘matadores’.
+
+Esses pares não fornecem uma receita automática de reduplicação. O trecho repetido e os ajustes da base variam. Memorize a oposição atestada e espere o estudo sistemático da reduplicação antes de produzir novas formas.
+
+## Partitivo -'in
+
+O morfema **-'in** seleciona ou individualiza uma porção no contexto. Os dados incluem:
+
+- **ag̃okatka-yũ-'in** ‘um dos homens’;
+- **xiri-'in**, interpretado no exemplo como uma parte/quantidade de inhambus;
+- **iodi-'in**, usado no contexto para ‘outro lago’.
+
+“Partitivo” não corresponde sempre a uma única tradução portuguesa. Pode aparecer como ‘um dos’, ‘alguns’, ‘uma parte’ ou uma leitura individualizada determinada pelo discurso. A ordem no primeiro exemplo é instrutiva: base + plural + partitivo.
+
+## Instrumental e translativo -m
+
+Com valor **instrumental**, **-m** apresenta um meio ou instrumento:
+
+**kise-m**  
+faca-INSTR  
+‘com faca’
+
+Com valor **translativo**, marca o estado ou papel em que algo se transforma ou é constituído. Gomes usa **ico-m** em uma construção traduzida como transformação em cesto. A mesma forma **ico-m** pode receber outra análise no prospectivo nominal, apresentado adiante. O ambiente sintático decide entre as leituras.
+
+Evite traduzir mecanicamente **-m** por “com”. Primeiro pergunte se há instrumento, transformação/papel ou projeção futura.
+
+## -'ũm: falecido e privativo
+
+O morfema **-'ũm** ocorre em mais de uma classe de palavras e participa também da negação. No domínio nominal desta seção, dois valores são claros:
+
+- **ayacat-'ũm** ‘mulher falecida’;
+- **i-ta-'ũm** ‘sem olho/cego’, analisado com valor privativo.
+
+O contraste mostra que uma tradução única seria insuficiente. Ligado a uma pessoa, o morfema pode indicar que ela é falecida; ligado a uma parte, pode indicar ausência. As extensões em verbos e outras classes serão estudadas com a negação, sem assumir que todas são idênticas.
+
+## -buk: vínculo abandonado ou anterior
+
+O sufixo **-buk** caracteriza algo abandonado ou que já não mantém o vínculo anterior. Gomes fornece, entre outros:
+
+- **i-tayxi-buk** ‘esposa abandonada/viúva’;
+- **o=d-uk Ø-'a-buk** ‘minha casa abandonada’.
+
+A tradução varia porque o tipo de vínculo varia. Com pessoa, o estado resulta da ruptura de uma relação; com construção/local, trata-se de abandono. Não reduza **-buk** a um tempo passado geral: seu conteúdo envolve cessação de vínculo ou pertencimento.
+
+## -m prospectivo nominal
+
+Gomes analisa outro **-m** como marcador de futuro nominal:
+
+- **ico → ico-m** ‘futuro cesto’;
+- **parat → paran** ‘futura peneira’;
+- **aviãw e-piloto → aviãw e-piloto-m** ‘futuro piloto de avião’.
+
+Em **paran**, a fronteira fica opaca: a combinação com uma consoante final produz uma realização nasal/pré-nasalizada descrita pela fonte. O par deve ser guardado como dado, e não generalizado a toda palavra terminada em consoante.
+
+A tese propõe, de modo tentativo, uma relação entre esse futuro nominal e o imperfectivo. Trate-a como hipótese analítica do autor, não como fato definitivamente resolvido.
+
+## -xiri: grande e coletivo
+
+O sufixo **-xiri** pode contribuir grandeza ou coletividade:
+
+| forma | valor registrado |
+|---|---|
+| **ag̃oka-xiri** | cidade, aldeia grande |
+| **muba'at-xiri** | tempestade, chuva grande |
+| **daydo-xiri** | espécie de tatu grande |
+| **puy-xiri** | cobra grande mitológica |
+| **dajekco-xiri** | bando de caititus |
+| **bekitkit-xiri** | bando de crianças |
+| **wuyjuyũ-xiri** | coletivo/muita gente |
+
+A reduplicação **xiri-xiri** funciona autonomamente como nome ‘multidão’. A fonte também distingue o sufixo de **xixi** ‘o grande’, nome autônomo empregado em aposição. Portanto:
+
+- **-xiri**: sufixo preso à base;
+- **xiri-xiri**: nome autônomo ‘multidão’;
+- **xixi**: nome autônomo ‘o grande’ em construção apositiva.
+
+A semelhança sonora não elimina a diferença de estatuto morfológico.
+
+## -'ũn'ũn: pequeno
+
+O sufixo **-'ũn'ũn** expressa tamanho pequeno. São documentados:
+
+- **cokõn-'ũn'ũn-yũ** ‘tucanos pequenos/tucaninhos’ no exemplo;
+- **ako-'ũn'ũn Ø-pa** ‘banana-ourinho’, uma espécie de banana pequena.
+
+No primeiro, a ordem é base + pequeno + plural. No segundo, o sufixo modifica **ako** ‘bananeira’, e a expressão inteira contém ainda **Ø-pa** ‘banana’.
+
+A tese separa esse sufixo de **'it'it** ‘o pequeno’, nome autônomo em aposição. Compare o diagnóstico:
+
+- se a forma está presa à base, analisa-se como sufixo;
+- se constitui seu próprio sintagma nominal e recebe sua própria marca relacional, é nome autônomo.
+
+## Ordem e escopo
+
+Os exemplos revelam sequências que não devem ser invertidas:
+
+- **ag̃okatka-yũ-'in**: PL antes de PART;
+- **cokõn-'ũn'ũn-yũ**: pequeno antes de PL;
+- **aviãw e-piloto-m**: o prospectivo incide no nome relacional completo.
+
+Ordem morfológica contribui para a interpretação. Estes três dados documentam ordens específicas; não bastam para construir um molde universal de todos os sufixos nominais.
+
+## Procedimento para sufixos homófonos
+
+Quando encontrar **-m**:
+
+1. identifique a base;
+2. localize o predicado e os demais constituintes;
+3. pergunte se o nome fornece meio/instrumento;
+4. pergunte se indica transformação em um papel/estado;
+5. pergunte se designa entidade futura;
+6. confira a glossa da fonte.
+
+O procedimento usa distribuição e sentido conjuntamente. Uma tradução isolada é insuficiente.
+
+## Atividades
+
+1. Liste os oito morfemas/valores principais do quadro inicial.
+2. O plural **-yũ** aparece obrigatoriamente em todo plural semântico?
+3. Dê três plurais simples documentados.
+4. O que acontece além de **-yũ** em **oburere-yũ**?
+5. Por que não se deve reduplicar qualquer nome por analogia?
+6. Segmente **ag̃okatka-yũ-'in** e explique a ordem.
+7. Por que **-'in** não tem uma única tradução portuguesa?
+8. Analise **kise-m**.
+9. Quais três leituras de **-m** devem ser distinguidas?
+10. Compare **ayacat-'ũm** e **i-ta-'ũm**.
+11. Qual é o núcleo semântico de **-buk**?
+12. Por que **paran** exige que análise e forma corrente sejam separadas?
+13. A ligação do futuro nominal ao imperfectivo é fato estabelecido ou hipótese?
+14. Dê dois exemplos de **-xiri** com valor de grandeza.
+15. Dê dois exemplos de **-xiri** com valor coletivo.
+16. Diferencie **-xiri**, **xiri-xiri** e **xixi**.
+17. Segmente **cokõn-'ũn'ũn-yũ**.
+18. Diferencie **-'ũn'ũn** e **'it'it**.
+19. Compare a posição de plural em **ag̃okatka-yũ-'in** e **cokõn-'ũn'ũn-yũ**.
+20. Por que uma tabela de sufixos não é suficiente para produzir frases?
+
+
+
+
+---
+
 # 97. Repertório: Território, água, céu e fogo
 
 ## Distinções deste campo
@@ -5450,6 +6026,104 @@ No PDF e no texto integral gerados, as respostas são reunidas abaixo por capít
 16. Porque reconhecer dados atestados reduz a chance de generalizar regras incompletas e fabricar formas.
 
 
+## 25. Nomes de parte e parentesco
+
+
+1. É um nome cuja relação com determinante/possuidor integra seu comportamento lexical e que, nos dados estudados, participa diretamente do sistema relacional sem o alienador **e-**.
+2. Nomes de parte e termos de parentesco.
+3. **Pedoro** + R1 **Ø-** + **bu** ‘dedo’.
+4. Marca a relação de contiguidade entre o determinante lexical e o nome dependente.
+5. **ako** + R1 **Ø-** + **dup** ‘folha’; relação entre planta e parte.
+6. Porque o rótulo cobre relações parte–todo e familiares, não apenas propriedade transferível.
+7. Não. **De** traduz relações pertencentes a classes e estratégias diferentes em Mundurukú.
+8. O alienador **e-**.
+9. Ele sinaliza que o nome é dependente na análise descritiva.
+10. Não. **bay** ‘pai’ e **ajot** ‘avô’ são listados como alienáveis por Gomes.
+11. Porque a escolha de R2 depende de classe e forma da base; o capítulo só documentou R1 nessa construção.
+12. Localizar o núcleo; identificar a classe; verificar contiguidade; escolher o relacional; conferir o exemplo.
+13. **-'a** ‘cabeça’.
+14. A primeira liga pessoa e parte corporal; a segunda liga planta e parte vegetal. Ambas usam determinante contíguo e R1 zero.
+15. Forma **-'a**; sentido ‘cabeça’; inalienável de parte; dado **Pedoro Ø-'a**; R1 **Ø-**; R2 não inferido aqui.
+16. Como “classe ainda não verificada”, acompanhada da fonte que falta consultar.
+17. Porque **Ø-** representa um morfema com função e distribuição, embora não tenha realização sonora.
+18. Reproduzir conserva uma forma atestada; gerar estende um padrão a células não documentadas e exige validação adicional.
+
+
+
+## 26. Nomes em função classificatória
+
+
+1. Nome em função classificatória.
+2. Em **Pedoro Ø-bu**, refere a dedo; em **puy Ø-bu**, classifica o referente comprido/flexível.
+3. Porque a fonte documenta o conjunto como ‘cobra’ e glossa **-bu** como NFC nesse uso.
+4. Forma comprida e flexível, para objetos ou animais nos dados descritos.
+5. Forma arredondada.
+6. Semelhança de forma com folha.
+7. Forma **warepupu Ø-dup**; segmentos **warepupu + Ø- + dup**; glossa aproximada ‘borboleta R1-NFC’; tradução ‘borboleta’.
+8. **ako Ø-dup**.
+9. PARTE.
+10. NFC.
+11. Porque categorias linguísticas são convenções lexicais e gramaticais; a intuição geométrica do aprendiz não comprova uso.
+12. Não. NFC classifica um referente; incorporação integra um nome a um predicado verbal.
+13. Um referente previamente estabelecido no discurso.
+14. Não. Os exemplos mantêm R1 **Ø-** na análise.
+15. Deve conter **-bu**, **-'a** e **-dup**, cada um com seu par referencial e classificatório documentado.
+16. Confunde a tradução do conjunto com o sentido lexical da unidade; **-dup** também ocorre como ‘folha’.
+17. Na tradução do conjunto, não como glossa fixa de **-'a**.
+18. Por exemplo: “Falantes usam **-bu** nesta expressão? Em qual contexto, com qual referente e contraste?” A pergunta não antecipa uma forma.
+
+
+
+## 27. Produtividade dos nomes alienáveis
+
+
+1. O alienador **e-**.
+2. Marcador de primeira pessoa em sua realização **w-** + alienador **e-** + **kartera** ‘carteira’.
+3. Porque inclui atividade, lugar, fala/história e parentesco, além de artefatos e substâncias.
+4. **bay** ‘pai’ e **ajot** ‘avô’.
+5. Que novos itens adotados pela língua podem ser integrados à classe alienável e usar sua morfologia.
+6. Não. A adoção e a forma do empréstimo são fatos comunitários que precisam ser documentados.
+7. Atestação é ocorrência comprovada; padrão é regularidade em vários dados; predição é extensão ainda a verificar.
+8. **w-** + **e-** + **asukara**, com leitura ‘meu açúcar’.
+9. Por exemplo, **kopo**, **parato** e **kaneta'ip**.
+10. **kõsota** ‘consulta’ ou **ospitaw** ‘hospital’.
+11. Porque relações possessivas podem ser construídas discursivamente até com referentes antes tratados como incompatíveis.
+12. Ele estabelece qual relação torna a expressão interpretável, como autoria de um desenho ou referência previamente construída.
+13. Marca a relação segundo a estratégia da classe alienável.
+14. Porque o conjunto tem leitura temporal idiomática; a análise morfológica e a tradução contextual ocupam níveis diferentes.
+15. Sim, a tese registra a possibilidade, com menor frequência.
+16. Porque a distribuição depende de estruturas verbais e lexicais que ainda precisam ser documentadas e ensinadas.
+17. DADO.
+18. HIPÓTESE.
+19. O primeiro liga possuidor lexical diretamente a inalienável com R1 **Ø-**; o segundo contém pessoa e alienador antes do nome alienável.
+20. Produtividade é capacidade comprovada de acolher novos itens sob condições; não é permissão para gerar qualquer forma sem validação.
+
+
+## 28. Outros morfemas nominais
+
+
+1. **-yũ** plural; **-'in** partitivo; **-m** instrumental/translativo; **-'ũm** falecido/privativo; **-buk** vínculo abandonado; **-m** prospectivo; **-xiri** grande/coletivo; **-'ũn'ũn** pequeno.
+2. Não. A fonte diz que a marcação não é sistemática.
+3. **wida-yũ, ayaca-yũ, biopak-yũ**.
+4. Há reduplicação de parte da base, além do sufixo plural.
+5. Porque a extensão e os ajustes não são uniformes nos pares documentados.
+6. **ag̃okatka** ‘homem’ + **-yũ** PL + **-'in** PART; o partitivo seleciona indivíduo/parte do conjunto plural.
+7. Porque a leitura depende do conjunto e do contexto: ‘um dos’, ‘alguns’ ou individualização semelhante.
+8. **kise** ‘faca’ + **-m** instrumental, ‘com faca’.
+9. Instrumental, translativa e prospectiva/futuro nominal.
+10. No primeiro, marca pessoa falecida; no segundo, ausência de uma parte, com leitura privativa.
+11. Cessação de vínculo, pertencimento ou estado de não mais associado/abandonado.
+12. Porque a combinação de **parat** com **-m** tem realização **paran**, escondendo a fronteira.
+13. Hipótese analítica apresentada tentativamente por Gomes.
+14. Por exemplo, **ag̃oka-xiri** e **muba'at-xiri**.
+15. Por exemplo, **dajekco-xiri** e **bekitkit-xiri**.
+16. Sufixo preso; nome autônomo ‘multidão’; nome autônomo ‘o grande’ em aposição, respectivamente.
+17. **cokõn** ‘tucano’ + **-'ũn'ũn** pequeno + **-yũ** plural.
+18. O primeiro é sufixo; o segundo é nome autônomo em aposição.
+19. No primeiro, PL precede PART; no segundo, PL segue o sufixo de tamanho.
+20. Porque a escolha, a ordem, o escopo e os ajustes dependem da base e da construção documentada.
+
+
 ## 97. Repertório: Território, água, céu e fogo
 
 
@@ -6422,7 +7096,7 @@ As explicações deste curso foram redigidas em sequência própria; não reprod
 
 ## Morfologia e sintaxe
 
-Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Os capítulos 17–20 usam as tabelas 1.2, 1.3, 1.6, 3.1, 3.2 e 4.1, além dos exemplos 1–4 da seção 1.1.5.1. Os capítulos 21–24 usam ainda as tabelas 1.4, 1.5, 1.7 e 1.9 e os exemplos 9–13, 17–21, com localização principal nas páginas impressas 23–24 e 32–41. Formas correntes, segmentações, glossas e traduções foram separadas; as explicações e atividades são originais desta edição.
+Gomes, Dioney Moreira. 2006. Estudo morfológico e sintático da língua mundurukú (tupí). Tese de doutorado, Universidade de Brasília. Os capítulos 17–20 usam as tabelas 1.2, 1.3, 1.6, 3.1, 3.2 e 4.1, além dos exemplos 1–4 da seção 1.1.5.1. Os capítulos 21–24 usam ainda as tabelas 1.4, 1.5, 1.7 e 1.9 e os exemplos 9–13, 17–21, com localização principal nas páginas impressas 23–24 e 32–41. Os capítulos 25–28 retomam as seções 3.1–3.1.3: nomes de parte, parentesco e função classificatória nos exemplos 1–2 e tabela 3.1 (páginas impressas 87–89; PDF 106–108); produtividade alienável e empréstimos na tabela 3.2 e exemplos 3–4 (páginas impressas 90–92; PDF 109–111); e morfemas nominais nos exemplos 5–16 (páginas impressas 92–97; PDF 111–116). Formas correntes, segmentações, glossas e traduções foram separadas; as explicações e atividades são originais desta edição.
 
 https://repositorio.unb.br/handle/10482/3754
 
@@ -6432,12 +7106,12 @@ https://www.scielo.br/j/bgoeldi/a/M9swfwRCmsmx8K4yQQjRdKJ/?lang=pt
 
 ## Conteúdo efetivamente concluído nesta etapa
 
-Há abertura, 24 capítulos de fundamentos e gramática inicial, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. Os capítulos 17–20 iniciam pessoa, referência, clíticos e classes possessivas com paradigmas documentados. Os capítulos 21–24 aprofundam possuidor lexical, objetos de posposição, R1/R2 e ajustes morfofonológicos sem estender paradigmas por analogia. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
+Há abertura, 28 capítulos de fundamentos e gramática inicial, 22 unidades de repertório e respostas comentadas. Os capítulos 10–16 acrescentam o inventário consonantal, regras de ambiente, silabificação aplicada, alfabeto, convenções e uma oficina cumulativa. Os capítulos 17–20 iniciam pessoa, referência, clíticos e classes possessivas com paradigmas documentados. Os capítulos 21–24 aprofundam possuidor lexical, objetos de posposição, R1/R2 e ajustes morfofonológicos sem estender paradigmas por analogia. Os capítulos 25–28 distinguem nomes de parte e parentesco, função classificatória, produtividade dos alienáveis e oito conjuntos de morfemas nominais, sempre separando dado, padrão e hipótese. O repertório inclui todos os registros de um dataset limitado, com exercícios de recuperação, leitura inversa, cópia integral, comparação e identificação de limites. As explicações de som preparam leitura e observação; sem gravações e avaliação pertinente, não certificam pronúncia.
 
 Os números reservados para partes gramaticais futuras não correspondem a páginas ou capítulos já escritos. O índice contém somente material presente. A meta de mil a duas mil páginas ainda não está alcançada. Este documento é uma etapa verificável da reconstrução, não a apostila final completa.
 
 ## Próximos lotes
 
-O próximo lote deverá desenvolver os capítulos 25–28 a partir do capítulo 3 de Gomes (2006): nomes de parte e parentesco, uso classificatório de nomes inalienáveis, produtividade dos nomes alienáveis e outros morfemas nominais. Cada exemplo deverá conservar sua localização e não se transformar em paradigma produtivo sem atestação.
+O próximo lote deverá desenvolver os capítulos 29–32 a partir da seção 3.2 de Gomes (2006): propriedades gerais das posposições e as relações locativa, dativa, alativa/direcional e de conformidade. A pesquisa deverá retomar as páginas impressas 98–113, conferir os exemplos completos e distinguir complemento posposicional, adjunto, alomorfia pronominal e valores espaciais ou abstratos. Cada exemplo deverá conservar sua localização e não se transformar em paradigma produtivo sem atestação.
 
 Continuam pendentes corpus amplo de leituras graduadas, áudio autorizado, instruções Munduruku validadas e revisão do conjunto por educadores ou falantes. Retirar traduções de itens conhecidos não será apresentado como imersão integral. Essas pendências são objetivos editoriais concretos, e não páginas a serem preenchidas com repetição.

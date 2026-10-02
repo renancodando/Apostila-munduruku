@@ -11,12 +11,7 @@
     "palavras": 23343,
     "registros_lexicais_selecionados": 376
   },
-  "trabalho_ativo": {
-    "lote": "C3",
-    "escopo": "capitulos 25-28: nomes de parte, parentesco, classificacao e outros morfemas nominais",
-    "iniciado_em": "2026-10-02T20:50:00Z",
-    "expira_em": "2026-10-03T02:00:00Z"
-  },
+  "trabalho_ativo": null,
   "automacao": {
     "id": "6abf48752aa881918cc1286d0cba8da2",
     "frequencia": "horaria",
@@ -39,7 +34,7 @@
       "id": "C",
       "assunto": "pessoa, referencia e posse com paradigmas atestados",
       "status": "parcial",
-      "conteudo": "capitulos 17-24 publicados: pessoa, pronomes, cliticos, posse, possuidor lexical, objetos de posposicao, R1/R2 e ajustes morfofonologicos; faltam capitulos 25-34"
+      "conteudo": "capitulos 17-28 publicados: pessoa, pronomes, cliticos, posse, possuidor lexical, objetos de posposicao, R1/R2, ajustes morfofonologicos, nomes de parte, funcao classificatoria, produtividade alienavel e morfemas nominais; faltam capitulos 29-34"
     },
     {
       "id": "D",
@@ -74,7 +69,7 @@
       "conteudo": "gabarito da etapa e indice clicavel; faltam avaliacoes cumulativas do curso completo"
     }
   ],
-  "proximo_passo": "Redigir capitulos 25-28 sobre nomes de parte e parentesco, uso classificatorio de nomes inalienaveis, produtividade dos nomes alienaveis e outros morfemas nominais. Retomar Gomes 2006 nas secoes 3.1-3.1.3, paginas impressas 88-100, e conferir cada exemplo em contexto. Distinguir uso possessivo, uso classificatorio e incorporacao; nao gerar formas por analogia. Atualizar o mesmo PDF de trabalho e o texto integral, revisar e publicar.",
+  "proximo_passo": "Redigir capitulos 29-32 sobre propriedades gerais das posposicoes e as relacoes locativa, dativa, alativa/direcional e de conformidade. Retomar Gomes 2006 na secao 3.2, paginas impressas 98-113, e conferir os exemplos completos. Distinguir complemento posposicional, adjunto, alomorfia pronominal e valores espaciais ou abstratos; nao gerar formas por analogia. Atualizar o mesmo PDF de trabalho e o texto integral, revisar e publicar.",
   "impedimentos": [
     "Ainda nao ha corpus amplo de narrativas graduadas nem audios autorizados.",
     "Nao houve revisao por professores ou falantes Munduruku.",
@@ -82,27 +77,27 @@
   ],
   "ultima_etapa_publicada": {
     "data": "2026-10-02",
-    "paginas": 314,
-    "palavras": 67279,
+    "paginas": 343,
+    "palavras": 72727,
     "registros_lexicais": 437,
     "temas_lexicais": 22,
     "tarefas_lexicais": 407,
-    "capitulos_fundamentais": 24,
-    "novo_bloco": "capitulos 21-24: possuidor lexical, objetos de posposicao, R1/R2 e ajustes morfofonologicos",
+    "capitulos_fundamentais": 28,
+    "novo_bloco": "capitulos 25-28: nomes de parte e parentesco, funcao classificatoria, produtividade dos nomes alienaveis e outros morfemas nominais",
     "pdf": "extensa/pdf/Munduruku-Edicao-Extensa-Em-Construcao.pdf",
     "texto": "extensa/Munduruku-Extensa-Texto-Integral.md"
   },
   "verificacao_ultima_etapa": "extensa/verificacao.json",
-  "estado_da_meta": "314 paginas de trabalho; obra incompleta; nao desativar a continuidade",
+  "estado_da_meta": "343 paginas de trabalho; obra incompleta; nao desativar a continuidade",
   "arquivos_entregues": {
     "pdf": {
       "library_file_id": "libfile_bfcd706bc2c481918b4df217ef3a19e0",
-      "versao": 4,
+      "versao": 5,
       "nome": "Munduruku-Edicao-Extensa-Em-Construcao.pdf"
     },
     "texto": {
       "library_file_id": "libfile_dbf3256d2f508191a2ba2a1fadcfbbc0",
-      "versao": 4,
+      "versao": 5,
       "nome": "Munduruku-Extensa-Texto-Integral.md"
     }
   }

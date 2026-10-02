@@ -15,7 +15,7 @@ Renan pediu a substituição do curso inicial de 118 páginas por uma apostila a
 | Parte | Conteúdo | Capítulos previstos | Estado inicial |
 |---|---|---:|---|
 | I | Método autodidata, som, escrita, tom e ferramentas de análise | 1–16 | Primeira redação publicada |
-| II | Pessoa, referência, nomes, parentesco e posse | 17–34 | Em redação; capítulos 17–24 publicados |
+| II | Pessoa, referência, nomes, parentesco e posse | 17–34 | Em redação; capítulos 17–28 publicados |
 | III | Predicação, verbos, participantes, aspecto e derivação | 35–58 | Pendente |
 | IV | Espaço, tempo, quantidade, perguntas, negação e partículas | 59–78 | Pendente |
 | V | Classificação, incorporação, nominalização e estruturas complexas | 79–96 | Pendente |
