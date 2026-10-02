@@ -11,7 +11,12 @@
     "palavras": 23343,
     "registros_lexicais_selecionados": 376
   },
-  "trabalho_ativo": null,
+  "trabalho_ativo": {
+    "lote": "C2",
+    "escopo": "capitulos 21-24: possuidor lexical, objetos de posposicao, R1/R2 e ajustes morfofonologicos",
+    "iniciado_em": "2026-10-02T15:35:00Z",
+    "expira_em": "2026-10-02T20:45:00Z"
+  },
   "automacao": {
     "id": "6abf48752aa881918cc1286d0cba8da2",
     "frequencia": "horaria",
