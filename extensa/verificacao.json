@@ -1,0 +1,23 @@
+{
+  "paginas": 226,
+  "palavras": 49293,
+  "arquivos_de_capitulos": 34,
+  "registros_IDS": 437,
+  "temas_IDS": 22,
+  "tarefas_lexicais": 407,
+  "fonte_IDS_preservada": true,
+  "paginas_pouco_densas": [
+    {
+      "pagina": 1,
+      "palavras": 35
+    }
+  ],
+  "paginas_vazias": [],
+  "problemas_de_limites": [],
+  "caracteres_sem_glifo": [],
+  "sha256": "7dc303640d169d69b8682e9c1851efbff60514473b7e049e57bfb7d96a3e5283",
+  "revisao_por_falantes": false,
+  "obra_final_completa": false,
+  "meta_paginas_alcancada": false,
+  "revisao_visual": "Todas as 226 paginas renderizadas e inspecionadas em folhas de contato; capa e paginas de exercicios e fechamento conferidas em resolucao maior."
+}

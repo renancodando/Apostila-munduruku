@@ -11,11 +11,7 @@
     "palavras": 23343,
     "registros_lexicais_selecionados": 376
   },
-  "trabalho_ativo": {
-    "responsavel": "redacao e verificacao da etapa 1",
-    "inicio": "2026-10-02T09:36:00Z",
-    "expira_em": "2026-10-02T11:36:00Z"
-  },
+  "trabalho_ativo": null,
   "automacao": {
     "id": "6abf48752aa881918cc1286d0cba8da2",
     "frequencia": "horaria",
@@ -25,12 +21,14 @@
     {
       "id": "A",
       "assunto": "metodo, escrita e fundamentos de analise com explicacoes extensas",
-      "status": "em_redacao"
+      "status": "primeira_redacao_publicada",
+      "conteudo": "abertura e capitulos 1-4 e 9, explicacoes e respostas; ampliar aplicacao em construcoes nos lotes seguintes"
     },
     {
       "id": "B",
       "assunto": "fonetica, fonologia, tom, nasalidade e exercicios contrastivos",
-      "status": "pendente"
+      "status": "parcial",
+      "conteudo": "capitulos 5-8; faltam consoantes por ambientes, convencoes de escrita detalhadas e pratica especifica"
     },
     {
       "id": "C",
@@ -55,7 +53,8 @@
     {
       "id": "G",
       "assunto": "repertorio tematico de todos os registros IDS e ampliacao por outras fontes",
-      "status": "em_preparacao"
+      "status": "parcial",
+      "conteudo": "437 registros IDS, 22 temas e 407 tarefas; faltam contextos atestados amplos e novas fontes"
     },
     {
       "id": "H",
@@ -65,13 +64,39 @@
     {
       "id": "I",
       "assunto": "avaliacoes, gabarito integral e indices",
-      "status": "pendente"
+      "status": "parcial",
+      "conteudo": "gabarito da etapa e indice clicavel; faltam avaliacoes cumulativas do curso completo"
     }
   ],
-  "proximo_passo": "Concluir o lote A, iniciar explicacoes fonologicas e integrar repertorio IDS completo em unidades de estudo; gerar primeira revisao extensa de trabalho.",
+  "proximo_passo": "Redigir capitulos 10-16 sobre consoantes, ambientes, convencoes ortograficas, copia e recuperacao cumulativa; conferir Picanço 2012 com localizacao precisa dos exemplos. Depois iniciar capitulos 17-34 de pessoa, pronomes e posse a partir dos paradigmas atestados em Gomes 2006. Nao regenerar o lexico apenas para multiplicar tarefas iguais; ampliar com contextos documentados. Atualizar o mesmo PDF de trabalho e o texto integral, revisar e publicar.",
   "impedimentos": [
     "Ainda nao ha corpus amplo de narrativas graduadas nem audios autorizados.",
     "Nao houve revisao por professores ou falantes Munduruku.",
     "A meta de 1000 paginas ainda nao foi alcancada."
-  ]
+  ],
+  "ultima_etapa_publicada": {
+    "data": "2026-10-02",
+    "paginas": 226,
+    "palavras": 49293,
+    "registros_lexicais": 437,
+    "temas_lexicais": 22,
+    "tarefas_lexicais": 407,
+    "capitulos_fundamentais": 9,
+    "pdf": "extensa/pdf/Munduruku-Edicao-Extensa-Em-Construcao.pdf",
+    "texto": "extensa/Munduruku-Extensa-Texto-Integral.md"
+  },
+  "verificacao_ultima_etapa": "extensa/verificacao.json",
+  "estado_da_meta": "226 paginas de trabalho; obra incompleta; nao desativar a continuidade",
+  "arquivos_entregues": {
+    "pdf": {
+      "library_file_id": "libfile_bfcd706bc2c481918b4df217ef3a19e0",
+      "versao": 1,
+      "nome": "Munduruku-Edicao-Extensa-Em-Construcao.pdf"
+    },
+    "texto": {
+      "library_file_id": "libfile_dbf3256d2f508191a2ba2a1fadcfbbc0",
+      "versao": 1,
+      "nome": "Munduruku-Extensa-Texto-Integral.md"
+    }
+  }
 }

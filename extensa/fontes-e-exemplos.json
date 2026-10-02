@@ -1,0 +1,26 @@
+{
+  "IDS": {
+    "url": "https://ids.clld.org/contributions/287",
+    "arquivo": "fontes/ids-munduruku-original.tsv",
+    "localizacao": "codigo chapter_id.entry_id",
+    "licenca": "CC BY 4.0"
+  },
+  "P12": {
+    "url": "https://etnolinguistica.wdfiles.com/local--files/mono%3A3/picanco_2012_munduruku.pdf",
+    "localizacoes": {
+      "quadro_vogais": "paginas impressas 5-7",
+      "obure": "pagina impressa 5",
+      "nasalidade": "secao 2.1.2",
+      "laringalizacao": "secao 2.1.3",
+      "silaba": "secao 3",
+      "tom": "secao 4",
+      "ortografia": "secao 5"
+    }
+  },
+  "G06": {
+    "url": "https://repositorio.unb.br/handle/10482/3754",
+    "localizacao": "capitulo 1, nomes e marcacao pessoal",
+    "exemplo": "o=Ø-ba / oba",
+    "nota": "A localizacao numerada do exemplo deve ser reconferida antes de ampliar o paradigma nesta edicao."
+  }
+}

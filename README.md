@@ -1,3 +1,29 @@
+# Munduruku: reconstrução do curso autodidata extenso
+
+A edição extensa está em construção, conforme o pedido de uma obra de 1.000 a 2.000 páginas úteis. A etapa disponível tem **226 páginas**, cerca de **49 mil palavras**, **437 registros lexicais** em **22 temas**, **407 tarefas lexicais**, nove capítulos de fundamentos e gabarito separado. **Ainda não é a obra final completa.**
+
+- [Baixar o PDF de trabalho](extensa/pdf/Munduruku-Edicao-Extensa-Em-Construcao.pdf)
+- [Ler o texto integral da reconstrução](extensa/Munduruku-Extensa-Texto-Integral.md)
+- [Ler os capítulos da edição extensa](extensa/capitulos/)
+- [Ver o próximo trabalho e o progresso](progresso/reconstrucao.json)
+- [Arquitetura e instruções de retomada](RECONSTRUCAO.md)
+- [Relatório de verificação](extensa/verificacao.json)
+
+A numeração dos capítulos lexicais segue a arquitetura editorial; os intervalos ainda não escritos não contêm páginas vazias nem representam capítulos concluídos. O PDF reúne apenas o conteúdo presente. Faltam aprofundamento gramatical, corpus amplo de leituras graduadas, áudio autorizado, instruções validadas em Munduruku e revisão por falantes.
+
+Para gerar a etapa extensa, a partir da raiz do projeto:
+
+```bash
+python extensa/gerar_lexico.py
+python extensa/gerar_pdf.py
+```
+
+Os scripts usam Python, ReportLab e fontes DejaVu. As traduções dos conceitos estão em `extensa/traducoes-ids.json`; o índice estruturado está em `extensa/indice-lexical.json`. Formas, alternativas e comentários permanecem vinculados aos registros originais. A licença aberta do IDS não se estende automaticamente a livros e artigos referenciados.
+
+## Edição inicial preservada
+
+A versão de 118 páginas continua abaixo como registro da primeira edição. Ela não satisfaz o pedido da reconstrução extensa.
+
 # Munduruku: leitura, escrita e análise
 
 Uma trajetória autodidata documentada, preparada para Renan. Edição de 2 de outubro de 2026.

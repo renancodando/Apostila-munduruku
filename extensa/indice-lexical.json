@@ -1,0 +1,3498 @@
+[
+  {
+    "codigo": "1.100",
+    "conceito": "mundo",
+    "original": "world",
+    "formas": "ibi; i-pi",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.210",
+    "conceito": "terra/território",
+    "original": "earth, land",
+    "formas": "iʔ-pi; i-pi",
+    "comentario": "Kuruáya dialect is ipi. Cf. *Tupí-G 01.212.; Kuruáya dialect is ipi. Cf. *Tupí-G 01.212.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.212",
+    "conceito": "solo",
+    "original": "earth=ground, soil",
+    "formas": "iʔ-pi",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.213",
+    "conceito": "poeira",
+    "original": "dust",
+    "formas": "ka-diŋ; kawi-diŋ",
+    "comentario": "-diŋ is a classifier for smoke-like things. See 'smoke' 01.830.; -diŋ is a classifier for smoke-like things. See 'smoke' 01.830.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.214",
+    "conceito": "lama",
+    "original": "mud",
+    "formas": "kaerep",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.215",
+    "conceito": "areia",
+    "original": "sand",
+    "formas": "ka-ʔo-ri-rit",
+    "comentario": "Cf. 'ashes' 01.840.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.220",
+    "conceito": "monte/colina",
+    "original": "mountain, hill",
+    "formas": "čo-ʔa",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.222",
+    "conceito": "escarpa/precipício",
+    "original": "cliff, precipice",
+    "formas": "aki",
+    "comentario": "(?)",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.250",
+    "conceito": "ilha",
+    "original": "island",
+    "formas": "tipʔaweroro",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.270",
+    "conceito": "margem/costa",
+    "original": "shore",
+    "formas": "ka-ʔo-ri-rit",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.280",
+    "conceito": "caverna",
+    "original": "cave",
+    "formas": "ipi-kɨ̃y",
+    "comentario": "Lit. 'earth-hole'12.850.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.310",
+    "conceito": "água",
+    "original": "water",
+    "formas": "i-di-bi",
+    "comentario": "Also means 'river' 01.360. -di is a classifier, means 'liquid', as in yɨk-pi-di 'dysentery' (lit. 'belly-inside/pain-liquid'). See 'medicine' 04.880. Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.320",
+    "conceito": "mar",
+    "original": "sea",
+    "formas": "t-i-boɲ-ati; t-i-boŋ-at-ti",
+    "comentario": "Also i-di-šidi.; Also i-di-šidi.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.350",
+    "conceito": "onda",
+    "original": "wave",
+    "formas": "-di-kopek",
+    "comentario": "Lit. 'liquid-?'.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.360",
+    "conceito": "rio/córrego",
+    "original": "river, stream, brook",
+    "formas": "i-di-bi",
+    "comentario": "Also means 'water' 01.310. -di is 'liquid'.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.380",
+    "conceito": "área alagada",
+    "original": "swamp",
+    "formas": "i-o-di",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.410",
+    "conceito": "mata/floresta",
+    "original": "woods, forest",
+    "formas": "kadaidaidaʔibit",
+    "comentario": "away-dip is 'jungle'. Cf. *Tupí-G. (?)",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.420",
+    "conceito": "árvore",
+    "original": "tree (cf 08.600)",
+    "formas": "-ʔip",
+    "comentario": "Used as a classifier. Also tɨmɨnʔipʔip; yop. Kuruáya dialect is (ʔ)ib. Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.430",
+    "conceito": "madeira",
+    "original": "wood",
+    "formas": "-ʔip",
+    "comentario": "Also means 'tree'. Used as a classifier, as in piŋa-ʔip 'fishing pole'; [rapi]ʔip 'pencil' (from Port. 'lapis'); 'banana tree' 08.840.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.440",
+    "conceito": "pedra",
+    "original": "stone, rock",
+    "formas": "wita-ʔa",
+    "comentario": "See 'head' 04.200. Kuruáya dialect is wita-(ʔ)a. Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.510",
+    "conceito": "céu",
+    "original": "sky",
+    "formas": "kaʔ-bi; ka-bi",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.520",
+    "conceito": "sol",
+    "original": "sun",
+    "formas": "ka-ši",
+    "comentario": "Also ka-ši-e-pi-at. Kuruáya dialect is ka-ǰi. Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.530",
+    "conceito": "lua",
+    "original": "moon",
+    "formas": "ka-ši; ka-ši-a-ʔat",
+    "comentario": "Kuruáya dialect is waǰi. Cf. *Tupí-G.; Kuruáya dialect is waǰi. Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.540",
+    "conceito": "estrela",
+    "original": "star",
+    "formas": "ka-sop-ta",
+    "comentario": "Classifier -da means 'seed, eye'.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.550",
+    "conceito": "relâmpago",
+    "original": "lightning",
+    "formas": "ǰe-širirik-šiririŋ",
+    "comentario": "Reduplication with homoganic nasal.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.590",
+    "conceito": "arco-íris",
+    "original": "rainbow",
+    "formas": "kabikodepɨ",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.610",
+    "conceito": "luz",
+    "original": "light (noun)",
+    "formas": "imɨ-kabia-ham; kabia",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.620",
+    "conceito": "escuridão",
+    "original": "darkness",
+    "formas": "i-ok",
+    "comentario": "Also means 'black' 15.650.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.630",
+    "conceito": "sombra",
+    "original": "shade, shadow",
+    "formas": "kabičɨk",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.720",
+    "conceito": "vento",
+    "original": "wind",
+    "formas": "ka-bi-do",
+    "comentario": "Kuruáya dialect is kabɨdu. See 'breath' 04.510. Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.730",
+    "conceito": "nuvem",
+    "original": "cloud",
+    "formas": "ka-bi-kere-reat",
+    "comentario": "Also kabido-diŋ, with classifier -diŋ, for smoke-like things. See 'smoke' 01.830.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.740",
+    "conceito": "neblina",
+    "original": "fog",
+    "formas": "ka-bi-diŋ",
+    "comentario": "-diŋ is a classifier for smoke-like things. See 'smoke' 01.830.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.750",
+    "conceito": "chuva",
+    "original": "rain (noun)",
+    "formas": "mɨ-ba-ʔat",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.770",
+    "conceito": "gelo",
+    "original": "ice",
+    "formas": "želo-ʔa",
+    "comentario": "From Port. 'gêlo'.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.810",
+    "conceito": "fogo",
+    "original": "fire",
+    "formas": "d-aša",
+    "comentario": "Also means 'firewood' 01.880. Kuruáya dialect is aša. Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.830",
+    "conceito": "fumaça",
+    "original": "smoke (noun)",
+    "formas": "daša-diɲ; -diŋ",
+    "comentario": "Also tɨ-mɨ̃n-tiŋ-tiŋ. šidiɲ yoyoy means to smoke a rubber ball. -diŋ is a classifier for smoke-like things, as in fog 01.740; 'dust' 01.213; 'cloud' 01.730. Kuruáya dialect is tiŋ. Cf. *Tupí-G.; Also tɨ-mɨ̃n-tiŋ-tiŋ. šidiɲ yoyoy means to smoke a rubber ball. -diŋ is a classifier for smoke-like things, as in fog 01.740; 'dust' 01.213; 'cloud' 01.730. Kuruáya dialect is tiŋ. Cf. *Tupí-G.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.840",
+    "conceito": "cinzas",
+    "original": "ashes",
+    "formas": "ka-ba-ʔo-rit",
+    "comentario": "Cf. 'sand' 01.215.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.852",
+    "conceito": "queimar (intransitivo)",
+    "original": "burn (vb intrans)",
+    "formas": "i-pik",
+    "comentario": "Cf. *Tupí-G. 01.851.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.860",
+    "conceito": "acender/atear fogo",
+    "original": "light, kindle, ignite",
+    "formas": "isop",
+    "comentario": "",
+    "capitulo": 97
+  },
+  {
+    "codigo": "1.880",
+    "conceito": "lenha",
+    "original": "firewood",
+    "formas": "d-aša",
+    "comentario": "Also means 'fire' 01.810.",
+    "capitulo": 97
+  },
+  {
+    "codigo": "2.100",
+    "conceito": "pessoa/ser humano",
+    "original": "person, human being",
+    "formas": "wɨ̃y-ǰɨ-yɨ̃",
+    "comentario": "Cf. 'body' 04.110; 'we inclusive' 02.941.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.210",
+    "conceito": "homem",
+    "original": "man (vs. woman)",
+    "formas": "a-ɲo-kat-kat",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.220",
+    "conceito": "mulher",
+    "original": "woman",
+    "formas": "a-yat-at",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.250",
+    "conceito": "menino",
+    "original": "boy",
+    "formas": "a-ɲo-kat-kat-ʔit-ʔit",
+    "comentario": "Lit. 'man-diminutive'.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.251",
+    "conceito": "rapaz/adolescente",
+    "original": "young man (adolescent)",
+    "formas": "yaypanʔisɨat",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.260",
+    "conceito": "menina",
+    "original": "girl",
+    "formas": "a-yat-at-ʔit-ʔit",
+    "comentario": "Lit. 'woman-diminutive'.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.270",
+    "conceito": "criança",
+    "original": "child",
+    "formas": "be-kit-at",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.280",
+    "conceito": "bebê",
+    "original": "infant, baby",
+    "formas": "ãwã",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.310",
+    "conceito": "marido",
+    "original": "husband",
+    "formas": "-t-op; -ktop",
+    "comentario": "Kuruáya dialect is up, also means 'father'. Cf. *Tupí-G. 'father' 02.350.; Kuruáya dialect is up, also means 'father'. Cf. *Tupí-G. 'father' 02.350.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.320",
+    "conceito": "esposa",
+    "original": "wife",
+    "formas": "-t-ay-ši",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.350",
+    "conceito": "pai",
+    "original": "father",
+    "formas": "bay",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.360",
+    "conceito": "mãe",
+    "original": "mother",
+    "formas": "-ši",
+    "comentario": "Kuruáya dialect is ǰi. Cf. *Tupí-G.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.410",
+    "conceito": "filho",
+    "original": "son",
+    "formas": "ʔit",
+    "comentario": "Of a woman. Cf. *Tupí-G.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.440",
+    "conceito": "irmão",
+    "original": "brother",
+    "formas": "kipit",
+    "comentario": "Of a woman. Cf. Tupí-G.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.455",
+    "conceito": "irmã mais nova",
+    "original": "younger sister",
+    "formas": "kibit; kipit",
+    "comentario": "Of a woman. Cf. *Tupí-G.; Of a woman. Cf. *Tupí-G.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.460",
+    "conceito": "avô",
+    "original": "grandfather",
+    "formas": "aǰoǰot; aǰotʔa",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.461",
+    "conceito": "homem idoso",
+    "original": "old man",
+    "formas": "aypa",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.470",
+    "conceito": "avó",
+    "original": "grandmother",
+    "formas": "awawa; aǰɨ̃ɲ-ǰɨ̃ɲ",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.471",
+    "conceito": "mulher idosa",
+    "original": "old woman",
+    "formas": "yabɨt",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.910",
+    "conceito": "eu",
+    "original": "I",
+    "formas": "õn",
+    "comentario": "",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.920",
+    "conceito": "tu/você",
+    "original": "you (singular)",
+    "formas": "ẽn; e-",
+    "comentario": "Kuruáya dialect forms are ɛ; ɛn. Cf. *Tupí-G.; Kuruáya dialect forms are ɛ; ɛn. Cf. *Tupí-G.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.930",
+    "conceito": "ele/ela/isso",
+    "original": "he/she/it",
+    "formas": "iše; ite; ibo; iǰa; iǰop; iɲo",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.; Cf. *Tupí-G.; Cf. *Tupí-G.; Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.941",
+    "conceito": "nós inclusivo",
+    "original": "we (inclusive)",
+    "formas": "wɨy-ǰɨ",
+    "comentario": "Cf. 'person' 02.100. Kuruáya dialect is wei-.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.942",
+    "conceito": "nós exclusivo",
+    "original": "we (exclusive)",
+    "formas": "oče-ǰɨ",
+    "comentario": "Kuruáya dialect is ote. Cf. *Tupí-G.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.950",
+    "conceito": "vocês",
+    "original": "you (plural)",
+    "formas": "ey-ǰɨ",
+    "comentario": "Kuruáya dialect is ei-. Cf. *Tupí-G.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "2.960",
+    "conceito": "eles/elas",
+    "original": "they",
+    "formas": "iše-yɨ̃; ite-yɨ̃",
+    "comentario": "Also ibo-yɨ̃; iǰa-yɨ̃; iǰop-yɨ̃; iɲo-yɨ̃.; Also ibo-yɨ̃; iǰa-yɨ̃; iǰop-yɨ̃; iɲo-yɨ̃.",
+    "capitulo": 98
+  },
+  {
+    "codigo": "3.110",
+    "conceito": "animal",
+    "original": "animal",
+    "formas": "tɨ-mɨ̃n",
+    "comentario": "'Domestic animal' is wɨ̃n-ča; a 'hunt animal' is ibɨt.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.230",
+    "conceito": "vaca",
+    "original": "cow",
+    "formas": "biopak ayačat",
+    "comentario": "Lit. '? female'.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.250",
+    "conceito": "ovelha",
+    "original": "sheep",
+    "formas": "mẽmẽiat",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.340",
+    "conceito": "porca (fêmea)",
+    "original": "sow (2)",
+    "formas": "ǰekadai daidadam",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.350",
+    "conceito": "porco",
+    "original": "pig",
+    "formas": "daǰe",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.520",
+    "conceito": "galo",
+    "original": "cock, rooster",
+    "formas": "sapokay aɲokat-kat",
+    "comentario": "Lit. '? male-'",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.540",
+    "conceito": "galinha",
+    "original": "hen",
+    "formas": "sapokay ayačat",
+    "comentario": "Lit. '? female'.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.550",
+    "conceito": "frango",
+    "original": "chicken",
+    "formas": "sapokay yaypapɨ̃ɲat",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.580",
+    "conceito": "ninho",
+    "original": "nest",
+    "formas": "wasɨ̃ -dopi",
+    "comentario": "Lit. 'bird ?'.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.581",
+    "conceito": "ave/pássaro",
+    "original": "bird",
+    "formas": "wasɨ̃-yɨ̃; wãsɨ̃",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.585",
+    "conceito": "gavião",
+    "original": "hawk",
+    "formas": "powat-powat",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.586",
+    "conceito": "urubu",
+    "original": "vulture",
+    "formas": "oropo",
+    "comentario": "Kuruáya dialect is urupu. Cf. *Tupí-G.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.591",
+    "conceito": "morcego",
+    "original": "bat",
+    "formas": "mɨreo-dɨp",
+    "comentario": "-dɨp is a classifier for leaf-shaped things. See 'leaf' 08.560.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.592",
+    "conceito": "papagaio",
+    "original": "parrot",
+    "formas": "korɨ; aro",
+    "comentario": "Kuruáya dialect is aru. Other varieties are ɨ̃rɨ̃; parawa; paro. Cf. *Tupí-G.; Kuruáya dialect is aru. Other varieties are ɨ̃rɨ̃; parawa; paro. Cf. *Tupí-G.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.594",
+    "conceito": "pomba",
+    "original": "dove",
+    "formas": "pɨkaso",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.596",
+    "conceito": "coruja",
+    "original": "owl",
+    "formas": "tok-tok-ʔa",
+    "comentario": "-ʔa is a classifier, meaning 'head' 04.200.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.610",
+    "conceito": "cachorro",
+    "original": "dog",
+    "formas": "akɨriče; akiriče",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.620",
+    "conceito": "gato",
+    "original": "cat",
+    "formas": "pišaɲa",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.630",
+    "conceito": "rato",
+    "original": "mouse, rat",
+    "formas": "taɲe",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.650",
+    "conceito": "peixe",
+    "original": "fish",
+    "formas": "ašima",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.664",
+    "conceito": "arraia",
+    "original": "stingray",
+    "formas": "ĩwãp-tɨp",
+    "comentario": "-dɨp is a classifier for leaf-shaped things. See 'leaf' 08.560.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.750",
+    "conceito": "veado",
+    "original": "deer",
+    "formas": "dapsem",
+    "comentario": "Also i-ši-. Kuruáya dialect is i-ǰi. Cf. Tupí-G.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.760",
+    "conceito": "macaco",
+    "original": "monkey",
+    "formas": "poyʔiayɨ̃; tawe",
+    "comentario": "The latter is a black monkey. Also čošio, 'coxiu'; oroʔoro, 'guariba'; sɨ̃sɨ̃t, 'macaco soim'; deko, 'coatá'; karima, 'macaco de cheiro'.; The latter is a black monkey. Also čošio, 'coxiu'; oroʔoro, 'guariba'; sɨ̃sɨ̃t, 'macaco soim'; deko, 'coatá'; karima, 'macaco de cheiro'.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.811",
+    "conceito": "piolho",
+    "original": "louse",
+    "formas": "kip",
+    "comentario": "Kuruáya dialect is kib. Cf. *Tupí-G.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.817",
+    "conceito": "formiga",
+    "original": "ant",
+    "formas": "daʔik",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.818",
+    "conceito": "aranha",
+    "original": "spider",
+    "formas": "doa",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.820",
+    "conceito": "abelha",
+    "original": "bee",
+    "formas": "iwak",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.822",
+    "conceito": "colmeia",
+    "original": "beehive",
+    "formas": "ato",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.823",
+    "conceito": "vespa",
+    "original": "wasp",
+    "formas": "i-kopi",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.840",
+    "conceito": "verme",
+    "original": "worm",
+    "formas": "nasɨ̃ŋ-pɨ",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.850",
+    "conceito": "cobra",
+    "original": "snake",
+    "formas": "pɨy-bɨ",
+    "comentario": "-bɨ is a classifier, meaning finger-shaped; see 'finger' 04.340. Kuruáya dialect is pëy.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.950",
+    "conceito": "sapo",
+    "original": "frog",
+    "formas": "mɨo; kore-kore",
+    "comentario": "õɲõɲ is a 'large toad'.; õɲõɲ is a 'large toad'.",
+    "capitulo": 99
+  },
+  {
+    "codigo": "3.970",
+    "conceito": "jacaré",
+    "original": "crocodile, alligator",
+    "formas": "apat",
+    "comentario": "",
+    "capitulo": 99
+  },
+  {
+    "codigo": "4.110",
+    "conceito": "corpo",
+    "original": "body",
+    "formas": "wɨy-ǰebit",
+    "comentario": "Cf. 'person' 02.100.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.120",
+    "conceito": "pele",
+    "original": "skin, hide",
+    "formas": "-še-ʔe",
+    "comentario": "Used as a classifier.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.140",
+    "conceito": "cabelo",
+    "original": "hair (head)",
+    "formas": "ya-d-ap",
+    "comentario": "Kuruáya dialect is ab. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.142",
+    "conceito": "barba",
+    "original": "beard",
+    "formas": "ibi-dap",
+    "comentario": "ibi is 'mouth'.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.150",
+    "conceito": "sangue",
+    "original": "blood",
+    "formas": "-d-oy",
+    "comentario": "Kuruáya dialect is ui. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.151",
+    "conceito": "veia/artéria",
+    "original": "vein, artery",
+    "formas": "čekɨ̃rɨ̃rɨ̃k-pɨ",
+    "comentario": "-pɨ ~ -bɨ is a classifier, meaning finger-shaped. See 'finger' 04.340.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.160",
+    "conceito": "osso",
+    "original": "bone",
+    "formas": "-dao",
+    "comentario": "Also used as a classifier; see 'spine' 04.191.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.162",
+    "conceito": "costela",
+    "original": "rib",
+    "formas": "-k-ša-bi",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.170",
+    "conceito": "chifre",
+    "original": "horn",
+    "formas": "-a-karã-sɨ̃",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.180",
+    "conceito": "cauda",
+    "original": "tail",
+    "formas": "-d-oay-bɨ",
+    "comentario": "Used as a classifier; see 'finger' 04.340. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.191",
+    "conceito": "coluna vertebral",
+    "original": "spine",
+    "formas": "kopi; wɨy dao",
+    "comentario": "-dao is also used as a classifier; see 'bone' 04.160. Cf. *Tupí-G 'spine' 04.191.; -dao is also used as a classifier; see 'bone' 04.160. Cf. *Tupí-G 'spine' 04.191.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.200",
+    "conceito": "cabeça",
+    "original": "head",
+    "formas": "yaʔa; ʔa",
+    "comentario": "Also used as a classifier -ʔa; see 'round' 12.810. Also in 'stone' 01.440; 'owl' 03.596; 'potato' 05.700. Kuruáya dialect is (ʔ)a. Cf. Tupí-G.; Also used as a classifier -ʔa; see 'round' 12.810. Also in 'stone' 01.440; 'owl' 03.596; 'potato' 05.700. Kuruáya dialect is (ʔ)a. Cf. Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.204",
+    "conceito": "rosto",
+    "original": "face",
+    "formas": "-d-opa",
+    "comentario": "Used as a classifier. Kuruáya dialect is upa. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.207",
+    "conceito": "mandíbula",
+    "original": "jaw",
+    "formas": "daǰe",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.210",
+    "conceito": "olho",
+    "original": "eye",
+    "formas": "i-ta",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.214",
+    "conceito": "cílio",
+    "original": "eyelash",
+    "formas": "i-ta-ʔẽbi",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.220",
+    "conceito": "orelha",
+    "original": "ear",
+    "formas": "-a-ɲɨy-bɨ",
+    "comentario": "Also -ipɨk, a classifier meaning 'shaft, ear'. as in mɨra-ipɨk, 'ear of corn'.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.230",
+    "conceito": "nariz",
+    "original": "nose",
+    "formas": "na-bɨ̃; tã-bɨ",
+    "comentario": "Also used as a classifier for things with a nose-shape, i.e., 'point'. Cf. *Tupí-G.; Also used as a classifier for things with a nose-shape, i.e., 'point'. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.240",
+    "conceito": "boca",
+    "original": "mouth",
+    "formas": "i-bi",
+    "comentario": "-bi is also a classifier, meaning 'opening'.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.260",
+    "conceito": "língua (órgão)",
+    "original": "tongue",
+    "formas": "-kõ",
+    "comentario": "Kuruáya dialect is kũ. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.270",
+    "conceito": "dente",
+    "original": "tooth",
+    "formas": "n-ɨ̃y",
+    "comentario": "Kuruáya dialect is ãi. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.280",
+    "conceito": "pescoço",
+    "original": "neck",
+    "formas": "-a-ɲo-bɨ",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.281",
+    "conceito": "nuca",
+    "original": "nape of neck",
+    "formas": "-ak-pida",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.300",
+    "conceito": "ombro",
+    "original": "shoulder",
+    "formas": "yaʔõ-pi-ʔa",
+    "comentario": "Lit. 'upper trunk-interior-round thing'.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.310",
+    "conceito": "braço",
+    "original": "arm",
+    "formas": "i-ba",
+    "comentario": "-ba is also used as a suffix classifier, for things that have an arm-shape. See 'banana' 08.840; 'wing' 04.392. Cf. Tupi-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.330",
+    "conceito": "mão",
+    "original": "hand",
+    "formas": "i-bɨ-nɨ̃ʔa; -bɨ̃-rɨ̃-ʔa",
+    "comentario": "Kuruáya dialect is bɨ.; Kuruáya dialect is bɨ.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.340",
+    "conceito": "dedo",
+    "original": "finger",
+    "formas": "i-bɨ",
+    "comentario": "Also used as a classifier, meaning finger-shaped, as in [arami]-bɨ 'wire', from Port. 'arame'. See 'snake' 03.850; 'vein' 04.151; 'tail' 04.180. Kuruáya dialect is bɨ 'hand'. Cf. *Tupí-G 'hand' 04.330.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.344",
+    "conceito": "unha",
+    "original": "fingernail",
+    "formas": "ibɨ-nɨ̃",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.345",
+    "conceito": "garra",
+    "original": "claw",
+    "formas": "-bɨ-nɨ",
+    "comentario": "Also classifier -ɨ̃rɨ̃, means 'nail' or 'claw'.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.350",
+    "conceito": "perna",
+    "original": "leg",
+    "formas": "dao; tao",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.360",
+    "conceito": "joelho",
+    "original": "knee",
+    "formas": "yɨ̃ɲ-ʔa; -ɨ̃ŋ-ʔa",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.370",
+    "conceito": "pé",
+    "original": "foot",
+    "formas": "sui; -i",
+    "comentario": "Latter also used as a classifier. Kuruáya dialect is i. Cf. *Tupí-G.; Latter also used as a classifier. Kuruáya dialect is i. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.372",
+    "conceito": "calcanhar",
+    "original": "heel",
+    "formas": "ida",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.374",
+    "conceito": "rastro/pegada",
+    "original": "footprint",
+    "formas": "ibɨt",
+    "comentario": "Kuruáya dialect is ibɨd.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.392",
+    "conceito": "asa",
+    "original": "wing",
+    "formas": "č-eɲe-ba",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.393",
+    "conceito": "pena",
+    "original": "feather",
+    "formas": "d-ap; tap",
+    "comentario": "Also used as a classifier for 'feather-like' things. Cf. *Tupí-G.; Also used as a classifier for 'feather-like' things. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.400",
+    "conceito": "peito/tórax",
+    "original": "chest",
+    "formas": "-kɨ̃m-pi",
+    "comentario": "Kuruáya dialect is kam.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.410",
+    "conceito": "seio (da mulher)",
+    "original": "breast (of woman)",
+    "formas": "-kɨ̃m",
+    "comentario": "Also used as a classifier. Kuruáya dialect is kam. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.440",
+    "conceito": "coração",
+    "original": "heart",
+    "formas": "-a-ʔõ-ša-bi-da",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.450",
+    "conceito": "fígado",
+    "original": "liver",
+    "formas": "-i-p-sa; -k-sa",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.451",
+    "conceito": "rim",
+    "original": "kidney",
+    "formas": "čekɨ̃rɨ̃rɨk-ta",
+    "comentario": "With suffix classifier -ta, meaning 'seed, eye'. See 'star' 01.540.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.460",
+    "conceito": "estômago",
+    "original": "stomach",
+    "formas": "i-ʔɨk",
+    "comentario": "-ʔɨk also occurs as a classifier on hollow objects. See 'horn' 04.170.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.461",
+    "conceito": "intestinos",
+    "original": "intestines, guts",
+    "formas": "-nɨ̃n-pɨ; tɨ̃n-pɨ",
+    "comentario": "Lit. 'dung-thin thing', with classifier -pɨ indicating a finger-shape. See 'finger' 04.340.; Lit. 'dung-thin thing', with classifier -pɨ indicating a finger-shape. See 'finger' 04.340.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.464",
+    "conceito": "nádegas",
+    "original": "buttocks",
+    "formas": "oay",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.510",
+    "conceito": "respirar",
+    "original": "breathe, breath",
+    "formas": "ǰe-pido-wat-wan",
+    "comentario": "Kuruáya dialect is bɨdu. See 'wind' 01.720. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.560",
+    "conceito": "saliva/cuspir",
+    "original": "spit",
+    "formas": "-bi-di",
+    "comentario": "Lit. 'mouth-liquid'.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.570",
+    "conceito": "vomitar",
+    "original": "vomit",
+    "formas": "ǰedadadan",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.580",
+    "conceito": "morder",
+    "original": "bite",
+    "formas": "iaham",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.610",
+    "conceito": "dormir",
+    "original": "sleep",
+    "formas": "šeše-n; i-šet; i-še",
+    "comentario": "Kuruáya dialect is šɛd. Cf. *Tupí-G.; Kuruáya dialect is šɛd. Cf. *Tupí-G.; Kuruáya dialect is šɛd. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.620",
+    "conceito": "sonhar",
+    "original": "dream",
+    "formas": "ǰešey-šey",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.630",
+    "conceito": "acordar",
+    "original": "wake up",
+    "formas": "ǰewɨrɨ̃ɲ",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.650",
+    "conceito": "urinar",
+    "original": "urinate",
+    "formas": "iǰok-ǰok-ǰoɲ",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.660",
+    "conceito": "defecar",
+    "original": "defecate",
+    "formas": "-nɨ̃n; tɨ̃n",
+    "comentario": "Means 'dung'. Also used as a classifier. See 'intestines' 04.461.; Means 'dung'. Also used as a classifier. See 'intestines' 04.461.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.690",
+    "conceito": "banhar-se",
+    "original": "bathe",
+    "formas": "aǰoɲ; aǰok",
+    "comentario": "Kuruáya dialect is aduk. Cf. *Tupí-G.; Kuruáya dialect is aduk. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.720",
+    "conceito": "nascer",
+    "original": "born (to be)",
+    "formas": "kam",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.740",
+    "conceito": "viver/vida",
+    "original": "live, living, life",
+    "formas": "itaʔit",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.750",
+    "conceito": "morrer/morto",
+    "original": "die, dead",
+    "formas": "ǰeʔɨ̃ʔɨ̃m; ʔɨ̃",
+    "comentario": "Also a-pap 'many people die'. Cf. *Tupí-G.; Also a-pap 'many people die'. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.760",
+    "conceito": "matar",
+    "original": "kill",
+    "formas": "yaokam; yaokakam",
+    "comentario": "Kuruáya dialect is yauka-. Cf. *Tupí-G.; Kuruáya dialect is yauka-. Cf. *Tupí-G.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.790",
+    "conceito": "sepultura/túmulo",
+    "original": "grave, tomb",
+    "formas": "wɨyǰɨyɨ̃ʔɨ̃mʔɨ̃m etaypi",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.810",
+    "conceito": "forte",
+    "original": "strong, mighty, powerful",
+    "formas": "ibača",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.820",
+    "conceito": "fraco",
+    "original": "weak",
+    "formas": "ibača-ʔɨ̃m; iča ɲɨ",
+    "comentario": "(?)",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.853",
+    "conceito": "inchaço",
+    "original": "swelling",
+    "formas": "ieɨhɨ; ieɨ",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.860",
+    "conceito": "curar",
+    "original": "cure, heal",
+    "formas": "ohom",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.880",
+    "conceito": "remédio",
+    "original": "medicine, drug",
+    "formas": "posɨ̃ŋ-ti",
+    "comentario": "'Liquid medicine'; -di is 'liquid'; see 'water' 01.310.",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.890",
+    "conceito": "veneno",
+    "original": "poison",
+    "formas": "ipiat; tɨ̃ypiat",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.912",
+    "conceito": "descansar",
+    "original": "rest",
+    "formas": "ǰebodoy-doy",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.920",
+    "conceito": "preguiçoso",
+    "original": "lazy",
+    "formas": "ibɨbɨʔɨʔɨ",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.940",
+    "conceito": "com dificuldade de locomoção (categoria da fonte)",
+    "original": "lame",
+    "formas": "čekɨkẽrẽat",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "4.970",
+    "conceito": "cego",
+    "original": "blind",
+    "formas": "ita-ʔɨ̃m",
+    "comentario": "",
+    "capitulo": 100
+  },
+  {
+    "codigo": "5.110",
+    "conceito": "comer",
+    "original": "eat",
+    "formas": "ǰe-kõn; iʔom",
+    "comentario": "Also ǰekõn-kõn and iʔo-om. Kuruáya dialect is kõn; (ʔ)u 'to drink'. Cf. *Tupí-G 'swallow' 05.181.; Also ǰekõn-kõn and iʔo-om. Kuruáya dialect is kõn; (ʔ)u 'to drink'. Cf. *Tupí-G 'swallow' 05.181.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.120",
+    "conceito": "alimento",
+    "original": "food",
+    "formas": "išat",
+    "comentario": "Also pɨy-bit. Kuruáya dialect is buy-. Cf. *Tupí-G form.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.122",
+    "conceito": "cru",
+    "original": "raw",
+    "formas": "it",
+    "comentario": "",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.123",
+    "conceito": "maduro",
+    "original": "ripe",
+    "formas": "rɨm",
+    "comentario": "",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.124",
+    "conceito": "verde/não maduro",
+    "original": "green, unripe",
+    "formas": "-kit",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.125",
+    "conceito": "podre",
+    "original": "rotten",
+    "formas": "-kẽrẽ",
+    "comentario": "Also -okok; -erep, referring to fruit. -ɲẽm refers to meat.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.130",
+    "conceito": "beber",
+    "original": "drink",
+    "formas": "iʔom; tikõn",
+    "comentario": "Also tikõn-kõn. Kuruáya dialect is (ʔ)u. Cf. *Tupí-G 'eat' 05.110.; Also tikõn-kõn. Kuruáya dialect is (ʔ)u. Cf. *Tupí-G 'eat' 05.110.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.140",
+    "conceito": "fome",
+    "original": "hunger",
+    "formas": "ire",
+    "comentario": "",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.150",
+    "conceito": "sede",
+    "original": "thirst",
+    "formas": "ibipɨrɨk",
+    "comentario": "",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.160",
+    "conceito": "sugar",
+    "original": "suck",
+    "formas": "diʔoʔm",
+    "comentario": "Also imɨkonõm-konõm. 'To suckle' is imɨytitin; ǰetitin.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.230",
+    "conceito": "assar/fritar",
+    "original": "roast, fry",
+    "formas": "imɨ-karaw-karaw",
+    "comentario": "Means 'toasting it'.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.260",
+    "conceito": "recipiente de cozinhar",
+    "original": "pot, cooking vessel",
+    "formas": "i-tĩŋ-ʔa",
+    "comentario": "",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.280",
+    "conceito": "panela",
+    "original": "pan",
+    "formas": "kaǰarãoʔa",
+    "comentario": "",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.350",
+    "conceito": "recipiente de beber",
+    "original": "cup, drinking vessel",
+    "formas": "kapedi kõn-kõɲap",
+    "comentario": "",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.380",
+    "conceito": "faca",
+    "original": "knife (2)",
+    "formas": "kise; kisẽ",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.480",
+    "conceito": "raspar",
+    "original": "scrape",
+    "formas": "ikɨrɨsɨsɨ; ikorerem",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.530",
+    "conceito": "massa",
+    "original": "dough",
+    "formas": "tõm; nõm",
+    "comentario": "tɨ̃mɨ̃n-tõm-tõm refers to any dough; šĩn-tõm refers to flour dough; akoba-nõm refers to banana dough.; tɨ̃mɨ̃n-tõm-tõm refers to any dough; šĩn-tõm refers to flour dough; akoba-nõm refers to banana dough.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.610",
+    "conceito": "carne",
+    "original": "meat",
+    "formas": "-ẽn",
+    "comentario": "Used as a classifier.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.660",
+    "conceito": "feijão",
+    "original": "bean",
+    "formas": "pišãoda; kaǰɨ̃rɨ̃ba",
+    "comentario": "",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.700",
+    "conceito": "batata",
+    "original": "potato",
+    "formas": "wešik-ʔa",
+    "comentario": "-ʔa is a classifier, meaning 'head' 04.200.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.710",
+    "conceito": "fruta",
+    "original": "fruit",
+    "formas": "-ʔa; tɨ-mɨ̃n-ʔa-ʔa",
+    "comentario": "-ʔa is a classifier, meaning 'head' 04.220. Kuruáya dialect is (ʔ)a. Cf. *Tupí-G.; -ʔa is a classifier, meaning 'head' 04.220. Kuruáya dialect is (ʔ)a. Cf. *Tupí-G.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.760",
+    "conceito": "uva",
+    "original": "grape",
+    "formas": "ɨva-ʔa",
+    "comentario": "From Port. 'uva'.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.770",
+    "conceito": "castanha/noz",
+    "original": "nut",
+    "formas": "-ĩ",
+    "comentario": "Used as a classifier.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.791",
+    "conceito": "gordura",
+    "original": "grease, fat",
+    "formas": "i-šep",
+    "comentario": "Kuruáya dialect is šep-. Cf. *Tupí-G.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.810",
+    "conceito": "sal",
+    "original": "salt",
+    "formas": "kawta",
+    "comentario": "",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.840",
+    "conceito": "mel",
+    "original": "honey",
+    "formas": "mɨɲẽɲẽm",
+    "comentario": "Also eit. Kuruáya dialect is eid. Cf. *Tupí-G.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "5.970",
+    "conceito": "ovo",
+    "original": "egg",
+    "formas": "-d-op-sa; t-op-sa",
+    "comentario": "Kuruáya dialect is upia. Cf. *Tupí-G.; Kuruáya dialect is upia. Cf. *Tupí-G.",
+    "capitulo": 101
+  },
+  {
+    "codigo": "6.120",
+    "conceito": "roupa",
+    "original": "clothing, clothes",
+    "formas": "doti; say",
+    "comentario": "",
+    "capitulo": 102
+  },
+  {
+    "codigo": "6.210",
+    "conceito": "tecido",
+    "original": "cloth",
+    "formas": "paɲo",
+    "comentario": "From Port. 'pano'.",
+    "capitulo": 102
+  },
+  {
+    "codigo": "6.240",
+    "conceito": "algodão",
+    "original": "cotton",
+    "formas": "bõrõ-ʔip",
+    "comentario": "Cf. 'thread' 06.380; 'tree' 08.840.",
+    "capitulo": 102
+  },
+  {
+    "codigo": "6.350",
+    "conceito": "costurar",
+    "original": "sew",
+    "formas": "i-inɨ̃m-nɨ̃m",
+    "comentario": "",
+    "capitulo": 102
+  },
+  {
+    "codigo": "6.380",
+    "conceito": "linha",
+    "original": "thread",
+    "formas": "bõrõ-bɨ",
+    "comentario": "",
+    "capitulo": 102
+  },
+  {
+    "codigo": "6.420",
+    "conceito": "vestido",
+    "original": "woman's dress",
+    "formas": "wɨye-say",
+    "comentario": "",
+    "capitulo": 102
+  },
+  {
+    "codigo": "6.460",
+    "conceito": "saia",
+    "original": "skirt",
+    "formas": "say",
+    "comentario": "",
+    "capitulo": 102
+  },
+  {
+    "codigo": "6.480",
+    "conceito": "calça",
+    "original": "trousers",
+    "formas": "wɨy-doti",
+    "comentario": "",
+    "capitulo": 102
+  },
+  {
+    "codigo": "6.730",
+    "conceito": "anel",
+    "original": "ring (for finger)",
+    "formas": "pɨmɨ̃n",
+    "comentario": "",
+    "capitulo": 102
+  },
+  {
+    "codigo": "6.770",
+    "conceito": "brinco",
+    "original": "earring",
+    "formas": "ɲɨybɨda",
+    "comentario": "",
+    "capitulo": 102
+  },
+  {
+    "codigo": "7.110",
+    "conceito": "morar",
+    "original": "dwell, live",
+    "formas": "-wat",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 103
+  },
+  {
+    "codigo": "7.120",
+    "conceito": "casa",
+    "original": "house",
+    "formas": "ɨk-ʔa; -dɨkʔa",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 103
+  },
+  {
+    "codigo": "7.130",
+    "conceito": "abrigo/cabana",
+    "original": "hut",
+    "formas": "da-at",
+    "comentario": "Means 'temporary shelter'. Cf. *Tupí-G 'village' 19.160.",
+    "capitulo": 103
+  },
+  {
+    "codigo": "7.220",
+    "conceito": "porta",
+    "original": "door, gate",
+    "formas": "šĩntabi ikoče",
+    "comentario": "",
+    "capitulo": 103
+  },
+  {
+    "codigo": "7.240",
+    "conceito": "chave",
+    "original": "key",
+    "formas": "tomɨdipʔɨkʔɨkap",
+    "comentario": "",
+    "capitulo": 103
+  },
+  {
+    "codigo": "7.370",
+    "conceito": "escada",
+    "original": "ladder",
+    "formas": "wadaɲɲɨ̃n",
+    "comentario": "",
+    "capitulo": 103
+  },
+  {
+    "codigo": "7.420",
+    "conceito": "cama",
+    "original": "bed",
+    "formas": "šešečap",
+    "comentario": "Cf. 'sleep' 04.610. 'Hammock (net)' is ɨ̃rɨ̃.",
+    "capitulo": 103
+  },
+  {
+    "codigo": "7.450",
+    "conceito": "lamparina",
+    "original": "lamp, torch",
+    "formas": "lamparina",
+    "comentario": "From Port. 'lampião'.",
+    "capitulo": 103
+  },
+  {
+    "codigo": "7.460",
+    "conceito": "vela",
+    "original": "candle",
+    "formas": "sera-bɨ",
+    "comentario": "From Port. 'cera' (wax).",
+    "capitulo": 103
+  },
+  {
+    "codigo": "8.120",
+    "conceito": "campo de cultivo",
+    "original": "field (for cultivation)",
+    "formas": "koɲɨ̃npi",
+    "comentario": "Also classifier -dip indicates a field (cultivated or wild). Also kɨ, means 'clearing the ground'. Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.130",
+    "conceito": "jardim",
+    "original": "garden",
+    "formas": "kadai daidadaap",
+    "comentario": "",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.160",
+    "conceito": "cerca",
+    "original": "fence",
+    "formas": "korara",
+    "comentario": "To 'enclose' is imɨwedim.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.220",
+    "conceito": "cavar",
+    "original": "dig",
+    "formas": "i-kɨ̃y-kotkon",
+    "comentario": "Also ikotkon iǰoče. Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.240",
+    "conceito": "pá",
+    "original": "shovel",
+    "formas": "šit",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.311",
+    "conceito": "semente",
+    "original": "seed",
+    "formas": "-da; ta",
+    "comentario": "Also used as classifier for seed-shaped thing. Also means 'eye' 04.210.; Also used as classifier for seed-shaped thing. Also means 'eye' 04.210.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.470",
+    "conceito": "milho",
+    "original": "maize, corn",
+    "formas": "mɨra-da",
+    "comentario": "",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.510",
+    "conceito": "capim",
+    "original": "grass",
+    "formas": "kapĩ-i-dip",
+    "comentario": "",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.540",
+    "conceito": "raiz",
+    "original": "root",
+    "formas": "-na-bɨ; ka-na-bɨ",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.550",
+    "conceito": "galho",
+    "original": "branch",
+    "formas": "takɨ̃; taypa",
+    "comentario": "",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.560",
+    "conceito": "folha",
+    "original": "leaf",
+    "formas": "-d-ɨp",
+    "comentario": "-dɨp is a classifier for things with a flat, leaf shape, e.g. wakĩrĩma-dɨp 'piraña fish'. See 'sting ray' 03.664; 'bat' 03.591; 'paper' 18.560. Kuruáya dialect is ëib. Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.570",
+    "conceito": "flor",
+    "original": "flower",
+    "formas": "-dit; tit",
+    "comentario": "Used as a classifier. Kuruáya dialect is tit. Cf. *Tupí-G.; Used as a classifier. Kuruáya dialect is tit. Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.680",
+    "conceito": "tabaco",
+    "original": "tobacco",
+    "formas": "e",
+    "comentario": "",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.690",
+    "conceito": "fumar (tabaco)",
+    "original": "smoke (tobacco)",
+    "formas": "e; ediɲ-ʔoʔom",
+    "comentario": "Kuruáya dialect is e-. Cf. *Tupí-G.; Kuruáya dialect is e-. Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.750",
+    "conceito": "casca (vegetal)",
+    "original": "bark",
+    "formas": "i-be; y-op-šee",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.840",
+    "conceito": "bananeira",
+    "original": "banana tree",
+    "formas": "ako-ʔip",
+    "comentario": "With classifier -ʔip, meaning 'wood, tree'. ako-ba is 'banana'. Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.910",
+    "conceito": "batata-doce",
+    "original": "sweet potato",
+    "formas": "wešik",
+    "comentario": "Kuruáya dialect is weǰik. Cf. *Tupí-G.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.920",
+    "conceito": "mandioca",
+    "original": "tapioca, manioc, cassava",
+    "formas": "mɨsɨk-ta",
+    "comentario": "mɨsɨk-tõm is 'manioc meal', with classifier -nõm ~ -tõm, meaning 'meal'. šĩnetãʔẽ is 'manioc tapioca'; šĩn-tõm is 'manioc gruel'.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.930",
+    "conceito": "cabaça",
+    "original": "gourd",
+    "formas": "waʔe",
+    "comentario": "Means 'bottlegourd'. Kuruáya dialect is waɛ. Cf. *Tupí-G 'plate' 05.320.",
+    "capitulo": 104
+  },
+  {
+    "codigo": "8.941",
+    "conceito": "cana",
+    "original": "sugar cane",
+    "formas": "kaɲa",
+    "comentario": "",
+    "capitulo": 104
+  },
+  {
+    "codigo": "9.160",
+    "conceito": "amarrar",
+    "original": "tie, bind",
+    "formas": "imɨkɨŋ-ɨkɨŋ",
+    "comentario": "Also mɨ̃n; imɨ̃nmɨ̃n; imɨkirikkiriŋ. Cf. *Tupí-G.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.161",
+    "conceito": "desamarrar",
+    "original": "untie",
+    "formas": "ǰeperem",
+    "comentario": "",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.190",
+    "conceito": "corda",
+    "original": "rope, cord",
+    "formas": "i-ši-bɨ; boro-bɨ",
+    "comentario": "Also means 'thread' 06.380.; Also means 'thread' 06.380.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.210",
+    "conceito": "bater",
+    "original": "strike (hit, beat)",
+    "formas": "imɨpãm",
+    "comentario": "Also imɨpãpãpãm.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.220",
+    "conceito": "cortar",
+    "original": "cut",
+    "formas": "t-akat-kan",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.222",
+    "conceito": "talhar",
+    "original": "chop, hew",
+    "formas": "imɨwekakam",
+    "comentario": "",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.250",
+    "conceito": "machado",
+    "original": "ax",
+    "formas": "o-ʔa",
+    "comentario": "",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.260",
+    "conceito": "quebrar",
+    "original": "break",
+    "formas": "ka",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.261",
+    "conceito": "quebrado",
+    "original": "broken",
+    "formas": "ibaɲ-baɲ",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.280",
+    "conceito": "rasgar",
+    "original": "tear",
+    "formas": "iwek-wek",
+    "comentario": "",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.310",
+    "conceito": "esfregar/limpar",
+    "original": "rub, wipe",
+    "formas": "imɨ-wesɨ-wesɨm",
+    "comentario": "",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.330",
+    "conceito": "puxar",
+    "original": "pull",
+    "formas": "imɨpɨšik-pɨšiŋ",
+    "comentario": "",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.343",
+    "conceito": "espremer",
+    "original": "squeeze, wring",
+    "formas": "iya-i-him",
+    "comentario": "Reduplication of single V stem is -hVm.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.360",
+    "conceito": "lavar",
+    "original": "wash",
+    "formas": "i-wɨy-wɨy",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.460",
+    "conceito": "perfurar",
+    "original": "bore",
+    "formas": "im-ɨtok-ɨtoɲ",
+    "comentario": "Also ǰe-tok; mɨ-tok. Kuruáya dialect is na-tug. Cf. *Tupí-G.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.500",
+    "conceito": "prego",
+    "original": "nail",
+    "formas": "tapoa",
+    "comentario": "",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.560",
+    "conceito": "cola",
+    "original": "glue",
+    "formas": "mɨ̃n",
+    "comentario": "Also išik. Cf. *Tupí-G.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "9.880",
+    "conceito": "tinta",
+    "original": "paint (noun)",
+    "formas": "bara-rak",
+    "comentario": "Kuruáya dialect is bara-rag. Cf. *Tupí-G.",
+    "capitulo": 105
+  },
+  {
+    "codigo": "10.120",
+    "conceito": "virar",
+    "original": "turn over",
+    "formas": "šĩŋ-šĩŋ ǰepin",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.130",
+    "conceito": "virar-se",
+    "original": "turn around",
+    "formas": "yabitoro",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.170",
+    "conceito": "torcer",
+    "original": "twist",
+    "formas": "pen",
+    "comentario": "Cf. *Tupí-G 'braid' 06.921.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.230",
+    "conceito": "cair",
+    "original": "fall",
+    "formas": "ʔat-ʔan",
+    "comentario": "Kuruáya dialect is (ʔ)ad. Cf. *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.250",
+    "conceito": "lançar",
+    "original": "throw",
+    "formas": "imɨ̃n-mɨ̃n",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.330",
+    "conceito": "afundar",
+    "original": "sink",
+    "formas": "imɨakõm-kõm",
+    "comentario": "(?)",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.340",
+    "conceito": "flutuar",
+    "original": "float",
+    "formas": "-ǰe-bok-bok",
+    "comentario": "Means 'was floating'.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.350",
+    "conceito": "nadar",
+    "original": "swim",
+    "formas": "ǰedoɲ; ǰekodododon",
+    "comentario": "Also ǰekodododon; ǰedoŋdoŋdoŋ.; Also ǰekodododon; ǰedoŋdoŋdoŋ.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.370",
+    "conceito": "voar",
+    "original": "fly (vb)",
+    "formas": "ǰepɨpɨpɨm",
+    "comentario": "Cf. *Tupí-G 'float' 10.340.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.380",
+    "conceito": "soprar",
+    "original": "blow",
+    "formas": "imɨpow-ɨpow",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.410",
+    "conceito": "rastejar",
+    "original": "creep, crawl",
+    "formas": "ǰewɨrɨrɨrɨɲ",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.440",
+    "conceito": "dançar",
+    "original": "dance",
+    "formas": "daʔiʔim",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.450",
+    "conceito": "andar",
+    "original": "walk",
+    "formas": "šĩŋ-šĩŋ",
+    "comentario": "Also ǰešĩŋšĩŋ; čɨ̃ŋčɨ̃ŋ and ekɨ, to compare with *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.451",
+    "conceito": "mancar",
+    "original": "limp",
+    "formas": "čekɨkẽrẽat",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.470",
+    "conceito": "ir",
+    "original": "go",
+    "formas": "čɨm; ǰɨ",
+    "comentario": "Kuruáya dialect is ǰɨ; dɨ. 'To pass' is kap. Kuruáya kab. Cf. *Tupí-G.; Kuruáya dialect is ǰɨ; dɨ. 'To pass' is kap. Kuruáya kab. Cf. *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.472",
+    "conceito": "subir",
+    "original": "climb",
+    "formas": "ǰe-ɨ-hɨm",
+    "comentario": "Reduplication of single V stem is -hVm. Cf. Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.474",
+    "conceito": "sair",
+    "original": "go out",
+    "formas": "ǰẽm",
+    "comentario": "Cf. *Tupí-Guaraní.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.480",
+    "conceito": "vir",
+    "original": "come",
+    "formas": "don; dodon; e-ǰot",
+    "comentario": "Also e-ǰot; ot. Kuruáya dialect is ud. Cf. *Tupí-G.; Also e-ǰot; ot. Kuruáya dialect is ud. Cf. *Tupí-G.; Also e-ǰot; ot. Kuruáya dialect is ud. Cf. *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.481",
+    "conceito": "voltar",
+    "original": "come back",
+    "formas": "ǰepit",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.490",
+    "conceito": "partir",
+    "original": "go away, depart",
+    "formas": "ǰewemɨwẽnɨwẽn",
+    "comentario": "Also ǰẽm; čẽm-čẽm; oʔǰẽm; i-wat. Cf. *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.520",
+    "conceito": "seguir",
+    "original": "follow",
+    "formas": "nomɨǰɨ",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.550",
+    "conceito": "chegar",
+    "original": "reach, arrive",
+    "formas": "aǰẽm",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.570",
+    "conceito": "entrar",
+    "original": "enter",
+    "formas": "õmõm",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.610",
+    "conceito": "carregar",
+    "original": "carry (bear)",
+    "formas": "tɨǰowatwan",
+    "comentario": "Also ikukuɲ.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.620",
+    "conceito": "trazer",
+    "original": "bring",
+    "formas": "toǰon",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.670",
+    "conceito": "empurrar",
+    "original": "push, shove",
+    "formas": "imɨwɨn-ɨwɨn",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.710",
+    "conceito": "estrada",
+    "original": "road",
+    "formas": "e",
+    "comentario": "Kuruáya dialect is -ɛ. Cf. *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.720",
+    "conceito": "caminho",
+    "original": "path",
+    "formas": "e",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.831",
+    "conceito": "canoa",
+    "original": "canoe",
+    "formas": "kobe",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.852",
+    "conceito": "remar",
+    "original": "row (vb)",
+    "formas": "koy-koy",
+    "comentario": "",
+    "capitulo": 106
+  },
+  {
+    "codigo": "10.910",
+    "conceito": "porto",
+    "original": "harbor, port",
+    "formas": "wɨ̃y",
+    "comentario": "Kuruáya dialect is oaĩ; wãy. Cf. *Tupi-G.",
+    "capitulo": 106
+  },
+  {
+    "codigo": "11.110",
+    "conceito": "ter",
+    "original": "have",
+    "formas": "ikɨɲ",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.120",
+    "conceito": "possuir",
+    "original": "own, possess",
+    "formas": "ikɨɲ",
+    "comentario": "i-wat means 'owner'. Cf. *Tupí-G.",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.130",
+    "conceito": "pegar/tomar",
+    "original": "take",
+    "formas": "ɨk",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.140",
+    "conceito": "agarrar/apoderar-se",
+    "original": "seize, grasp",
+    "formas": "ǰat",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.150",
+    "conceito": "segurar",
+    "original": "hold",
+    "formas": "ǰat; eǰoʔišik; čoʔi",
+    "comentario": "The former means 'take hold of'. Cf. *Tupí-G.; The former means 'take hold of'. Cf. *Tupí-G.; The former means 'take hold of'. Cf. *Tupí-G.",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.160",
+    "conceito": "obter/conseguir",
+    "original": "get, obtain",
+    "formas": "bɨm",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.180",
+    "conceito": "coisa",
+    "original": "thing",
+    "formas": "tɨmɨ̃n",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.210",
+    "conceito": "dar",
+    "original": "give",
+    "formas": "iɨ̃mɨ̃m",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.310",
+    "conceito": "procurar/buscar",
+    "original": "seek, look for",
+    "formas": "ǰeakaɲ",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.330",
+    "conceito": "perder",
+    "original": "lose",
+    "formas": "opat",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.430",
+    "conceito": "dinheiro",
+    "original": "money",
+    "formas": "ibɨbɨtpɨpɨap",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.440",
+    "conceito": "moeda",
+    "original": "coin",
+    "formas": "diɲeiro isɨrɨ̃ɲat",
+    "comentario": "From Port. 'dinheiro'.",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.510",
+    "conceito": "rico",
+    "original": "rich",
+    "formas": "ibɨbɨt adeat",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.650",
+    "conceito": "pagar",
+    "original": "pay (vb)",
+    "formas": "teidam",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.810",
+    "conceito": "comprar",
+    "original": "buy",
+    "formas": "ibɨm",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.840",
+    "conceito": "comerciante",
+    "original": "merchant",
+    "formas": "tarek-rek ɨ̃mɨ̃mʔɨkat",
+    "comentario": "",
+    "capitulo": 107
+  },
+  {
+    "codigo": "11.860",
+    "conceito": "loja",
+    "original": "store, shop",
+    "formas": "tarek-rek mɨ̃nʔa",
+    "comentario": "Also tarek-rek pɨpɨapʔa.",
+    "capitulo": 107
+  },
+  {
+    "codigo": "12.10",
+    "conceito": "atrás/depois (posição na fonte)",
+    "original": "after",
+    "formas": "ɲɨyǰom",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.50",
+    "conceito": "dentro",
+    "original": "inside, in",
+    "formas": "-pi",
+    "comentario": "Used as a classifier. Kuruáya dialect is bɛ. Cf. *Tupí-G.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.130",
+    "conceito": "sentar",
+    "original": "sit",
+    "formas": "šik-ʔi",
+    "comentario": "Also abik. Kuruáya dialect is abig. Cf. *Tupí-G.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.140",
+    "conceito": "deitar",
+    "original": "lie down",
+    "formas": "po-ʔi",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.150",
+    "conceito": "ficar em pé",
+    "original": "stand",
+    "formas": "čɨ̃ŋ-ʔi",
+    "comentario": "Cf. 'straight' 12.730.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.160",
+    "conceito": "permanecer",
+    "original": "remain, stay",
+    "formas": "op",
+    "comentario": "Cf. *Tupí-G 'to lie down' (?). Cf. 'arrow' 20.250 (?).",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.220",
+    "conceito": "unir",
+    "original": "join, unite",
+    "formas": "imɨwebotbon",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.230",
+    "conceito": "separar",
+    "original": "separate",
+    "formas": "ǰekpiwan ma",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.240",
+    "conceito": "abrir",
+    "original": "open",
+    "formas": "tomɨdipʔɨkʔɨk",
+    "comentario": "Also ikoče.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.260",
+    "conceito": "cobrir",
+    "original": "cover",
+    "formas": "yaǰɨyǰɨy; aǰɨy",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.310",
+    "conceito": "alto/acima",
+    "original": "high",
+    "formas": "tao-beren",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.410",
+    "conceito": "lado direito",
+    "original": "right (side)",
+    "formas": "i-baʔat; wɨybaat",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.420",
+    "conceito": "lado esquerdo",
+    "original": "left (side)",
+    "formas": "-baʔĩŋ; wɨybaʔɨ̃ɲat",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.430",
+    "conceito": "perto",
+    "original": "near (adv)",
+    "formas": "četẽɲ ma; češe",
+    "comentario": "Also -ǰa sɨ̃n; -ǰa ɨ̃n ma.; Also -ǰa sɨ̃n; -ǰa ɨ̃n ma.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.440",
+    "conceito": "longe",
+    "original": "far (adv)",
+    "formas": "wɨ̃y",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.450",
+    "conceito": "leste",
+    "original": "east",
+    "formas": "kaši čẽm-čẽmatkadi",
+    "comentario": "kaši is 'sun' 01.520.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.550",
+    "conceito": "grande",
+    "original": "large, big",
+    "formas": "-oboŋ; -boŋ",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.560",
+    "conceito": "pequeno",
+    "original": "small, little",
+    "formas": "-ĩtma; -istma",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.570",
+    "conceito": "comprido",
+    "original": "long",
+    "formas": "-beren",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.580",
+    "conceito": "alto (dimensão)",
+    "original": "tall",
+    "formas": "-beren",
+    "comentario": "Also ɨm 'very tall'. Cf. *Tupí-G 'stand' 12.150.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.590",
+    "conceito": "curto",
+    "original": "short",
+    "formas": "tao-apĩn",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.610",
+    "conceito": "largo",
+    "original": "wide, broad",
+    "formas": "i-erɨnboɲat",
+    "comentario": "E.g. a 'board'. tiwãbɨboŋ refers to something as a 'river'; -põŋ-bõŋ as a 'dress'.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.620",
+    "conceito": "estreito",
+    "original": "narrow",
+    "formas": "-erɨ̃nĩtma",
+    "comentario": "E.g. a 'board'. tičɨ̃ŋ refers to something as a 'river'; -kɨŋ lɨŋ, as a 'dress'.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.630",
+    "conceito": "grosso",
+    "original": "thick (in dimension)",
+    "formas": "-adišiŋ",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.650",
+    "conceito": "fino",
+    "original": "thin (in dimension)",
+    "formas": "-erɨ̃n",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.730",
+    "conceito": "reto",
+    "original": "straight",
+    "formas": "-čɨ̃ŋ",
+    "comentario": "Cf. 'stand' 12.150.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.810",
+    "conceito": "redondo",
+    "original": "round",
+    "formas": "-doy dey",
+    "comentario": "E. g., a 'head'. arɨbɨ̃ŋ-bɨ̃ŋ refers to things such as a 'bucket'; awaketkɨt to a 'plate'. The suffixes ʔaʔa and ya are classifiers for 'round (objects)'. Cf. 'head' 04.200. Cf. *Tupí-G.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.820",
+    "conceito": "círculo",
+    "original": "circle",
+    "formas": "-ko-ren-ren",
+    "comentario": "Means 'encircling'.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.850",
+    "conceito": "buraco",
+    "original": "hole",
+    "formas": "-kɨ̃y",
+    "comentario": "Classifier meaning 'cavity', as in tɨ̃ykɨ̃y, 'tooth's cavity'. See 'cave' 01.280. Cf. *Tupí-G.",
+    "capitulo": 108
+  },
+  {
+    "codigo": "12.920",
+    "conceito": "semelhante",
+    "original": "like, similar",
+    "formas": "bɨšim",
+    "comentario": "",
+    "capitulo": 108
+  },
+  {
+    "codigo": "13.0",
+    "conceito": "zero/nada",
+    "original": "zero, nothing",
+    "formas": "kaʔɨ̃mɲɨ",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.10",
+    "conceito": "um",
+    "original": "one",
+    "formas": "pɨ̃ŋ; pɨ̃ɲ; pɨ̃ɲ ma",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.20",
+    "conceito": "dois",
+    "original": "two",
+    "formas": "šep-šep",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.30",
+    "conceito": "três",
+    "original": "three",
+    "formas": "e-ba-pɨ̃ŋ",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.40",
+    "conceito": "quatro",
+    "original": "four",
+    "formas": "e-ba-dip-dip",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.50",
+    "conceito": "cinco",
+    "original": "five",
+    "formas": "pɨ̃ŋ põŋ-bi; pɨ̃ɲ põɲbi",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.140",
+    "conceito": "todos",
+    "original": "every, all",
+    "formas": "soat",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.150",
+    "conceito": "muitos",
+    "original": "much, many",
+    "formas": "ade",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.170",
+    "conceito": "poucos",
+    "original": "little (quantity), few",
+    "formas": "ade ɲɨ",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.181",
+    "conceito": "alguns",
+    "original": "some",
+    "formas": "pɨ̃ŋ-pɨ̃ŋ",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.210",
+    "conceito": "cheio",
+    "original": "full",
+    "formas": "topapɨ̃n; yanopapɨ̃n",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.220",
+    "conceito": "vazio",
+    "original": "empty",
+    "formas": "yabibɨk; yɨkpibɨk",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.330",
+    "conceito": "sozinho/somente",
+    "original": "alone, only",
+    "formas": "ǰaɲepɨ̃ɲ ma",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "13.350",
+    "conceito": "último",
+    "original": "last",
+    "formas": "kanomɨ̃m",
+    "comentario": "",
+    "capitulo": 109
+  },
+  {
+    "codigo": "14.130",
+    "conceito": "novo",
+    "original": "new",
+    "formas": "i-isɨ",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.150",
+    "conceito": "velho",
+    "original": "old",
+    "formas": "i-okok; kɨyat",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.210",
+    "conceito": "rápido",
+    "original": "swift, fast, quick",
+    "formas": "daosɨw-sɨw; dao ma",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.240",
+    "conceito": "atrasar",
+    "original": "retard, delay",
+    "formas": "ibɨn",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.252",
+    "conceito": "durar",
+    "original": "last, endure",
+    "formas": "ikoro",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.310",
+    "conceito": "sempre",
+    "original": "always",
+    "formas": "soat em; ...ʔɨk",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.410",
+    "conceito": "dia",
+    "original": "day",
+    "formas": "ka-bi-a",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.420",
+    "conceito": "noite",
+    "original": "night",
+    "formas": "i-ši-ma",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.480",
+    "conceito": "amanhã",
+    "original": "tomorrow",
+    "formas": "kabia-ʔisɨm",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.530",
+    "conceito": "relógio",
+    "original": "clock, timepiece",
+    "formas": "kašinɨ̃ɲ",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.730",
+    "conceito": "ano",
+    "original": "year",
+    "formas": "koato",
+    "comentario": "Means 'winter'.",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.740",
+    "conceito": "inverno",
+    "original": "winter",
+    "formas": "ihi",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "14.760",
+    "conceito": "verão",
+    "original": "summer",
+    "formas": "koato",
+    "comentario": "",
+    "capitulo": 110
+  },
+  {
+    "codigo": "15.210",
+    "conceito": "cheirar",
+    "original": "smell (vb intrans)",
+    "formas": "iyõyõn; teʔo",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.250",
+    "conceito": "cheiro agradável",
+    "original": "fragrant, good smelling",
+    "formas": "teʔo",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.350",
+    "conceito": "doce",
+    "original": "sweet",
+    "formas": "ikɨrɨ-kɨrɨ; yakɨrɨ-kɨrɨ",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.380",
+    "conceito": "azedo",
+    "original": "acid, sour",
+    "formas": "yasak; tisak",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.410",
+    "conceito": "ouvir",
+    "original": "hear",
+    "formas": "yaʔĩǰoǰom",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.420",
+    "conceito": "escutar",
+    "original": "listen",
+    "formas": "yaʔĩǰom",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.510",
+    "conceito": "ver",
+    "original": "see",
+    "formas": "i-ǰo-ǰom; ǰop",
+    "comentario": "Cf. *Tupí-G *tsub 'visit'.; Cf. *Tupí-G *tsub 'visit'.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.520",
+    "conceito": "olhar",
+    "original": "look, look at",
+    "formas": "ǰeakaɲ",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.550",
+    "conceito": "mostrar",
+    "original": "show",
+    "formas": "imɨbapɨɲ",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.560",
+    "conceito": "brilhar",
+    "original": "shine",
+    "formas": "isopsep",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.570",
+    "conceito": "brilhante",
+    "original": "bright",
+    "formas": "isopsep",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.640",
+    "conceito": "branco",
+    "original": "white",
+    "formas": "i-rɨt",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.650",
+    "conceito": "preto",
+    "original": "black",
+    "formas": "i-ok",
+    "comentario": "Also means 'darkness' 01.620.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.660",
+    "conceito": "vermelho",
+    "original": "red",
+    "formas": "i-pak-pɨk; ipekpɨk",
+    "comentario": "'Red' as with urucú dye. Reduplication with vowel change. Cf. 'yellow' 15.690.; 'Red' as with urucú dye. Reduplication with vowel change. Cf. 'yellow' 15.690.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.670",
+    "conceito": "azul",
+    "original": "blue",
+    "formas": "i-rem-rɨm",
+    "comentario": "Reduplication with vowel change.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.680",
+    "conceito": "verde",
+    "original": "green",
+    "formas": "-rem-rɨm",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.690",
+    "conceito": "amarelo",
+    "original": "yellow",
+    "formas": "i-pekpɨk",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.740",
+    "conceito": "duro",
+    "original": "hard",
+    "formas": "iča; yača",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.770",
+    "conceito": "liso",
+    "original": "smooth",
+    "formas": "-korop; -sẽm",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.810",
+    "conceito": "pesado",
+    "original": "heavy",
+    "formas": "i-poši; ta-poši",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.820",
+    "conceito": "leve",
+    "original": "light (in weight)",
+    "formas": "iyɨ",
+    "comentario": "(?)",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.830",
+    "conceito": "molhado",
+    "original": "wet, damp",
+    "formas": "iši; -direm",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.840",
+    "conceito": "seco",
+    "original": "dry",
+    "formas": "t-iap",
+    "comentario": "Refers to dampness of water. -pɨrɨk refers to 'dry' as in meat, etc.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.850",
+    "conceito": "quente",
+    "original": "hot",
+    "formas": "-d-ašip",
+    "comentario": "Kuruáya dialect is akib. Cf. *Tupí-G.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.851",
+    "conceito": "morno",
+    "original": "warm",
+    "formas": "t-ašip; tidašip; kašiepi",
+    "comentario": "Kuruáya dialect is akib.; Kuruáya dialect is akib.; Kuruáya dialect is akib.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.860",
+    "conceito": "frio",
+    "original": "cold",
+    "formas": "-čɨk",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.870",
+    "conceito": "limpo",
+    "original": "clean",
+    "formas": "i-sɨp-sɨm -",
+    "comentario": "Reduplication with homorganic nasal.",
+    "capitulo": 111
+  },
+  {
+    "codigo": "15.880",
+    "conceito": "sujo",
+    "original": "dirty, soiled",
+    "formas": "-okok",
+    "comentario": "",
+    "capitulo": 111
+  },
+  {
+    "codigo": "16.230",
+    "conceito": "alegre",
+    "original": "joyful, glad, happy",
+    "formas": "i-čok-čok",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.250",
+    "conceito": "rir",
+    "original": "laugh",
+    "formas": "ǰeway-way-way",
+    "comentario": "Kuruáya dialect is way. Cf. *Tupí-G *yay 'to mock'.",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.251",
+    "conceito": "sorrir",
+    "original": "smile",
+    "formas": "ibideway",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.260",
+    "conceito": "brincar",
+    "original": "play",
+    "formas": "kay-pat-pan",
+    "comentario": "Also išikšiɲ ~ šik. Cf. *Tupí-G.",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.270",
+    "conceito": "amar",
+    "original": "love",
+    "formas": "ǰɨy",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.320",
+    "conceito": "tristeza",
+    "original": "grief, sorrow, sadness",
+    "formas": "iɲɨ̃yčɨ̃ɲ",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.370",
+    "conceito": "chorar",
+    "original": "cry, weep",
+    "formas": "wa; šikʔa",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.380",
+    "conceito": "lágrima",
+    "original": "tear (noun)",
+    "formas": "wɨyetadi",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.410",
+    "conceito": "odiar",
+    "original": "hate",
+    "formas": "tep-tep",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.420",
+    "conceito": "raiva",
+    "original": "anger",
+    "formas": "yɨkpičeɲe",
+    "comentario": "Also itakoma.",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.530",
+    "conceito": "medo",
+    "original": "fear, fright",
+    "formas": "iparara",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.620",
+    "conceito": "desejar/querer",
+    "original": "desire, want",
+    "formas": "kay",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.660",
+    "conceito": "verdadeiro",
+    "original": "true",
+    "formas": "ičemãn",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.670",
+    "conceito": "mentir",
+    "original": "lie, tell lies",
+    "formas": "napapaʔɨkat; dapši",
+    "comentario": "Cf. *Tupí-G.; Cf. *Tupí-G.",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.710",
+    "conceito": "bom",
+    "original": "good",
+    "formas": "šipat",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.720",
+    "conceito": "ruim",
+    "original": "bad",
+    "formas": "šipat ɲɨ",
+    "comentario": "Lit. 'good ?'.",
+    "capitulo": 112
+  },
+  {
+    "codigo": "16.810",
+    "conceito": "bonito",
+    "original": "beautiful",
+    "formas": "idip",
+    "comentario": "",
+    "capitulo": 112
+  },
+  {
+    "codigo": "17.130",
+    "conceito": "pensar/refletir",
+    "original": "think (= reflect)",
+    "formas": "ǰewaɨ̃yɲɨy",
+    "comentario": "",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.170",
+    "conceito": "saber",
+    "original": "know",
+    "formas": "itaybit; wetaybit",
+    "comentario": "",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.180",
+    "conceito": "parecer",
+    "original": "seem",
+    "formas": "ǰebapɨk",
+    "comentario": "Cf. Guaraní.",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.220",
+    "conceito": "tolo (categoria da fonte)",
+    "original": "foolish, stupid",
+    "formas": "itaybitʔɨ̃m",
+    "comentario": "",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.320",
+    "conceito": "esquecer",
+    "original": "forget",
+    "formas": "yaɲɨybaʔɨ̃m",
+    "comentario": "",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.360",
+    "conceito": "segredo",
+    "original": "secret",
+    "formas": "yaʔõbidadadam",
+    "comentario": "",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.370",
+    "conceito": "certo/seguro",
+    "original": "sure, certain",
+    "formas": "čedaɲ ma",
+    "comentario": "Also -čɨ̃ŋ.",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.420",
+    "conceito": "causa",
+    "original": "cause",
+    "formas": "mɨ-",
+    "comentario": "",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.560",
+    "conceito": "negativo/não",
+    "original": "no, negative",
+    "formas": "ka-ʔɨ̃m-ma; ʔɨ̃m",
+    "comentario": "Kuruáya dialect is -(ʔ)um. Cf. *Tupí-G.; Kuruáya dialect is -(ʔ)um. Cf. *Tupí-G.",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.610",
+    "conceito": "como?",
+    "original": "how?",
+    "formas": "apẽn",
+    "comentario": "",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.650",
+    "conceito": "quando?",
+    "original": "when?",
+    "formas": "pɨǰe",
+    "comentario": "",
+    "capitulo": 113
+  },
+  {
+    "codigo": "17.680",
+    "conceito": "quem?",
+    "original": "who?",
+    "formas": "abɨ",
+    "comentario": "Kuruáya dialect is abui. Cf. *Tupí-G.",
+    "capitulo": 113
+  },
+  {
+    "codigo": "18.110",
+    "conceito": "voz",
+    "original": "voice",
+    "formas": "yaʔõ",
+    "comentario": "Also means 'language' 18.240. Also used as a classifier -aʔõ.",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.120",
+    "conceito": "cantar",
+    "original": "sing",
+    "formas": "ǰebibododon",
+    "comentario": "",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.210",
+    "conceito": "falar",
+    "original": "speak, talk",
+    "formas": "ǰededem; ǰekawẽn-wẽn",
+    "comentario": "",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.220",
+    "conceito": "dizer",
+    "original": "say",
+    "formas": "ʔe",
+    "comentario": "Cf. *Tupí-G.",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.221",
+    "conceito": "contar história",
+    "original": "tell story",
+    "formas": "kawẽn",
+    "comentario": "",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.240",
+    "conceito": "língua (idioma)",
+    "original": "language",
+    "formas": "yaʔõ",
+    "comentario": "",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.280",
+    "conceito": "nome",
+    "original": "name",
+    "formas": "i-bɨ-tet",
+    "comentario": "",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.520",
+    "conceito": "ler",
+    "original": "read",
+    "formas": "taperadɨp čočom",
+    "comentario": "",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.560",
+    "conceito": "papel",
+    "original": "paper",
+    "formas": "papera-dɨp",
+    "comentario": "From Port. 'papel'. -dɨp is a classifier for leaf-shaped things. See 'leaf' 08.560.",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.570",
+    "conceito": "caneta",
+    "original": "pen",
+    "formas": "rapi-ʔip",
+    "comentario": "Means 'pencil', from Port. 'lápis', with classifier -ʔip, meaning 'wood, tree' 01.430.",
+    "capitulo": 114
+  },
+  {
+    "codigo": "18.730",
+    "conceito": "corneta/trombeta",
+    "original": "horn, trumpet",
+    "formas": "i-bɨbɨt-ʔɨk",
+    "comentario": "Means 'hunting horn'. -ʔɨk is a classifier used for hollow objects.",
+    "capitulo": 114
+  },
+  {
+    "codigo": "19.110",
+    "conceito": "país/território político",
+    "original": "country",
+    "formas": "ipi",
+    "comentario": "Also means 'world' 01.100.",
+    "capitulo": 115
+  },
+  {
+    "codigo": "19.250",
+    "conceito": "bastão de apoio",
+    "original": "staff, walking stick",
+    "formas": "ʔip",
+    "comentario": "Also means 'wood' 01.430.",
+    "capitulo": 115
+  },
+  {
+    "codigo": "19.320",
+    "conceito": "rei/governante (categoria da fonte)",
+    "original": "king, ruler",
+    "formas": "iečɨɲap",
+    "comentario": "",
+    "capitulo": 115
+  },
+  {
+    "codigo": "19.460",
+    "conceito": "obedecer",
+    "original": "obey",
+    "formas": "kɨ̃yǰobit yaʔõ-kay",
+    "comentario": "Cf. 'language' 18.240.",
+    "capitulo": 115
+  },
+  {
+    "codigo": "20.110",
+    "conceito": "lutar",
+    "original": "fight (vb)",
+    "formas": "ǰewešikšiɲ",
+    "comentario": "Also ǰewaʔokakam.",
+    "capitulo": 116
+  },
+  {
+    "codigo": "20.170",
+    "conceito": "soldado",
+    "original": "soldier",
+    "formas": "sorara",
+    "comentario": "From Port. 'soldado'.",
+    "capitulo": 116
+  },
+  {
+    "codigo": "20.240",
+    "conceito": "arco",
+    "original": "bow",
+    "formas": "darɨk",
+    "comentario": "",
+    "capitulo": 116
+  },
+  {
+    "codigo": "20.250",
+    "conceito": "flecha",
+    "original": "arrow",
+    "formas": "op",
+    "comentario": "Kuruáya dialect is oub; uib. Cf. *Tupí-G.",
+    "capitulo": 116
+  },
+  {
+    "codigo": "20.610",
+    "conceito": "caçar",
+    "original": "hunt",
+    "formas": "ǰe-orok-oroŋ",
+    "comentario": "",
+    "capitulo": 116
+  },
+  {
+    "codigo": "21.160",
+    "conceito": "julgar",
+    "original": "judge (vb)",
+    "formas": "yɨkpiwat tekɨ iʔeʔem",
+    "comentario": "",
+    "capitulo": 117
+  },
+  {
+    "codigo": "21.520",
+    "conceito": "ladrão",
+    "original": "thief",
+    "formas": "ibɨkɨrɨkat",
+    "comentario": "",
+    "capitulo": 117
+  },
+  {
+    "codigo": "22.130",
+    "conceito": "templo/igreja",
+    "original": "temple, church",
+    "formas": "Deɨs tɨkʔa",
+    "comentario": "",
+    "capitulo": 118
+  }
+]
